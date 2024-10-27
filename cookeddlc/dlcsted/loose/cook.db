@@ -296,7 +296,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "388DD4D2-867F6DE4-CB415E59-0E48BC2A",
-            "diskSize": 15206
+            "diskSize": 15132
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\08_epilogues.w2phase",
@@ -871,7 +871,7 @@
             "class": "CWitcherGameResource",
             "seed": 1,
             "id": "4F9EEA32-9CACA107-0F3CFE0A-F8DE0367",
-            "diskSize": 524
+            "diskSize": 527
         },
         {
             "path": "dlc\\dlcsted\\data\\sted_audio_files\\dand_01_2116723045.wav",
@@ -974,14 +974,6 @@
             "diskSize": 1009
         },
         {
-            "path": "dlc\\dlcsted\\data\\sted_new.w2quest",
-            "level": 0,
-            "class": "CQuest",
-            "seed": 1,
-            "id": "64475A61-B18873E1-A0688C43-67765625",
-            "diskSize": 1304
-        },
-        {
             "path": "dlc\\dlcsted\\data\\sted_scenes\\old\\sted_01_at_the_crossroads.w2scene",
             "level": 0,
             "class": "CStoryScene",
@@ -1067,7 +1059,7 @@
             "class": "CDLCDefinition",
             "seed": 1,
             "id": "291ECCC8-500407B9-0BC3B2AE-98756D3E",
-            "diskSize": 1900
+            "diskSize": 1907
         },
         {
             "path": "dlc\\dlcsted\\journal\\characters\\essi.journal",
