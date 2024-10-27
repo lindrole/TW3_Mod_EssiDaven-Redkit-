@@ -1,0 +1,20 @@
+README.1ST
+-------------
+
+This directory is for files that cannot be generated with the radish tools but
+are intended as base for OTHER UNCOOKED files. The files will be copied into the
+uncooked folder BEFORE wcc lite is used to cook the project files. Since these
+files will be processed by wcc they MUST BE VALID WITHOUT ANY ERRORS.
+
+Note: files in this folder/subfolders WILL overwrite any radish generated files
+which match the path and name from the project.
+
+
+Directory Structure
+-------------------
+
+The root folder (additional.dlc.pre-cook) is meant to be the root of the dlc owned
+data, meaning:
+
+  additional.dlc.pre-cook   is treated like   dlc/dlc<modid>/
+
