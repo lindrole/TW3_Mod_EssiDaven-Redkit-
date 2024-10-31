@@ -8550,6 +8550,12 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116736161;"CStoryScene ""dlc\dlcsted\data\scenes\sted_geralt_gameplay.w2scene""";Line text;GRLT_STED_2116736161;;;;;;;;;;;;;;I'll come back to Triss when I'm done with this evil being.;;;;
 2116736162;"CStoryScene ""dlc\dlcsted\data\scenes\sted_03f_gp_interact_triss_after_ask.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116736163;"CStoryScene ""dlc\dlcsted\data\scenes\sted_03f_gp_interact_triss_after_ask.w2scene""";Line text;TRSS_STED_2116736163;;;;;;;;;;;;;;Don't dawdle on the way.;;;;
+2116736164;"CStoryScene ""dlc\dlcsted\data\scenes\sted_geralt_gameplay.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116736165;"CStoryScene ""dlc\dlcsted\data\scenes\sted_geralt_gameplay.w2scene""";Line text;GRLT_STED_2116736165;;;;;;;;;;;;;;I'm not going to risk waking her up.;;;;
+2116736166;"CStoryScene ""dlc\dlcsted\data\scenes\sted_geralt_gameplay.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116736167;"CStoryScene ""dlc\dlcsted\data\scenes\sted_geralt_gameplay.w2scene""";Line text;GRLT_STED_2116736167;;;;;;;;;;;;;;Otherwise, she will be in a foul mood.;;;;
+2116736168;"CStoryScene ""dlc\dlcsted\data\scenes\sted_geralt_gameplay.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116736169;"CStoryScene ""dlc\dlcsted\data\scenes\sted_geralt_gameplay.w2scene""";Line text;GRLT_STED_2116736169;;;;;;;;;;;;;;I will wait for the morning.;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Triss;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
 2116723002;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
