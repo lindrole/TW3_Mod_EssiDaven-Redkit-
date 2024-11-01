@@ -35,10 +35,10 @@
         "bob"
     ],
     "dirtyTileCellIndices": {
-        "levels\\prolog_village\\prolog_village.w2w": [
+        "levels\\skellige\\skellige.w2w": [
             [
-                14,
-                15
+                15,
+                18
             ]
         ]
     }
