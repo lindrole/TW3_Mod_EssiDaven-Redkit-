@@ -49,6 +49,30 @@
             "diskSize": 239765
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\ngcl_elven_sorceress.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "0098755E-B1FF14DE-A192D906-792B0E2B",
+            "diskSize": 197962
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\ngcl_medic.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "2C04A24B-F37C455E-0C6479B1-147B403C",
+            "diskSize": 401622
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\ngcl_quest_giver.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "B0D1C8D3-A1544436-D7A5A5EA-A3609172",
+            "diskSize": 406380
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\pearl_fx.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
@@ -89,6 +113,14 @@
             "diskSize": 145145
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\sheenaz.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "3994A763-976F898B-EDF9E838-7C6DB5FB",
+            "diskSize": 271386
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\sheenaz_actor.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
@@ -119,6 +151,14 @@
             "seed": 1,
             "id": "6B9F539D-05844527-7434FCF7-17414605",
             "diskSize": 36053
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_sheenaz.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "3354425C-78D5386C-B671A642-8E8C0038",
+            "diskSize": 271538
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\sted_triss.w2ent",
@@ -219,12 +259,20 @@
             "diskSize": 113417
         },
         {
+            "path": "dlc\\dlcsted\\data\\phases\\00_persistent_stuff.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "7B285D20-680DC1D0-E3B25101-5D592116",
+            "diskSize": 6661
+        },
+        {
             "path": "dlc\\dlcsted\\data\\phases\\01_dandelion_encounter.w2phase",
             "level": 0,
             "class": "CQuestPhase",
             "seed": 1,
             "id": "4676FA37-0DC79C9D-E2184262-30AAD027",
-            "diskSize": 15045
+            "diskSize": 16091
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\02a_gaunter_encounter.w2phase",
@@ -232,7 +280,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "FAB00EFD-70387DCE-A80AF3DC-72F732BA",
-            "diskSize": 7726
+            "diskSize": 8711
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\03_request_triss_help.w2phase",
@@ -240,7 +288,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "2613F517-E5E24F36-355B46ED-B21B8089",
-            "diskSize": 11302
+            "diskSize": 11830
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\04_request_yen_help.w2phase",
@@ -248,7 +296,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "63E6BAA3-E96DD151-90D92D6E-72852544",
-            "diskSize": 24763
+            "diskSize": 24337
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\05a_sheenaz_encounter.w2phase",
@@ -256,7 +304,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "3C3C1071-43E1C5C0-47D63ABC-9A2D82B0",
-            "diskSize": 13249
+            "diskSize": 14856
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\05b_search_for_pearl.w2phase",
@@ -320,7 +368,7 @@
             "class": "CQuest",
             "seed": 1,
             "id": "6682EB1D-A87CF5BB-F62169F7-53271477",
-            "diskSize": 160341
+            "diskSize": 136453
         },
         {
             "path": "dlc\\dlcsted\\data\\quest_levels.csv",
@@ -615,7 +663,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "24187439-938E1CAA-5C7B80CA-D2F783DC",
-            "diskSize": 30875
+            "diskSize": 30859
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_01b_exchange_on_the_road.w2scene",
@@ -623,7 +671,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "128FC7E0-307BC42A-37C9903E-420BAD7C",
-            "diskSize": 9944
+            "diskSize": 10406
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_01c_dandelion_shows_wyzima.w2scene",
@@ -639,7 +687,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "3BEFFF7E-E9516551-D6228644-7095DC13",
-            "diskSize": 63061
+            "diskSize": 63046
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_01e_dandelion_call_geralt.w2scene",
@@ -647,7 +695,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "1583A8FE-B7638955-5A6C5836-94BDA371",
-            "diskSize": 3957
+            "diskSize": 4122
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_02a_sunset.w2scene",
@@ -655,7 +703,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "AF66743C-BEA7D40C-72EA2D5C-28102CA7",
-            "diskSize": 11274
+            "diskSize": 11265
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_02b_mirror_encounter.w2scene",
@@ -663,7 +711,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "21F120AF-08526AC8-5B7D8EB8-4800A222",
-            "diskSize": 46554
+            "diskSize": 46748
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03a_open_bedroom_door_from_outside.w2scene",
@@ -679,7 +727,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "22C53171-7ABDD80E-CA70B12C-DAF6E320",
-            "diskSize": 7249
+            "diskSize": 7196
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03c_open_bedroom_door_from_inside.w2scene",
@@ -687,7 +735,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "7EB113B8-FCC3926F-B1AAF9F1-701EA438",
-            "diskSize": 7298
+            "diskSize": 7276
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03d_exit_bedroom.w2scene",
@@ -695,7 +743,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "00A2FFB2-989CA5B8-DAF9AE0A-83029CC1",
-            "diskSize": 7072
+            "diskSize": 7042
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03e_ask_triss.w2scene",
@@ -703,15 +751,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "2FC342E0-9BE3161A-570B340A-0D9BF7F1",
-            "diskSize": 44843
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_03f_gp_interact_triss_after_ask.w2scene",
-            "level": 0,
-            "class": "CStoryScene",
-            "seed": 1,
-            "id": "973B33D8-B57784E3-B444BAB3-53C957F3",
-            "diskSize": 2330
+            "diskSize": 54692
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03g_gp_bedroom_door.w2scene",
@@ -722,6 +762,22 @@
             "diskSize": 8365
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_04a_ask_yen.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "D0D5A57D-FF7CF789-A86BD91F-BC29B572",
+            "diskSize": 56270
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_05a_ask_sheenaz.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "ED98FA96-0BF6F2AE-319DC54E-2CE48E76",
+            "diskSize": 42314
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_fake_gp_scene.w2scene",
             "level": 0,
             "class": "CStoryScene",
@@ -730,12 +786,28 @@
             "diskSize": 8323
         },
         {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_geralt_gameplay.w2scene",
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_geralt.w2scene",
             "level": 0,
             "class": "CStoryScene",
             "seed": 1,
-            "id": "C52B20F6-C4F62F59-5806ACD9-18CBDE65",
-            "diskSize": 9772
+            "id": "1D919443-2471240D-10B102C1-7D9C214A",
+            "diskSize": 17238
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_triss.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "3AE00D57-C0C46A12-987FF067-55681BB1",
+            "diskSize": 3212
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_yen.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "286888AD-C27A9E43-E614FBCF-8C682295",
+            "diskSize": 4388
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\community_animal2.w2comm",
@@ -839,7 +911,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "0560D464-31ECD18F-F6B6D80D-CEFE7E5A",
-            "diskSize": 2152
+            "diskSize": 2027
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase4_chicken.w2comm",
@@ -847,7 +919,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "B4E9CC98-CE71DF07-AC9BB546-B3BBC829",
-            "diskSize": 2175
+            "diskSize": 2213
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase4_yen.w2comm",
@@ -855,7 +927,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "7DEA52E9-28A53FD6-B1E4B6CA-F41BA4B4",
-            "diskSize": 8789
+            "diskSize": 8775
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase4_yen_old.w2comm",
@@ -1094,60 +1166,132 @@
             "diskSize": 615
         },
         {
-            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted\\layer_kaer1\\actionpoints.w2l",
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\actionpoints.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "AE3A7D9D-3E4ED637-95FC71C0-0910F8D1",
+            "id": "65CE22A1-5DD5892F-D9F0DB82-4AE2BB79",
+            "diskSize": 924
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\debug.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "509EC0F4-2F794C6C-9AAA0E19-8ABB738B",
+            "diskSize": 736
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\lights.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "B26E2E97-889FE5C1-DF92285A-F2344906",
+            "diskSize": 227
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\mappins.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "A38B30DA-A830975A-683ED39E-39E48475",
+            "diskSize": 789
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\scenepoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "4E90707D-B308C041-2854AEAF-C905789B",
+            "diskSize": 780
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\triggerareas.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "CE21877C-8DC79B45-3DBE0F3B-1D38B07E",
+            "diskSize": 7822
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\waypoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "250D898F-85A69AFC-787DD5E3-DE9EB17C",
+            "diskSize": 988
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted_kaer\\layer_kaer1\\actionpoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "193C79CA-54889B9A-3B07657D-38906F5F",
             "diskSize": 995
         },
         {
-            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted\\layer_kaer1\\areas.w2l",
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted_kaer\\layer_kaer1\\areas.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "C72CD58A-69FC9148-C87A7C24-6DBACFB9",
+            "id": "1976172D-5A591857-208AAC8C-992014F1",
             "diskSize": 8316
         },
         {
-            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted\\layer_kaer1\\debug.w2l",
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted_kaer\\layer_kaer1\\debug.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "05015A0F-4F43109B-E29EC280-3DC05C62",
+            "id": "C328B3DA-7A5B0C61-E06F5EB1-D5BF720E",
             "diskSize": 784
         },
         {
-            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted\\layer_kaer1\\mappins.w2l",
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted_kaer\\layer_kaer1\\mappins.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "DE5E6D66-09B9E9F9-1B4E15F2-B4BF994E",
+            "id": "8BF04647-06FEAFE5-57FF48F9-38870E25",
             "diskSize": 848
         },
         {
-            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted\\layer_kaer1\\scenepoints.w2l",
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted_kaer\\layer_kaer1\\scenepoints.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "6C7A0094-4ADEEAF2-CD50BC0A-1D195DD4",
+            "id": "F9B13746-343B34A4-89E0B809-E271FE5C",
             "diskSize": 796
         },
         {
-            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted\\layer_kaer1\\waypoints.w2l",
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted_kaer\\layer_kaer1\\waypoints.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "8CDAD3B0-F7F3B809-3298CE37-C2F0D830",
+            "id": "D06A78B7-1B2F722F-94D1E02F-60254244",
             "diskSize": 1107
         },
         {
-            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted\\radish_dbg\\radish_dbginfo.w2l",
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\sted_kaer\\radish_dbg\\radish_dbginfo.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "A8FF2A25-DF93F012-EDB95750-F207E44E",
+            "id": "0653F174-74711362-18E9AD5B-36DBDA92",
             "diskSize": 1743
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_5a\\areas.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "103FD36F-40516555-7D78F748-F2237A83",
+            "diskSize": 3209
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_5a\\mappins.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "4F1C2848-41CAADD4-0914F10D-A2A861B3",
+            "diskSize": 796
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\sted\\debug\\debug.w2l",
@@ -1238,12 +1382,44 @@
             "diskSize": 1686
         },
         {
+            "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_1\\scenepoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "080AFFBC-FD8B0568-07EDD165-2977BD5A",
+            "diskSize": 1173
+        },
+        {
             "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_1\\triggerarea.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
             "id": "FEA3C721-01C1928D-0653A797-72EC91DE",
-            "diskSize": 2794
+            "diskSize": 7066
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_2\\mappins.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "FEC06DE1-716C945A-ED2C1742-3686900B",
+            "diskSize": 718
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_2\\scenepoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "CA68C433-C07A0049-CC28F567-98DF9044",
+            "diskSize": 739
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_2\\triggerarea.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "60864586-0294A469-8CF065F1-424C40C4",
+            "diskSize": 3995
         },
         {
             "path": "dlc\\dlcsted\\levels\\prolog_village\\sted\\layer_crossroad\\crossroad.w2l",
@@ -1251,7 +1427,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "1CEBBC62-CB99BDE6-A7576917-4692B486",
-            "diskSize": 10031
+            "diskSize": 10159
         },
         {
             "path": "dlc\\dlcsted\\levels\\prolog_village\\sted\\layer_near_grave\\actionpoints.w2l",
@@ -1348,6 +1524,38 @@
             "seed": 1,
             "id": "6E2E5BB3-E7448A97-CD503938-C71AA0AE",
             "diskSize": 3523
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\skellige\\phase_4\\actionpoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "E82A1BDC-32667034-B5F490DA-16B734E6",
+            "diskSize": 2350
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\skellige\\phase_4\\areas.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "D6501996-73664E20-EE4D85E2-A1F29EFE",
+            "diskSize": 9938
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\skellige\\phase_4\\scenepoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "6793E417-A7A29885-1A160D94-9BF50255",
+            "diskSize": 734
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\skellige\\phase_4\\waypoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "277E6BB4-C4BD56C0-460AF890-20441206",
+            "diskSize": 716
         },
         {
             "path": "dlc\\dlcsted\\levels\\skellige\\sted\\debug\\debug.w2l",
