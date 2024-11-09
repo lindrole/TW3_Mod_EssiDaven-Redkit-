@@ -9360,6 +9360,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116736971;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Find Dandelion on the road to Wyzima near White Orchard.;;;;
 2116736972;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116736973;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line text;GRLT_STED_2116736973;;;;;;;;;;;;;;I'm not here to visit. I need to talk to Triss.;;;;
+2116736974;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a2_gp_oneliners_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116736975;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a2_gp_oneliners_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116736976;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a3_gp_oneliners_agloval.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 1214650;"CEntityTemplate ""dlc\bob\data\characters\npc_entities\secondary_npc\sq701_forest_nymph.w2ent""";Entity display name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
@@ -9681,9 +9684,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116723729;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line text;STDAGL_STED_2116723729;;;;;;;;;;;;;;I have no doubt that you will succeed.;;;;
 2116723730;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line text;STDSHE_STED_2116723730;;;;;;;;;;;;;;See you soon.;;;;
 2116723731;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line text;GRLT_STED_2116723731;;;;;;;;;;;;;;That would be too long a story to tell.;;;;
-2116723750;"CStoryScene ""dlc\dlcsted\data\scenes\75.gameplay_sheenaz.w2scene""";Line text;????_75.GAMEPLAY_2116723750;;;;;;;;;;;;;;Avenge this poor girl.;;;;
-2116723751;"CStoryScene ""dlc\dlcsted\data\scenes\75.gameplay_sheenaz.w2scene""";Line text;????_75.GAMEPLAY_2116723751;;;;;;;;;;;;;;You would have made such a cute couple.;;;;
-2116723760;"CStoryScene ""dlc\dlcsted\data\scenes\76.gameplay_agloval.w2scene""";Line text;????_76.GAMEPLAY_2116723760;;;;;;;;;;;;;;I'm sure you will succeed.;;;;
+2116723750;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a2_gp_oneliners_sheenaz.w2scene""";Line text;STDSHE_STED_2116723750;;;;;;;;;;;;;;Avenge this poor girl.;;;;
+2116723751;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a2_gp_oneliners_sheenaz.w2scene""";Line text;STDSHE_STED_2116723751;;;;;;;;;;;;;;You would have made such a cute couple.;;;;
+2116723760;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a3_gp_oneliners_agloval.w2scene""";Line text;STDAGL_STED_2116723760;;;;;;;;;;;;;;I'm sure you will succeed.;;;;
 2116723770;"CStoryScene ""dlc\dlcsted\data\scenes\77.epilogue_yen.w2scene""";Line text;GRLT_77.EPILOGUE_2116723770;;;;;;;;;;;;;;Yen is no longer here.;;;;
 2116723771;"CStoryScene ""dlc\dlcsted\data\scenes\77.epilogue_yen.w2scene""";Line text;GRLT_77.EPILOGUE_2116723771;;;;;;;;;;;;;;She must have learned that we succeeded,;;;;
 2116723772;"CStoryScene ""dlc\dlcsted\data\scenes\77.epilogue_yen.w2scene""";Line text;GRLT_77.EPILOGUE_2116723772;;;;;;;;;;;;;;and left Skellige as she planned.;;;;
