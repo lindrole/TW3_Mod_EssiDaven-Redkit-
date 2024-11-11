@@ -9364,6 +9364,17 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116736975;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a2_gp_oneliners_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116736976;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a3_gp_oneliners_agloval.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116736977;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Search a Sky Blue Pearl.;;;;
+2116736978;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116736979;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line text;GRLT_STED_2116736979;;;;;;;;;;;;;;I'm done here. I should join Yen now.;;;;
+2116736980;"CEntityTemplate ""dlc\dlcsted\data\entities\sted_shell_blue_pearl.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736981;CUSTOM;All;;;;;;;;;;;;;;;;;;;
+2116736982;CUSTOM;Item;;item_name_sted_sky_blue_pearl;;;;;;;;;;;;;Sky Blue Pearl;;;;
+2116736983;CUSTOM;Item;;item_desc_sted_sky_blue_pearl;;;;;;;;;;;;;Item needed for the quest Small Tribute to Essi Daven.;;;;
+2116736984;"CEntityTemplate ""dlc\dlcsted\data\entities\sted_elven_camp_crate.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736985;"CEntityTemplate ""dlc\dlcsted\data\entities\sted_shell_normal.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736986;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_shell_loot_bp.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736987;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_underwater_shell_average.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736988;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_underwater_shell_epic.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
 1214650;"CEntityTemplate ""dlc\bob\data\characters\npc_entities\secondary_npc\sq701_forest_nymph.w2ent""";Entity display name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
