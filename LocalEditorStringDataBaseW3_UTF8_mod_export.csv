@@ -9375,6 +9375,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116736986;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_shell_loot_bp.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
 2116736987;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_underwater_shell_average.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
 2116736988;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_underwater_shell_epic.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736989;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_shell_normal.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736990;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_shell_appearance.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
+2116736991;"CEntityTemplate ""dlc\dlcsted\data\entities\items\sted_shell_black_pearl.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
 1214650;"CEntityTemplate ""dlc\bob\data\characters\npc_entities\secondary_npc\sq701_forest_nymph.w2ent""";Entity display name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
