@@ -35,6 +35,12 @@
         "bob"
     ],
     "dirtyTileCellIndices": {
+        "levels\\prolog_village\\prolog_village.w2w": [
+            [
+                14,
+                15
+            ]
+        ],
         "levels\\novigrad\\novigrad.w2w": [
             [
                 25,
