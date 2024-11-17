@@ -1,0 +1,177 @@
+{
+    "files": [
+        {
+            "path": "dlc\\bob\\data\\gameplay\\journal\\startep2.w2je",
+            "level": 0,
+            "class": "CJournalInitialEntriesResource",
+            "seed": 1,
+            "id": "25D80764-C8604009-C8B08316-21D683CE",
+            "diskSize": 251
+        },
+        {
+            "path": "gameplay\\globals\\scene_voice_tags.csv",
+            "level": 0,
+            "seed": 1,
+            "id": "39F9F172-71B587FB-FB6E1A43-4D5E7B95",
+            "diskSize": 29283
+        },
+        {
+            "path": "gameplay\\journal\\characters\\dlcsted.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "E8E5E6AB-29DDFE37-FF5E37D5-FA974911",
+            "diskSize": 573
+        },
+        {
+            "path": "gameplay\\journal\\characters\\stedagloval.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "306E464F-C5BF4EFF-8009E20B-FA2131AB",
+            "diskSize": 870
+        },
+        {
+            "path": "gameplay\\journal\\characters\\stedessidaven.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "FC93EFF1-50583357-5E07D115-6F3F2F0C",
+            "diskSize": 1489
+        },
+        {
+            "path": "gameplay\\journal\\characters\\stedsheenaz.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "00864AA2-D1140B6C-61B8A003-EC1F35B2",
+            "diskSize": 1296
+        },
+        {
+            "path": "gameplay\\journal\\quests\\asmalltributetoessidaven.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "0EFDFA48-FC717CC1-2CB07D4A-4F55A292",
+            "diskSize": 7765
+        },
+        {
+            "path": "gameplay\\journal\\quests\\dlcsted.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "074CBDFC-7A9C93C6-FF79E493-74545A68",
+            "diskSize": 558
+        },
+        {
+            "path": "gameplay\\journal\\quests\\dlcstedessidaven.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "21EE1B2B-046FF475-4E4FA5EA-357F3848",
+            "diskSize": 2322
+        },
+        {
+            "path": "gameplay\\journal\\quests\\dlcstedessidavenv3.journal",
+            "level": 0,
+            "class": "CJournalResource",
+            "seed": 1,
+            "id": "F5D4D483-C991F2CB-4A290949-5A26E280",
+            "diskSize": 637
+        },
+        {
+            "path": "gameplay\\journal\\start.w2je",
+            "level": 0,
+            "class": "CJournalInitialEntriesResource",
+            "seed": 1,
+            "id": "D048D06C-8199C59B-E12F004A-310F6859",
+            "diskSize": 3671
+        },
+        {
+            "path": "levels\\kaer_morhen\\kaer_morhen.w2w",
+            "level": 0,
+            "class": "CGameWorld",
+            "seed": 1,
+            "id": "51FDB1A7-DF2CF7F7-5A852C97-54DF17FD",
+            "diskSize": 6501229
+        },
+        {
+            "path": "levels\\novigrad\\novigrad.w2w",
+            "level": 0,
+            "class": "CGameWorld",
+            "seed": 1,
+            "id": "B8E911F3-9506F81D-ACA8769C-2571C41E",
+            "diskSize": 20485852
+        },
+        {
+            "path": "levels\\prolog_village\\prolog_village.w2w",
+            "level": 0,
+            "class": "CGameWorld",
+            "seed": 1,
+            "id": "E9DBA9CA-66E36A89-B681005F-92364EF4",
+            "diskSize": 5281677
+        },
+        {
+            "path": "levels\\skellige\\skellige.w2w",
+            "level": 0,
+            "class": "CGameWorld",
+            "seed": 1,
+            "id": "482E3FD0-A7E3893B-623E800A-70B98B65",
+            "diskSize": 12262491
+        },
+        {
+            "path": "scripts\\sted_scripts\\check_fact.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "26938255-741516E2-CF4EB4D2-7DDD4399"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_classmirrorfight.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "FB99D10B-624A9BBB-EA145441-5848D00C"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_custom_class.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "FA188AB8-2B0A81E0-FD1FB5A6-CF2F314B"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_custom_class2.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "03621292-A9FA5911-07344AE8-BD16B358"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_custom_class3.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "57E4C3D7-5FCFCEFE-DE63C461-DD99E918"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_custom_initializer no more used.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "186E0008-7B36A36B-31D9C256-2EDE7B61"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_force_save.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "0AC4E134-A0A06C71-AEEA68EE-D7A4E61B"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_scene_functions.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "E95D574C-126591CF-7065AB5B-07E8E08A"
+        },
+        {
+            "path": "scripts\\sted_scripts\\test_functions.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "C729BEDB-3D2592FC-FACDA5A3-7E3D5CB5"
+        }
+    ]
+}
