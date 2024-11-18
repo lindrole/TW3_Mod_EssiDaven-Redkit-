@@ -9866,6 +9866,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737477;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07b_ciri_at_grave.w2scene""";Line text;GRLT_STED_2116737477;;;;;;;;;;;;;;I will put the pearl on her grave.;;;;
 2116737478;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07b_ciri_at_grave.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737479;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07b_ciri_at_grave.w2scene""";Line text;CIRI_STED_2116737479;;;;;;;;;;;;;;Yes, let's get it over with.;;;;
+2116737480;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737481;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737482;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 1214650;"CEntityTemplate ""dlc\bob\data\characters\npc_entities\secondary_npc\sq701_forest_nymph.w2ent""";Entity display name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
@@ -9950,9 +9953,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116723207;"CStoryScene ""dlc\dlcsted\data\sted_scenes\sted_02_road_to_wyzima.w2scene""";Line text;DAND_STED_2116723207;;;;;;;;;;;;;;She was running after life, while death was on her heels.;;;;
 2116723208;"CStoryScene ""dlc\dlcsted\data\sted_scenes\old\sted_04_at_the_grave.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116723209;"CStoryScene ""dlc\dlcsted\data\sted_scenes\sted_02_road_to_wyzima.w2scene""";Line text;GRLT_STED_2116723209;;;;;;;;;;;;;;She was in Vizima at the time of the smallpox epidemic. And it took her away.;;;;
-2116723210;"CStoryScene ""dlc\dlcsted\data\sted_scenes\old\sted_04_at_the_grave.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
-2116723211;"CStoryScene ""dlc\dlcsted\data\scenes\scene.21.mirror_final_ciri.w2scene""";Line text;????_SCENE.21.MIRROR_2116723211;;;;;;;;;;;;;;A good thing done.;;;;
-2116723212;"CStoryScene ""dlc\dlcsted\data\sted_scenes\old\sted_04_at_the_grave.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116723210;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line text;MRRR_STED_2116723210;;;;;;;;;;;;;;No! It's impossible!;;;;
+2116723211;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line text;CIRI_STED_2116723211;;;;;;;;;;;;;;A good thing done.;;;;
+2116723212;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line text;GRLT_STED_2116723212;;;;;;;;;;;;;;Absolutely.;;;;
 2116723213;"CStoryScene ""dlc\dlcsted\data\sted_scenes\old\sted_02b_dandelion_call_geralt.w2scene""";Line text;DAND_STED_2116723213;;;;;;;;;;;;;;So I buried her in this peaceful place, far from the city.;;;;
 2116723214;"CStoryScene ""dlc\dlcsted\data\sted_scenes\old\sted_04_at_the_grave.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116723215;"CStoryScene ""dlc\dlcsted\data\sted_scenes\04_at_the_grave.w2scene""";Line text;GRLT_04_2116723215;;;;;;;;;;;;;;This is very sad news that you are telling me.;;;;
