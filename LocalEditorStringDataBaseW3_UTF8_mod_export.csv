@@ -4876,7 +4876,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116732487;"CStoryScene ""dlc\dlcsted\data\scenes\sted_02b_mirror_encounter.w2scene""";Line text;MRRR_STED_2116732487;;;;;;;;;;;;;;Since years I have plans for you.;;;;
 2116732488;"CStoryScene ""dlc\dlcsted\data\scenes\sted_02b_mirror_encounter.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116732489;"CStoryScene ""dlc\dlcsted\data\scenes\sted_02b_mirror_encounter.w2scene""";Line text;MRRR_STED_2116732489;;;;;;;;;;;;;;A witcher alongside a sorceress, offers way more possibilities than a simple bard…;;;;
-2116732490;Unnamed CJournalResource;Journal;;;;;;;;;;;;;;;A Small Tribute To Poppet;;;;
+2116732490;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;A Small Tribute To Little-Eye;;;;
 2116732491;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;I was waiting for Geralt not far from White Orchard, to show him a special place to me.<br/>;;;;
 2116732492;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Geralt learned of Essi's sad fate and later discovered that this devil Gaunter O'Dimm had provoked it.<br/>A mixture of anger and injustice filled Geralt, who went to Yennefer for help.<br/>;;;;
 2116732493;Unnamed CJournalResource;Journal;;;;;;;;;;;;;;;Follow Dandelion.;;;;
@@ -9434,7 +9434,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737045;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07b_ciri_at_grave.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737046;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Returning to Yennefer after finding the pearl, Geralt was surprised to see Ciri there.<br/>Ciri told him that as a child in the Temple of Melitele, she had read Essi's collection of poems, and that it had filled her with emotion.<br/>Meanwhile Yennefer had found a way to enchant the pearl to help them defeat this devilish being.<br/>;;;;
 2116737047;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Defeat Gaunter O'Dimm.;;;;
-2116737048;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;The pearl enchanted by Yennefer had the desired effect, and allowed Geralt and Ciri to defeat Gaunter O'Dimm, and thus avenge Poppet.<br/>;;;;
+2116737048;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;The pearl enchanted by Yennefer had the desired effect, and allowed Geralt and Ciri to defeat Gaunter O'Dimm, and thus avenge Little-Eye.<br/>;;;;
 2116737049;"CStoryScene ""dlc\dlcsted\data\scenes\21.mirror_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737050;"CStoryScene ""dlc\dlcsted\data\scenes\21.mirror_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737051;"CStoryScene ""dlc\dlcsted\data\scenes\21.mirror_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
@@ -9998,7 +9998,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116723026;;journal;;;;;;;;;;;;;;;I was waiting for Geralt not far from White Orchard, to show a him a special place to me.<br/>;;;;
 2116723027;;journal;;;;;;;;;;;;;;;The pearl enchanted by Yennefer had the desired effect, and allowed Geralt and Ciri to defeat Gaunter O'Dimm, and thus avenge Poppet.<br/>;;;;
 2116723028;;journal;;;;;;;;;;;;;;;Sh'eenaz pointed Geralt to a place where he could find one of these pearls.<br/>;;;;
-2116723029;Unnamed CJournalResource;Journal;;;;;;;;;;;;;;;A Small Tribute to Poppet;;;;
+2116723029;"CJournalResource ""dlc\dlcsted\journal\quests\essi_daven.journal""";Journal;;;;;;;;;;;;;;;A Small Tribute to Poppett;;;;
 2116723030;;journal;;;;;;;;;;;;;;;item_name_sted_misc_sky_blue_pearl;;;;
 2116723031;;journal;;;;;;;;;;;;;;;item_desc_sted_misc_sky_blue_pearl;;;;
 2116723032;;journal;;;;;;;;;;;;;;;dlc_name_sted;;;;
