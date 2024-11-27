@@ -10023,6 +10023,15 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737634;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737635;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;YENN_STED_2116737635;;;;;;;;;;;;;;He must enjoy the view too.;;;;
 2116737636;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Defeat the griffin.;;;;
+2116737637;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Follow Yennefer.;;;;
+2116737638;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737639;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;YENN_STED_2116737639;;;;;;;;;;;;;;The view is magnificent, don't you think?;;;;
+2116737640;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737641;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;GRLT_STED_2116737641;;;;;;;;;;;;;;Yes, that's true.;;;;
+2116737642;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737643;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;YENN_STED_2116737643;;;;;;;;;;;;;;The view is magnificent, don't you think?;;;;
+2116737644;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737645;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;GRLT_STED_2116737645;;;;;;;;;;;;;;I couldn't agree more.;;;;
 1214650;"CEntityTemplate ""dlc\bob\data\characters\npc_entities\secondary_npc\sq701_forest_nymph.w2ent""";Entity display name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
