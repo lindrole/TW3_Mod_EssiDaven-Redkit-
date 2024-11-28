@@ -37,6 +37,14 @@
     "dirtyTileCellIndices": {
         "dlc\\bob\\data\\levels\\bob\\bob.w2w": [
             [
+                11,
+                15
+            ],
+            [
+                12,
+                15
+            ],
+            [
                 13,
                 16
             ]

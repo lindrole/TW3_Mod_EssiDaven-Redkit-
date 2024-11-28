@@ -10032,6 +10032,18 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737643;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;YENN_STED_2116737643;;;;;;;;;;;;;;The view is magnificent, don't you think?;;;;
 2116737644;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737645;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;GRLT_STED_2116737645;;;;;;;;;;;;;;I couldn't agree more.;;;;
+2116737646;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737647;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737647;;;;;;;;;;;;;;What was he doing here?;;;;
+2116737648;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737649;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;GRLT_STED_2116737649;;;;;;;;;;;;;;He must have been enjoying the view too.;;;;
+2116737650;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737651;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737651;;;;;;;;;;;;;;Maggie's in trouble!;;;;
+2116737652;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737653;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737653;;;;;;;;;;;;;;Let's not hang around here. Let's join Margarita.;;;;
+2116737654;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737655;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;GRLT_STED_2116737655;;;;;;;;;;;;;;What's this whim to make me walk?;;;;
+2116737656;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737657;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737657;;;;;;;;;;;;;;What do you mean?;;;;
 1214650;"CEntityTemplate ""dlc\bob\data\characters\npc_entities\secondary_npc\sq701_forest_nymph.w2ent""";Entity display name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
