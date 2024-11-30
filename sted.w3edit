@@ -35,6 +35,16 @@
         "bob"
     ],
     "dirtyTileCellIndices": {
+        "levels\\novigrad\\novigrad.w2w": [
+            [
+                30,
+                27
+            ],
+            [
+                31,
+                27
+            ]
+        ],
         "dlc\\bob\\data\\levels\\bob\\bob.w2w": [
             [
                 11,
