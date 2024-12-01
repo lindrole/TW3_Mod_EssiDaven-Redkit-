@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<redxml>
+    <definitions>
+        <loot_definitions>
+            <loot name="sted_shell_blue_pearl_loot" quantity_min="1" quantity_max="1" player_level_min="0" player_level_max="0" respawn_time="0">
+                <loot_entry name="sted_sky_blue_pearl" quantity_min="1" quantity_max="1" player_level_min="0" player_level_max="0" chance="100" />
+            </loot>
+            <loot name="sted_ancient_book_loot" quantity_min="1" quantity_max="1" player_level_min="0" player_level_max="0" respawn_time="0">
+                <loot_entry name="sted_ancient_book" quantity_min="1" quantity_max="1" player_level_min="0" player_level_max="0" chance="100" />
+            </loot>
+        </loot_definitions>
+    </definitions>
+</redxml>
