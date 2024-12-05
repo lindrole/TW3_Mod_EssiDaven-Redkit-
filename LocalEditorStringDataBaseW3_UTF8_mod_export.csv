@@ -10257,6 +10257,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737868;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_triss.w2scene""";Line text;TRSS_STED_2116737868;;;;;;;;;;;;;;We still haven't tested this new bed.;;;;
 2116737869;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737870;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_triss.w2scene""";Line text;GRLT_STED_2116737870;;;;;;;;;;;;;;It'll give me a good reason to come back.;;;;
+2116737871;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Head to Kaer Morhen to reassure Triss.;;;;
+2116737872;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Go to Kaer Morhen to reassure Triss.;;;;
+2116737873;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Head to Toussaint to thank Margarita.;;;;
 1214650;"CEntityTemplate ""dlc\bob\data\characters\npc_entities\secondary_npc\sq701_forest_nymph.w2ent""";Entity display name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
