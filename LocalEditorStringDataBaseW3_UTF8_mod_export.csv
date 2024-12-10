@@ -10610,6 +10610,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737928;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_not_lover.w2scene""";Line text;MGLA_STED_2116737928;;;;;;;;;;;;;;I would have liked a different answer, but I understand.;;;;
 2116737929;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_lover.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737930;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_lover.w2scene""";Line text;GRLT_STED_2116737930;;;;;;;;;;;;;;But you know to whom my heart belongs.;;;;
+2116737931;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Defeat or escape the witch hunters.;;;;
 1102806;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
 1102807;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
 1102808;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
