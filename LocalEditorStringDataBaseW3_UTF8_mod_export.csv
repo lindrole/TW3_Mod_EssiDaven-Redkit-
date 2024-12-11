@@ -10617,6 +10617,8 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737935;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Return to Margarita.;;;;
 2116737936;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_before_fire.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737937;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_before_fire.w2scene""";Line text;GRLT_STED_2116737937;;;;;;;;;;;;;;bla bla;;;;
+2116737938;"CStoryScene ""dlc\dlcsted\data\scenes\sted_empty_scene.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737939;"CStoryScene ""dlc\dlcsted\data\scenes\sted_empty_scene.w2scene""";Line text;GRLT_STED_2116737939;;;;;;;;;;;;;;;;;;
 1102806;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
 1102807;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
 1102808;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
