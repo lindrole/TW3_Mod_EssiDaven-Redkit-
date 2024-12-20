@@ -10315,7 +10315,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737644;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737645;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line text;GRLT_STED_2116737645;;;;;;;;;;;;;;I couldn't agree more.;;;;
 2116737646;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
-2116737647;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737647;;;;;;;;;;;;;;What was he doing here?;;;;
+2116737647;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737647;;;;;;;;;;;;;;What was this griffin doing here?;;;;
 2116737648;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737649;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;GRLT_STED_2116737649;;;;;;;;;;;;;;He must have been enjoying the view too.;;;;
 2116737650;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
@@ -10619,6 +10619,15 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737937;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_before_fire.w2scene""";Line text;GRLT_STED_2116737937;;;;;;;;;;;;;;bla bla;;;;
 2116737938;"CStoryScene ""dlc\dlcsted\data\scenes\sted_empty_scene.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737939;"CStoryScene ""dlc\dlcsted\data\scenes\sted_empty_scene.w2scene""";Line text;GRLT_STED_2116737939;;;;;;;;;;;;;;;;;;
+2116737940;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737941;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;GRLT_STED_2116737941;;;;;;;;;;;;;;I never knew you were so fit.;;;;
+2116737942;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737943;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737943;;;;;;;;;;;;;;I don't know if I should take it well.;;;;
+2116737944;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737945;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737945;;;;;;;;;;;;;;You'd be surprised.;;;;
+2116737946;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116737947;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737947;;;;;;;;;;;;;;But okay, we'll go faster.;;;;
+2116737948;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Help Margarita.;;;;
 1102806;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
 1102807;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
 1102808;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;

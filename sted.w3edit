@@ -35,6 +35,20 @@
         "bob"
     ],
     "dirtyTileCellIndices": {
+        "dlc\\bob\\data\\levels\\bob\\bob.w2w": [
+            [
+                11,
+                15
+            ],
+            [
+                12,
+                16
+            ],
+            [
+                13,
+                16
+            ]
+        ],
         "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\sted_bremervoord_coast.w2w": [
             [
                 13,
