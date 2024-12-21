@@ -10626,7 +10626,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737944;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737945;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737945;;;;;;;;;;;;;;You'd be surprised.;;;;
 2116737946;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
-2116737947;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737947;;;;;;;;;;;;;;But okay, we'll go faster.;;;;
+2116737947;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116737947;;;;;;;;;;;;;;We can go faster if you like.;;;;
 2116737948;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Help Margarita.;;;;
 1102806;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
 1102807;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08e_sex_yen.w2scene""";Choice line;;;;;;;;;;;;;;;;;;;
