@@ -10770,6 +10770,10 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116738048;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line text;GRLT_STED_2116738048;;;;;;;;;;;;;;Yen won't wait for me through the night.;;;;
 2116738049;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116738050;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_geralt_yen_gp.w2scene""";Line text;YENN_STED_2116738050;;;;;;;;;;;;;;I missed your sense of humor.;;;;
+2116738051;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06b_rita_oxenfurt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738052;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06b_rita_oxenfurt.w2scene""";Line text;MGLA_STED_2116738052;;;;;;;;;;;;;;As you approach the book, its contents will be revealed.;;;;
+2116738053;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06b_rita_oxenfurt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738054;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06b_rita_oxenfurt.w2scene""";Line text;MGLA_STED_2116738054;;;;;;;;;;;;;;Do as I tell you, then meet me behind the temple.;;;;
 1102927;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\sted8_sex_yen.w2scene""";Comment;;;;;;;;;;;;;;;;;;;
 1102928;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\sted8_sex_yen.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 1102929;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\sted8_sex_yen.w2scene""";Line text;GRLT_STED8_01102929;;;;;;;;;;;;;;;;;;
