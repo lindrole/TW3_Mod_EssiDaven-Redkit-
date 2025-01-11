@@ -9,6 +9,70 @@
             "diskSize": 251
         },
         {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\actionpoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "0A2B38DC-3022691E-85373E57-F9463A56",
+            "diskSize": 3160
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\areas.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "6344AA01-C3FF437E-9932269B-A75CD871",
+            "diskSize": 15878
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\debug.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "C2F7A12B-8A58FC0F-8C24792C-3A5D0430",
+            "diskSize": 790
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\fake_bedroom\\margarita_bedroom.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "3C5D3559-B1ED4BC3-59A81919-20E53E82",
+            "diskSize": 18880
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\mappins.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "4EB0C034-B8A39761-7F281996-41475EEF",
+            "diskSize": 736
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\paths.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "128A6342-C7F56BC5-9D95F4DC-86A01C5D",
+            "diskSize": 13468
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\scenepoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "FA545AEB-51D4D3E4-82A0217F-BFF15E5B",
+            "diskSize": 1445
+        },
+        {
+            "path": "dlc\\bob\\data\\levels\\bob\\dlc\\dlcsted\\spawnpoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "25B30591-A625D16F-B9E75665-A89C4C38",
+            "diskSize": 2151
+        },
+        {
             "path": "gameplay\\globals\\scene_voice_tags.csv",
             "level": 0,
             "seed": 1,
@@ -62,6 +126,12 @@
             "level": 0,
             "seed": 1,
             "id": "E95D574C-126591CF-7065AB5B-07E8E08A"
+        },
+        {
+            "path": "scripts\\sted_scripts\\sted_world_music.ws",
+            "level": 0,
+            "seed": 1,
+            "id": "0546266C-D7033FDC-DAAFC643-247044CD"
         },
         {
             "path": "scripts\\sted_scripts\\test_functions.ws",
