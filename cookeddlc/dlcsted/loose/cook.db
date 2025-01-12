@@ -1,6 +1,14 @@
 {
     "files": [
         {
+            "path": "dlc\\dlcsted\\activation_bob.reddlc",
+            "level": 0,
+            "class": "CDLCDefinition",
+            "seed": 1,
+            "id": "00A1FDA7-951E5DB6-CBCAF138-BFF9665C",
+            "diskSize": 1904
+        },
+        {
             "path": "dlc\\dlcsted\\activation_sted_world.reddlc",
             "level": 0,
             "class": "CDLCDefinition",
@@ -11544,7 +11552,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "755BE46C-94EFE025-BB1BCC97-8933AA87",
-            "diskSize": 23866
+            "diskSize": 23907
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06b_search_for_book.w2phase",
@@ -12631,7 +12639,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "FFD22C1C-B6AEB859-9AA58798-002ACFB7",
-            "diskSize": 2996
+            "diskSize": 3004
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase6a_yen.w2comm",
@@ -12639,7 +12647,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "C6D08E5B-5E921EBA-5610E7E7-5A26054D",
-            "diskSize": 3621
+            "diskSize": 3732
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase6b_margarita.w2comm",
@@ -12752,6 +12760,70 @@
             "seed": 1,
             "id": "6986749A-8E08C903-1916B181-D455DF42",
             "diskSize": 558
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\actionpoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "5D5C0F55-64B7AAFB-7CF97F5C-CE7671BD",
+            "diskSize": 3160
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\areas.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "918274FA-9E042068-ADD8EF11-A1EC57D5",
+            "diskSize": 15878
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\debug.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "65762864-F9E7B7A8-593F1CCB-1CD50D11",
+            "diskSize": 790
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\fake_bedroom\\margarita_bedroom.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "248EC57C-065BC556-B6704188-77F3BF0A",
+            "diskSize": 18880
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\mappins.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "44A8B413-7B6BE8D1-611DD2D0-2DED44DD",
+            "diskSize": 736
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\paths.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "69C62120-294F11DF-71ECAB97-10318DBF",
+            "diskSize": 13468
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\scenepoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "03F79A1E-2FA5761A-8BB825A6-00129171",
+            "diskSize": 1445
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\spawnpoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "B06C327A-8AF8BB3C-74AC4AB7-8945DE78",
+            "diskSize": 2151
         },
         {
             "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_3\\actionpoints.w2l",

@@ -1,6 +1,13 @@
 {
     "files": [
         {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\actionpoints.w2l",
+            "string_ids": [
+                180788,
+                162813
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_yen.w2scene",
             "string_ids": [
                 2116738035,
@@ -1553,11 +1560,11 @@
         {
             "path": "dlc\\dlcsted\\dlcsted.reddlc",
             "string_ids": [
-                2116736982,
-                2116736983,
                 2116737707,
                 2116737706,
-                2116737710
+                2116737710,
+                2116736982,
+                2116736983
             ]
         },
         {
