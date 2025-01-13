@@ -545,6 +545,22 @@
             "diskSize": 106825
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\bad_sted_griffin.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "56C0A625-5145C98E-89E9249D-C0C74A6F",
+            "diskSize": 141596
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_prolog.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "4DD5B902-1D330018-C9B0D833-33117BB4",
+            "diskSize": 134932
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\not_used\\not_used_sted_essi.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
@@ -559,6 +575,22 @@
             "seed": 1,
             "id": "5B037E0F-4ECFD20D-FE487F23-652D54AD",
             "diskSize": 291451
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save3_sted_griffin.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "F2ED52E3-FCF8056B-D02F27FE-DC0B1499",
+            "diskSize": 141814
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save_sted_griffin.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "F2688179-CF08681D-CAED33F8-4FAF9AFA",
+            "diskSize": 141340
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\not_used\\save_sted_margarita.w2ent",
@@ -662,7 +694,15 @@
             "class": "CEntityTemplate",
             "seed": 1,
             "id": "29AB61D3-4E36CD63-6765759E-FF365B49",
-            "diskSize": 141340
+            "diskSize": 141653
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_gryphon_template.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "9FC6E86C-BB310519-752805E8-FFED0210",
+            "diskSize": 135035
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\sted_margarita.w2ent",
@@ -11496,7 +11536,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "7B285D20-680DC1D0-E3B25101-5D592116",
-            "diskSize": 18204
+            "diskSize": 17943
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\01_dandelion_encounter.w2phase",
@@ -11552,7 +11592,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "755BE46C-94EFE025-BB1BCC97-8933AA87",
-            "diskSize": 23907
+            "diskSize": 23878
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06b_search_for_book.w2phase",
@@ -11560,7 +11600,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "AA8F057D-8C7B163C-D7BDF92C-C1A1B128",
-            "diskSize": 17001
+            "diskSize": 17497
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06c_read_book.w2phase",
@@ -11568,7 +11608,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "51E9123B-1F911F1B-9A053AE5-6B617B9D",
-            "diskSize": 8923
+            "diskSize": 9387
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\07_final_fight.w2phase",
@@ -11608,7 +11648,7 @@
             "class": "CQuest",
             "seed": 1,
             "id": "6682EB1D-A87CF5BB-F62169F7-53271477",
-            "diskSize": 19758
+            "diskSize": 21270
         },
         {
             "path": "dlc\\dlcsted\\data\\quest_levels.csv",
@@ -12647,7 +12687,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "C6D08E5B-5E921EBA-5610E7E7-5A26054D",
-            "diskSize": 3732
+            "diskSize": 3690
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase6b_margarita.w2comm",
@@ -12783,7 +12823,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "65762864-F9E7B7A8-593F1CCB-1CD50D11",
-            "diskSize": 790
+            "diskSize": 227
         },
         {
             "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\fake_bedroom\\margarita_bedroom.w2l",

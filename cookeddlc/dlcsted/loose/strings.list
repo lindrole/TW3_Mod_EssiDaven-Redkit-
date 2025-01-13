@@ -56,6 +56,22 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_yen.w2scene",
+            "string_ids": [
+                2116736215,
+                2116736219,
+                2116736221,
+                2116737991,
+                2116723570
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sheenaz.w2ent",
+            "string_ids": [
+                2116723002
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03e_ask_triss.w2scene",
             "string_ids": [
                 2116723916,
@@ -81,22 +97,6 @@
                 2116723915,
                 2116723917,
                 2116723918
-            ]
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\sheenaz.w2ent",
-            "string_ids": [
-                2116723002
-            ]
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_yen.w2scene",
-            "string_ids": [
-                2116736215,
-                2116736219,
-                2116736221,
-                2116737991,
-                2116723570
             ]
         },
         {
@@ -464,16 +464,16 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7011_book_01_cont.w2ent",
+            "string_ids": [
+                162558
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_05a2_gp_oneliners_sheenaz.w2scene",
             "string_ids": [
                 2116723750,
                 2116723751
-            ]
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7011_book_01_cont.w2ent",
-            "string_ids": [
-                162558
             ]
         },
         {
@@ -676,15 +676,15 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_03g_gp_bedroom_door.w2scene",
-            "string_ids": [
-                2116732516
-            ]
-        },
-        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_01e_dandelion_call_geralt.w2scene",
             "string_ids": [
                 2116732417
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_03g_gp_bedroom_door.w2scene",
+            "string_ids": [
+                2116732516
             ]
         },
         {
@@ -789,6 +789,12 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_gryphon_template.w2ent",
+            "string_ids": [
+                527328
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_01b_exchange_on_the_road.w2scene",
             "string_ids": [
                 2116732385,
@@ -802,6 +808,12 @@
             "string_ids": [
                 2116737993,
                 2116737995
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save_sted_griffin.w2ent",
+            "string_ids": [
+                1085027
             ]
         },
         {
@@ -894,6 +906,12 @@
             "path": "dlc\\dlcsted\\levels\\skellige\\phase_8\\actionpoints.w2l",
             "string_ids": [
                 180788
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\bad_sted_griffin.w2ent",
+            "string_ids": [
+                1085027
             ]
         },
         {
@@ -1229,6 +1247,14 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\journal\\characters\\stedsheenaz.journal",
+            "string_ids": [
+                2116736224,
+                2116736225,
+                2116736223
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_ranged_turret.w2ent",
             "string_ids": [
                 452710
@@ -1268,11 +1294,9 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\journal\\characters\\stedsheenaz.journal",
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_prolog.w2ent",
             "string_ids": [
-                2116736224,
-                2116736225,
-                2116736223
+                527328
             ]
         },
         {
@@ -1535,6 +1559,12 @@
                 2116723511,
                 2116723512,
                 2116723513
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save3_sted_griffin.w2ent",
+            "string_ids": [
+                1085027
             ]
         },
         {
