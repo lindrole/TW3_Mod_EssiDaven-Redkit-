@@ -10994,6 +10994,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116738220;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
 2116738221;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
 2116738222;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116738223;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Defeat the guards of the Temple of Eternal Fire.;;;;
 1122473;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 1122474;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line text;SHNI_Q602_01122474;;;;;;;;;;;;;;;;;;
 1122475;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
