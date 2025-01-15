@@ -10661,7 +10661,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737928;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_not_lover.w2scene""";Line text;MGLA_STED_2116737928;;;;;;;;;;;;;;I would have liked a different answer, but I understand.;;;;
 2116737929;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_lover.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737930;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_lover.w2scene""";Line text;GRLT_STED_2116737930;;;;;;;;;;;;;;But you know to whom my heart belongs.;;;;
-2116737931;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Defeat or escape the witch hunters.;;;;
+2116737931;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Defeat the witch hunters.;;;;
 2116737932;"CEntityTemplate ""dlc\dlcsted\data\entities\items\books\sted_ancient_book_open_new.w2ent""";Entity display name;;;;;;;;;;;;;;;;;;;
 2116737933;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Join Margarita at the Temple of Eternal Fire.;;;;
 2116737934;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Reveal the contents of the book.;;;;
