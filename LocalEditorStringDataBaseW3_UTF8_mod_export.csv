@@ -10548,7 +10548,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737815;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737816;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line text;VIM1_STED_2116737816;;;;;;;;;;;;;;Life is too short to have regrets.;;;;
 2116737817;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
-2116737818;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line text;VIM1_STED_2116737818;;;;;;;;;;;;;;Keep me in your heart, and enjoy your life.;;;;
+2116737818;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line text;VIM1_STED_2116737818;;;;;;;;;;;;;;Keep me in your heart.;;;;
 2116737819;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737820;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line text;GRLT_STED_2116737820;;;;;;;;;;;;;;Essi? Is that you?;;;;
 2116737821;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
@@ -11027,6 +11027,10 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116738253;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_bremervoord_before_fight.w2scene""";Line text;GRLT_STED_2116738253;;;;;;;;;;;;;;It's just an illusion.;;;;
 2116738254;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_bremervoord_before_fight.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116738255;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_bremervoord_before_fight.w2scene""";Line text;MRRR_STED_2116738255;;;;;;;;;;;;;;Don't you recognize Bremervoord's coastline?;;;;
+2116738256;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738257;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line text;VIM1_STED_2116738257;;;;;;;;;;;;;;Like I've kept your sky blue pearl.;;;;
+2116738258;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738259;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_essi.w2scene""";Line text;VIM1_STED_2116738259;;;;;;;;;;;;;;And enjoy your life.;;;;
 1122473;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 1122474;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line text;SHNI_Q602_01122474;;;;;;;;;;;;;;;;;;
 1122475;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
