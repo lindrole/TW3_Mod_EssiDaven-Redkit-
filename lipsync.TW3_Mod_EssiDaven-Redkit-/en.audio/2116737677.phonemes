@@ -1,0 +1,21 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=MGLA]
+;meta[text=What an idea!]
+;meta[translation=wˌɒt ɐn aɪdˈiə]
+;meta[audio-hypothesis=SIL W AH T AE N AY D IY AH SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+w       |  290|  365|  1.00|  2.00| ok         | w  ~  W  [  290 -  365]
+ɒ       |  365|  395|  1.05|  1.00| ok         | ɒ  ~  AH [  365 -  395]
+t       |  395|  455|  1.00|  2.00| ok         | t  ~  T  [  395 -  455]
+------------------------------------------------------------------------
+ɐ       |  455|  485|  1.00|  0.25| ok         | ɐ  ~  AE [  455 -  485]
+n       |  485|  515|  1.00|  2.00| ok         | n  ~  N  [  485 -  515]
+------------------------------------------------------------------------
+aɪ      |  515|  615|  1.00|  2.00| ok         | aɪ ~  AY [  515 -  615]
+d       |  615|  695|  1.00|  2.00| ok         | d  ~  D  [  615 -  695]
+iə      |  695|  960|  1.10|  1.00| ok         | iə ~> IY [  695 -  835] + AH [  835 -  960]

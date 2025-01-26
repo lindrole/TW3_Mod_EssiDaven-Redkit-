@@ -10640,7 +10640,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116737907;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737908;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita.w2scene""";Line text;MGLA_STED_2116737908;;;;;;;;;;;;;;It's me who should be thanking you.;;;;
 2116737909;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
-2116737910;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita.w2scene""";Line text;MGLA_STED_2116737910;;;;;;;;;;;;;;I'm eternally grateful to you for saving me from those crazy witch-hunters.;;;;
+2116737910;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita.w2scene""";Line text;MGLA_STED_2116737910;;;;;;;;;;;;;;I'm eternally grateful to you for saving me from those crazy witch hunters.;;;;
 2116737911;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_not_lover.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116737912;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_not_lover.w2scene""";Line text;MGLA_STED_2116737912;;;;;;;;;;;;;;But perhaps we could thank each other...;;;;
 2116737913;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08_final_margarita_choice_not_lover.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
