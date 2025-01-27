@@ -1,0 +1,14 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=MRRR]
+;meta[text=Shame…]
+;meta[translation=ʃˈeɪm]
+;meta[audio-hypothesis=SIL SH EY M]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ʃ       |  330|  525|  1.00|  2.00| ok         | ʃ  ~  SH [  330 -  525]
+eɪ      |  525|  785|  1.10|  2.00| ok         | eɪ ~  EY [  525 -  785]
+m       |  785|  920|  1.00|  2.00| ok         | m  ~  M  [  785 -  920]

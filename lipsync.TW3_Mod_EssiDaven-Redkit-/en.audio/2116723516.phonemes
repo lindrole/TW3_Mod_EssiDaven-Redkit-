@@ -1,0 +1,25 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=MRRR]
+;meta[text=I like challenges.]
+;meta[translation=ˈaɪ lˈaɪk tʃˈalɪndʒɪz]
+;meta[audio-hypothesis=SIL AY L AY K CH AE L AH N JH IH Z SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+aɪ      |  290|  395|  1.10|  2.00| ok         | aɪ ~  AY [  290 -  395]
+------------------------------------------------------------------------
+l       |  395|  465|  1.00|  2.00| ok         | l  ~  L  [  395 -  465]
+aɪ      |  465|  565|  1.10|  2.00| ok         | aɪ ~  AY [  465 -  565]
+k       |  565|  645|  1.00|  2.00| ok         | k  ~  K  [  565 -  645]
+------------------------------------------------------------------------
+tʃ      |  645|  725|  1.00|  2.00| ok         | tʃ ~  CH [  645 -  725]
+a       |  725|  825|  1.10|  2.00| ok         | a  ~  AE [  725 -  825]
+l       |  825|  865|  1.00|  2.00| ok         | l  ~  L  [  825 -  865]
+ɪ       |  865|  915|  1.00|  0.25| ok         | ɪ  ~  AH [  865 -  915]
+n       |  915|  975|  1.00|  2.00| ok         | n  ~  N  [  915 -  975]
+dʒ      |  975| 1055|  1.00|  2.00| ok         | dʒ ~  JH [  975 - 1055]
+ɪ       | 1055| 1135|  1.00|  2.00| ok         | ɪ  ~  IH [ 1055 - 1135]
+z       | 1135| 1280|  1.00|  2.00| ok         | z  ~  Z  [ 1135 - 1280]
