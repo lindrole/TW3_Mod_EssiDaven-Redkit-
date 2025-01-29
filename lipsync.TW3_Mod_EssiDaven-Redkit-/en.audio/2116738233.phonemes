@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=CIRI]
+;meta[text=It works!]
+;meta[translation=ɪt wˈɜːks]
+;meta[audio-hypothesis=SIL IH T W ER K S SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɪ       |  280|  345|  1.00|  2.00| ok         | ɪ  ~  IH [  280 -  345]
+t       |  345|  375|  1.00|  2.00| ok         | t  ~  T  [  345 -  375]
+------------------------------------------------------------------------
+w       |  375|  535|  1.00|  2.00| ok         | w  ~  W  [  375 -  535]
+ɜ       |  535|  695|  1.10|  2.00| ok         | ɜ  ~  ER [  535 -  695]
+k       |  695|  755|  1.00|  2.00| ok         | k  ~  K  [  695 -  755]
+s       |  755|  910|  1.00|  2.00| ok         | s  ~  S  [  755 -  910]

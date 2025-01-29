@@ -11458,7 +11458,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116723805;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;CIRI_STED_2116723805;;;;;;;;;;;;;;I had read it as a child when I was in training with Yennefer at the Melitele's Temple.;;;;
 2116723806;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;CIRI_STED_2116723806;;;;;;;;;;;;;;This book had filled me with emotion,;;;;
 2116723807;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;CIRI_STED_2116723807;;;;;;;;;;;;;;and now I understand why.;;;;
-2116723808;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;CIRI_STED_2116723808;;;;;;;;;;;;;;I wouldn't want to interrupt you,;;;;
+2116723808;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;YENN_STED_2116723808;;;;;;;;;;;;;;I wouldn't want to interrupt you,;;;;
 2116723809;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;YENN_STED_2116723809;;;;;;;;;;;;;;but know that my research has paid off.;;;;
 2116723810;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;YENN_STED_2116723810;;;;;;;;;;;;;;My intuition was right.;;;;
 2116723811;"CStoryScene ""dlc\dlcsted\data\scenes\sted_07_ciri_yen.w2scene""";Line text;YENN_STED_2116723811;;;;;;;;;;;;;;An object linking you to the deceased is indeed useful.;;;;
