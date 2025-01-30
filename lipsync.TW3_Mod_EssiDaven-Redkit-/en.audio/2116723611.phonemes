@@ -1,0 +1,20 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=YENN]
+;meta[text=I love this.]
+;meta[translation=ˈaɪ lˈʌv ðˈɪs]
+;meta[audio-hypothesis=SIL AY L AH V DH IH S]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+aɪ      |  290|  375|  1.10|  2.00| ok         | aɪ ~  AY [  290 -  375]
+------------------------------------------------------------------------
+l       |  375|  415|  1.00|  2.00| ok         | l  ~  L  [  375 -  415]
+ʌ       |  415|  525|  1.10|  2.00| ok         | ʌ  ~  AH [  415 -  525]
+v       |  525|  575|  1.00|  2.00| ok         | v  ~  V  [  525 -  575]
+------------------------------------------------------------------------
+ð       |  575|  655|  1.00|  2.00| ok         | ð  ~  DH [  575 -  655]
+ɪ       |  655|  745|  1.10|  2.00| ok         | ɪ  ~  IH [  655 -  745]
+s       |  745|  940|  1.00|  2.00| ok         | s  ~  S  [  745 -  940]

@@ -1,0 +1,23 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=DAND]
+;meta[text=Indeed, Geralt.]
+;meta[translation=ˌɪndˈiːd dʒˈɛɹɒlt]
+;meta[audio-hypothesis=SIL IH N D IY D G IH R AE L T SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɪ       |  290|  425|  1.05|  2.00| ok         | ɪ  ~  IH [  290 -  425]
+n       |  425|  555|  1.00|  2.00| ok         | n  ~  N  [  425 -  555]
+d       |  555|  605|  1.00|  2.00| ok         | d  ~  D  [  555 -  605]
+i       |  605|  765|  1.10|  2.00| ok         | i  ~  IY [  605 -  765]
+d       |  765|  825|  1.00|  2.00| ok         | d  ~  D  [  765 -  825]
+------------------------------------------------------------------------
+dʒ      |  825|  885|  1.00|  1.00| ok         | dʒ ~  G  [  825 -  885]
+ɛ       |  885|  935|  1.10|  0.10| ok         | ɛ  ~  IH [  885 -  935]
+ɹ       |  935| 1075|  1.00|  2.00| ok         | ɹ  ~  R  [  935 - 1075]
+ɒ       | 1075| 1105|  1.00|  0.25| ok         | ɒ  ~  AE [ 1075 - 1105]
+l       | 1105| 1165|  1.00|  2.00| ok         | l  ~  L  [ 1105 - 1165]
+t       | 1165| 1280|  1.00|  2.00| ok         | t  ~  T  [ 1165 - 1280]

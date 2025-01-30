@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=STDSHE]
+;meta[text=They are rare.]
+;meta[translation=ðeɪ ɑː ɹˈeə]
+;meta[audio-hypothesis=SIL DH EY AA R R EH R SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ð       |  250|  345|  1.00|  2.00| ok         | ð  ~  DH [  250 -  345]
+eɪ      |  345|  465|  1.00|  2.00| ok         | eɪ ~  EY [  345 -  465]
+------------------------------------------------------------------------
+ɑ       |  465|  505|  1.00|  2.00| ok         | ɑ  ~  AA [  465 -  505]
+------------------------------------------------------------------------
+ɹ       |  505|  665|  1.00|  2.00| ok         | ɹ  ~> R  [  505 -  555] + R  [  555 -  665]
+eə      |  665|  940|  1.10|  1.04| ok         | eə ~> EH [  665 -  735] + R  [  735 -  940]

@@ -1,0 +1,17 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=YENN]
+;meta[text=Perfect.]
+;meta[translation=pˈɜːfɛkt]
+;meta[audio-hypothesis=SIL P ER F EH K T SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+p       |  220|  345|  1.00|  2.00| ok         | p  ~  P  [  220 -  345]
+ɜ       |  345|  455|  1.10|  2.00| ok         | ɜ  ~  ER [  345 -  455]
+f       |  455|  535|  1.00|  2.00| ok         | f  ~  F  [  455 -  535]
+ɛ       |  535|  625|  1.00|  2.00| ok         | ɛ  ~  EH [  535 -  625]
+k       |  625|  695|  1.00|  2.00| ok         | k  ~  K  [  625 -  695]
+t       |  695|  810|  1.00|  2.00| ok         | t  ~  T  [  695 -  810]

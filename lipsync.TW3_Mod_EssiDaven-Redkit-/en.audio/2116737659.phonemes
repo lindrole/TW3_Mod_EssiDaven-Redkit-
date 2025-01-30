@@ -1,0 +1,15 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=YENN]
+;meta[text=Rita!]
+;meta[translation=ɹˈiːtə]
+;meta[audio-hypothesis=SIL R IY T AH]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɹ       |  320|  375|  1.00|  2.00| ok         | ɹ  ~  R  [  320 -  375]
+i       |  375|  405|  1.10|  2.00| ok         | i  ~  IY [  375 -  405]
+t       |  405|  495|  1.00|  2.00| ok         | t  ~  T  [  405 -  495]
+ə       |  495|  690|  1.00|  1.50| ok         | ə  ~  AH [  495 -  690]

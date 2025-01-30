@@ -1,0 +1,23 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Yes, that's true.]
+;meta[translation=jˈɛs ðats tɹˈuː]
+;meta[audio-hypothesis=SIL Y EH S SIL DH AE T S T R UW SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+j       |  250|  385|  1.00|  2.00| ok         | j  ~  Y  [  250 -  385]
+ɛ       |  385|  515|  1.10|  2.00| ok         | ɛ  ~  EH [  385 -  515]
+s       |  515|  760|  1.00|  2.00| ok         | s  ~  S  [  515 -  760]
+------------------------------------------------------------------------
+ð       |  910|  955|  1.00|  2.00| ok         | ð  ~  DH [  910 -  955]
+a       |  955| 1055|  1.00|  2.00| ok         | a  ~  AE [  955 - 1055]
+t       | 1055| 1095|  1.00|  2.00| ok         | t  ~  T  [ 1055 - 1095]
+s       | 1095| 1195|  1.00|  2.00| ok         | s  ~  S  [ 1095 - 1195]
+------------------------------------------------------------------------
+t       | 1195| 1275|  1.00|  2.00| ok         | t  ~  T  [ 1195 - 1275]
+ɹ       | 1275| 1385|  1.00|  2.00| ok         | ɹ  ~  R  [ 1275 - 1385]
+u       | 1385| 1690|  1.10|  2.00| ok         | u  ~  UW [ 1385 - 1690]

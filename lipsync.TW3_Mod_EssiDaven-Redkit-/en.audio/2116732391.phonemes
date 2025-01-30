@@ -1,0 +1,21 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=DAND]
+;meta[text=We're close by.]
+;meta[translation=wiə klˈəʊs bˈaɪ]
+;meta[audio-hypothesis=SIL W IY R K L OW S B AY]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+w       |  270|  335|  1.00|  2.00| ok         | w  ~  W  [  270 -  335]
+iə      |  335|  395|  1.00|  0.55| ok         | iə ~> IY [  335 -  365] + R  [  365 -  395]
+------------------------------------------------------------------------
+k       |  395|  465|  1.00|  2.00| ok         | k  ~  K  [  395 -  465]
+l       |  465|  525|  1.00|  2.00| ok         | l  ~  L  [  465 -  525]
+əʊ      |  525|  575|  1.10|  2.00| ok         | əʊ ~  OW [  525 -  575]
+s       |  575|  685|  1.00|  2.00| ok         | s  ~  S  [  575 -  685]
+------------------------------------------------------------------------
+b       |  685|  745|  1.00|  2.00| ok         | b  ~  B  [  685 -  745]
+aɪ      |  745|  910|  1.10|  2.00| ok         | aɪ ~  AY [  745 -  910]

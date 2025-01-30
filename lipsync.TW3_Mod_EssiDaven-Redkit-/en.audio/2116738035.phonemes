@@ -1,0 +1,21 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Well, I'm not.]
+;meta[translation=wˈɛl aɪm nˈɒt]
+;meta[audio-hypothesis=SIL W EH L SIL AY M N AA T SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+w       |  300|  375|  1.00|  2.00| ok         | w  ~  W  [  300 -  375]
+ɛ       |  375|  445|  1.10|  2.00| ok         | ɛ  ~  EH [  375 -  445]
+l       |  445|  630|  1.00|  2.00| ok         | l  ~  L  [  445 -  630]
+------------------------------------------------------------------------
+aɪ      |  750|  845|  1.00|  2.00| ok         | aɪ ~  AY [  750 -  845]
+m       |  845|  885|  1.00|  2.00| ok         | m  ~  M  [  845 -  885]
+------------------------------------------------------------------------
+n       |  885|  955|  1.00|  2.00| ok         | n  ~  N  [  885 -  955]
+ɒ       |  955| 1145|  1.10|  2.00| ok         | ɒ  ~  AA [  955 - 1145]
+t       | 1145| 1340|  1.00|  2.00| ok         | t  ~  T  [ 1145 - 1340]

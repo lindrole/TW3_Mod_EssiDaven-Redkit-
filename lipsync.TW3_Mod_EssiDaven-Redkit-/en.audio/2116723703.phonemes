@@ -1,0 +1,15 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Duke.]
+;meta[translation=djˈuːk]
+;meta[audio-hypothesis=SIL D UW K SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+d       |  310|  335|  1.00|  2.00| ok         | d  ~  D  [  310 -  335]
+j       |  335|  445|  1.00|  0.10| ok         | j  ~  UW [  335 -  555]
+u       |  445|  555|  1.10|  1.99| ok         | u  \  UW [  335 -  555]
+k       |  555|  670|  1.00|  2.00| ok         | k  ~  K  [  555 -  670]

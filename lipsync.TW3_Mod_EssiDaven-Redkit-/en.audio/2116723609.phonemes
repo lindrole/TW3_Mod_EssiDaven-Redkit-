@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=YENN]
+;meta[text=A demon?]
+;meta[translation=ɐ dˈiːmən]
+;meta[audio-hypothesis=SIL AH D IY M AH N SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɐ       |  320|  375|  1.00|  2.00| ok         | ɐ  ~  AH [  320 -  375]
+------------------------------------------------------------------------
+d       |  375|  445|  1.00|  2.00| ok         | d  ~  D  [  375 -  445]
+i       |  445|  615|  1.10|  2.00| ok         | i  ~  IY [  445 -  615]
+m       |  615|  705|  1.00|  2.00| ok         | m  ~  M  [  615 -  705]
+ə       |  705|  735|  1.00|  1.50| ok         | ə  ~  AH [  705 -  735]
+n       |  735|  900|  1.00|  2.00| ok         | n  ~  N  [  735 -  900]

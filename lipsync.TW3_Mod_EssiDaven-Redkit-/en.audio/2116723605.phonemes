@@ -1,0 +1,22 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Before you leave,]
+;meta[translation=bɪfˌɔː juː lˈiːv]
+;meta[audio-hypothesis=SIL B IH F AO R Y UW L IY V SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+b       |  260|  315|  1.00|  2.00| ok         | b  ~  B  [  260 -  315]
+ɪ       |  315|  375|  1.00|  2.00| ok         | ɪ  ~  IH [  315 -  375]
+f       |  375|  475|  1.00|  2.00| ok         | f  ~  F  [  375 -  475]
+ɔ       |  475|  635|  1.05|  1.04| ok         | ɔ  ~> AO [  475 -  585] + R  [  585 -  635]
+------------------------------------------------------------------------
+j       |  635|  695|  1.00|  2.00| ok         | j  ~  Y  [  635 -  695]
+u       |  695|  815|  1.00|  2.00| ok         | u  ~  UW [  695 -  815]
+------------------------------------------------------------------------
+l       |  815|  855|  1.00|  2.00| ok         | l  ~  L  [  815 -  855]
+i       |  855| 1025|  1.10|  2.00| ok         | i  ~  IY [  855 - 1025]
+v       | 1025| 1170|  1.00|  2.00| ok         | v  ~  V  [ 1025 - 1170]

@@ -1,0 +1,19 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=CIRI]
+;meta[text=Exactly.]
+;meta[translation=ɛɡzˈaktli]
+;meta[audio-hypothesis=SIL IH G Z AE K T L IY SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɛ       |  280|  335|  1.00|  0.10| ok         | ɛ  ~  IH [  280 -  335]
+ɡ       |  335|  405|  1.00|  2.00| ok         | ɡ  ~  G  [  335 -  405]
+z       |  405|  465|  1.00|  2.00| ok         | z  ~  Z  [  405 -  465]
+a       |  465|  595|  1.10|  2.00| ok         | a  ~  AE [  465 -  595]
+k       |  595|  685|  1.00|  2.00| ok         | k  ~  K  [  595 -  685]
+t       |  685|  715|  1.00|  2.00| ok         | t  ~  T  [  685 -  715]
+l       |  715|  755|  1.00|  2.00| ok         | l  ~  L  [  715 -  755]
+i       |  755|  920|  1.00|  2.00| ok         | i  ~  IY [  755 -  920]

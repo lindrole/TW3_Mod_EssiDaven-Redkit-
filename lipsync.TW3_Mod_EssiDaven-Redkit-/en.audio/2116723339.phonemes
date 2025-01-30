@@ -1,0 +1,22 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=DAND]
+;meta[text=I understand.]
+;meta[translation=ˈaɪ ˌʌndəstˈand]
+;meta[audio-hypothesis=SIL AY AH N D ER S T AE N D SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+aɪ      |  260|  375|  1.10|  2.00| ok         | aɪ ~  AY [  260 -  375]
+------------------------------------------------------------------------
+ʌ       |  375|  405|  1.05|  2.00| ok         | ʌ  ~  AH [  375 -  405]
+n       |  405|  435|  1.00|  2.00| ok         | n  ~  N  [  405 -  435]
+d       |  435|  465|  1.00|  2.00| ok         | d  ~  D  [  435 -  465]
+ə       |  465|  495|  1.00|  1.50| ok         | ə  ~  ER [  465 -  495]
+s       |  495|  585|  1.00|  2.00| ok         | s  ~  S  [  495 -  585]
+t       |  585|  615|  1.00|  2.00| ok         | t  ~  T  [  585 -  615]
+a       |  615|  815|  1.10|  2.00| ok         | a  ~  AE [  615 -  815]
+n       |  815|  855|  1.00|  2.00| ok         | n  ~  N  [  815 -  855]
+d       |  855|  970|  1.00|  2.00| ok         | d  ~  D  [  855 -  970]

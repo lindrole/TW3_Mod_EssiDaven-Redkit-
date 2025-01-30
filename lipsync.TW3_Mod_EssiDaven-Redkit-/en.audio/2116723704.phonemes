@@ -1,0 +1,17 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=STDAGL]
+;meta[text=Geralt!]
+;meta[translation=dʒˈɛɹɒlt]
+;meta[audio-hypothesis=SIL G IH R AO L D]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+dʒ      |  280|  355|  1.00|  1.00| ok         | dʒ ~  G  [  280 -  355]
+ɛ       |  355|  475|  1.10|  0.10| ok         | ɛ  ~  IH [  355 -  475]
+ɹ       |  475|  505|  1.00|  2.00| ok         | ɹ  ~  R  [  475 -  505]
+ɒ       |  505|  685|  1.00|  0.50| ok         | ɒ  ~  AO [  505 -  685]
+l       |  685|  765|  1.00|  2.00| ok         | l  ~  L  [  685 -  765]
+t       |  765| 1070|  1.00|  1.00| ok         | t  ~  D  [  765 - 1070]
