@@ -11133,6 +11133,8 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116738359;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Line text;GRLT_STED_2116738359;;;;;;;;;;;;;;How did Heart of Stone DLC end?;;;;
 2116738360;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_yen.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116738361;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_yen.w2scene""";Line text;YENN_STED_2116738361;;;;;;;;;;;;;;Sorry, Geralt. I really must pack my things now.;;;;
+2116738362;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738363;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line text;GRLT_STED_2116738363;;;;;;;;;;;;;;It hurts! I should stay in the center of the illusion.;;;;
 1122473;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 1122474;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line text;SHNI_Q602_01122474;;;;;;;;;;;;;;;;;;
 1122475;"CStoryScene ""dlc\dlcsted\data\scenes\cutscenes\sex_with_yen\not_used\q602_19_dancing.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
