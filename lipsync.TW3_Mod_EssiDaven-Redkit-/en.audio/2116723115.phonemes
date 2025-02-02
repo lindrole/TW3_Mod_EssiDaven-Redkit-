@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=DAND]
+;meta[text=Let's go.]
+;meta[translation=lˈɛts ɡˈəʊ]
+;meta[audio-hypothesis=SIL L EH T S G OW SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+l       |  280|  325|  1.00|  2.00| ok         | l  ~  L  [  280 -  325]
+ɛ       |  325|  415|  1.10|  2.00| ok         | ɛ  ~  EH [  325 -  415]
+t       |  415|  455|  1.00|  2.00| ok         | t  ~  T  [  415 -  455]
+s       |  455|  515|  1.00|  2.00| ok         | s  ~  S  [  455 -  515]
+------------------------------------------------------------------------
+ɡ       |  515|  595|  1.00|  2.00| ok         | ɡ  ~  G  [  515 -  595]
+əʊ      |  595|  810|  1.10|  2.00| ok         | əʊ ~  OW [  595 -  810]

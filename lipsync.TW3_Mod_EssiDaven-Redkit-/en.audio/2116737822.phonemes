@@ -1,0 +1,21 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=VIM1]
+;meta[text=Yes, Geralt.]
+;meta[translation=jˈɛs dʒˈɛɹɒlt]
+;meta[audio-hypothesis=SIL Y EH S G EH R OW L T SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+j       |  280|  345|  1.00|  2.00| ok         | j  ~  Y  [  280 -  345]
+ɛ       |  345|  445|  1.10|  2.00| ok         | ɛ  ~  EH [  345 -  445]
+s       |  445|  585|  1.00|  2.00| ok         | s  ~  S  [  445 -  585]
+------------------------------------------------------------------------
+dʒ      |  585|  655|  1.00|  1.00| ok         | dʒ ~  G  [  585 -  655]
+ɛ       |  655|  705|  1.10|  2.00| ok         | ɛ  ~  EH [  655 -  705]
+ɹ       |  705|  735|  1.00|  2.00| ok         | ɹ  ~  R  [  705 -  735]
+ɒ       |  735|  855|  1.00|  0.10| ok         | ɒ  ~  OW [  735 -  855]
+l       |  855|  925|  1.00|  2.00| ok         | l  ~  L  [  855 -  925]
+t       |  925| 1080|  1.00|  2.00| ok         | t  ~  T  [  925 - 1080]

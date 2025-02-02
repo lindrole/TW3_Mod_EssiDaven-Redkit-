@@ -1,0 +1,17 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=TRSS]
+;meta[text=Mine too.]
+;meta[translation=mˈaɪn tˈuː]
+;meta[audio-hypothesis=SIL M AY N T UW SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+m       |  200|  355|  1.00|  2.00| ok         | m  ~  M  [  200 -  355]
+aɪ      |  355|  515|  1.10|  2.00| ok         | aɪ ~  AY [  355 -  515]
+n       |  515|  605|  1.00|  2.00| ok         | n  ~  N  [  515 -  605]
+------------------------------------------------------------------------
+t       |  605|  715|  1.00|  2.00| ok         | t  ~  T  [  605 -  715]
+u       |  715|  990|  1.10|  2.00| ok         | u  ~  UW [  715 -  990]

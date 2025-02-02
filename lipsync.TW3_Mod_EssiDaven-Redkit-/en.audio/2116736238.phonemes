@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=It's late.]
+;meta[translation=ɪts lˈeɪt]
+;meta[audio-hypothesis=SIL IH T S L EY T SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɪ       |  310|  375|  1.00|  2.00| ok         | ɪ  ~  IH [  310 -  375]
+t       |  375|  405|  1.00|  2.00| ok         | t  ~  T  [  375 -  405]
+s       |  405|  455|  1.00|  2.00| ok         | s  ~  S  [  405 -  455]
+------------------------------------------------------------------------
+l       |  455|  585|  1.00|  2.00| ok         | l  ~  L  [  455 -  585]
+eɪ      |  585|  765|  1.10|  2.00| ok         | eɪ ~  EY [  585 -  765]
+t       |  765|  880|  1.00|  2.00| ok         | t  ~  T  [  765 -  880]

@@ -1,0 +1,19 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Very well…]
+;meta[translation=vˈɛɹɪ wˈɛl]
+;meta[audio-hypothesis=SIL V EH R IY W EH L SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+v       |  120|  165|  1.00|  2.00| ok         | v  ~  V  [  120 -  165]
+ɛ       |  165|  305|  1.10|  2.00| ok         | ɛ  ~  EH [  165 -  305]
+ɹ       |  305|  365|  1.00|  2.00| ok         | ɹ  ~  R  [  305 -  365]
+ɪ       |  365|  405|  1.00|  1.00| ok         | ɪ  ~  IY [  365 -  405]
+------------------------------------------------------------------------
+w       |  405|  515|  1.00|  2.00| ok         | w  ~  W  [  405 -  515]
+ɛ       |  515|  615|  1.10|  2.00| ok         | ɛ  ~  EH [  515 -  615]
+l       |  615|  750|  1.00|  2.00| ok         | l  ~  L  [  615 -  750]

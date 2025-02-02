@@ -1,0 +1,17 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Right now?]
+;meta[translation=ɹˈaɪt nˈaʊ]
+;meta[audio-hypothesis=SIL R AY T N AW SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɹ       |  310|  375|  1.00|  2.00| ok         | ɹ  ~  R  [  310 -  375]
+aɪ      |  375|  495|  1.10|  2.00| ok         | aɪ ~  AY [  375 -  495]
+t       |  495|  525|  1.00|  2.00| ok         | t  ~  T  [  495 -  525]
+------------------------------------------------------------------------
+n       |  525|  595|  1.00|  2.00| ok         | n  ~  N  [  525 -  595]
+aʊ      |  595|  940|  1.10|  2.00| ok         | aʊ ~  AW [  595 -  940]

@@ -79,12 +79,12 @@ rem   - if lipsync animations are created from audio then CONVERT_TO_WEM must
 rem     set to "yes" and the path to the wwise bin directory must be valid
 rem   - if animations are created from text lines CONVERT_TO_WEM is unnecessary 
 rem     as a silence placeholder audio is used instead
-SET CREATE_W3SPEECH_FILES=no
+SET CREATE_W3SPEECH_FILES=yes
 
 rem -- w3speech directory
 rem all w3speech files will be placed there, e.g. the content directory of the
 rem mod in a w3 game installation for quick in-game testing
-SET DIR_W3SPEECH=D:\Witcher__3\REDKIT\Projects\TW3_Mod_EssiDaven-Redkit-\w3speech
+SET DIR_W3SPEECH=D:\Witcher__3\REDKIT\Projects\TW3_Mod_EssiDaven-Redkit-\lipsync.TW3_Mod_EssiDaven-Redkit-\w3speech
 
 rem -----------------------------------------------------------------------------------------------
 rem -----------------------------------------------------------------------------------------------

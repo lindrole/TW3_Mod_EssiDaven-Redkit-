@@ -1,0 +1,25 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=YENN]
+;meta[text=You'd be surprised.]
+;meta[translation=juːd biː səpɹˈaɪzd]
+;meta[audio-hypothesis=SIL Y UW D B IY S ER P R AY Z D]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+j       |  280|  385|  1.00|  2.00| ok         | j  ~  Y  [  280 -  385]
+u       |  385|  415|  1.00|  2.00| ok         | u  ~  UW [  385 -  415]
+d       |  415|  455|  1.00|  2.00| ok         | d  ~  D  [  415 -  455]
+------------------------------------------------------------------------
+b       |  455|  485|  1.00|  2.00| ok         | b  ~  B  [  455 -  485]
+i       |  485|  535|  1.00|  2.00| ok         | i  ~  IY [  485 -  535]
+------------------------------------------------------------------------
+s       |  535|  635|  1.00|  2.00| ok         | s  ~  S  [  535 -  635]
+ə       |  635|  665|  1.00|  1.50| ok         | ə  ~  ER [  635 -  665]
+p       |  665|  735|  1.00|  2.00| ok         | p  ~  P  [  665 -  735]
+ɹ       |  735|  805|  1.00|  2.00| ok         | ɹ  ~  R  [  735 -  805]
+aɪ      |  805| 1055|  1.10|  2.00| ok         | aɪ ~  AY [  805 - 1055]
+z       | 1055| 1165|  1.00|  2.00| ok         | z  ~  Z  [ 1055 - 1165]
+d       | 1165| 1300|  1.00|  2.00| ok         | d  ~  D  [ 1165 - 1300]

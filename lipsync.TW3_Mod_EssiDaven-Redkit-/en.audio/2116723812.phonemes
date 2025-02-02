@@ -1,0 +1,19 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=YENN]
+;meta[text=As I feared,]
+;meta[translation=az ˈaɪ fˈiəd]
+;meta[audio-hypothesis=SIL AE Z AY F IH R D SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+a       |  290|  395|  1.00|  2.00| ok         | a  ~  AE [  290 -  395]
+z       |  395|  455|  1.00|  2.00| ok         | z  ~  Z  [  395 -  455]
+------------------------------------------------------------------------
+aɪ      |  455|  575|  1.10|  2.00| ok         | aɪ ~  AY [  455 -  575]
+------------------------------------------------------------------------
+f       |  575|  695|  1.00|  2.00| ok         | f  ~  F  [  575 -  695]
+iə      |  695|  995|  1.10|  0.55| ok         | iə ~> IH [  695 -  965] + R  [  965 -  995]
+d       |  995| 1080|  1.00|  2.00| ok         | d  ~  D  [  995 - 1080]

@@ -1,0 +1,23 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=EFP18]
+;meta[text=Very well, then.]
+;meta[translation=vˈɛɹɪ wˈɛl ðˈɛn]
+;meta[audio-hypothesis=SIL V EH R IY W EH L DH EH N]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+v       |  290|  335|  1.00|  2.00| ok         | v  ~  V  [  290 -  335]
+ɛ       |  335|  395|  1.10|  2.00| ok         | ɛ  ~  EH [  335 -  395]
+ɹ       |  395|  445|  1.00|  2.00| ok         | ɹ  ~  R  [  395 -  445]
+ɪ       |  445|  495|  1.00|  1.00| ok         | ɪ  ~  IY [  445 -  495]
+------------------------------------------------------------------------
+w       |  495|  605|  1.00|  2.00| ok         | w  ~  W  [  495 -  605]
+ɛ       |  605|  645|  1.10|  2.00| ok         | ɛ  ~  EH [  605 -  645]
+l       |  645|  775|  1.00|  2.00| ok         | l  ~  L  [  645 -  775]
+------------------------------------------------------------------------
+ð       |  775|  825|  1.00|  2.00| ok         | ð  ~  DH [  775 -  825]
+ɛ       |  825|  895|  1.10|  2.00| ok         | ɛ  ~  EH [  825 -  895]
+n       |  895| 1000|  1.00|  2.00| ok         | n  ~  N  [  895 - 1000]

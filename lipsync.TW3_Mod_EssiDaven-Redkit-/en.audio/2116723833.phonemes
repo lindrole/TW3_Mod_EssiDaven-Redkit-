@@ -1,0 +1,20 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Are you ready?]
+;meta[translation=ɑː juː ɹˈɛdi]
+;meta[audio-hypothesis=SIL AA R Y UW R EH D IY SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɑ       |  100|  265|  1.00|  1.04| ok         | ɑ  ~> AA [  100 -  175] + R  [  175 -  265]
+------------------------------------------------------------------------
+j       |  265|  385|  1.00|  2.00| ok         | j  ~  Y  [  265 -  385]
+u       |  385|  455|  1.00|  2.00| ok         | u  ~  UW [  385 -  455]
+------------------------------------------------------------------------
+ɹ       |  455|  525|  1.00|  2.00| ok         | ɹ  ~  R  [  455 -  525]
+ɛ       |  525|  575|  1.10|  2.00| ok         | ɛ  ~  EH [  525 -  575]
+d       |  575|  605|  1.00|  2.00| ok         | d  ~  D  [  575 -  605]
+i       |  605|  820|  1.00|  2.00| ok         | i  ~  IY [  605 -  820]

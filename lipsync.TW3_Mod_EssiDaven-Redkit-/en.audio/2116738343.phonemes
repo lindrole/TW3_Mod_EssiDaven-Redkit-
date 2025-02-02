@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=GRLT]
+;meta[text=Like this?]
+;meta[translation=lˈaɪk ðˈɪs]
+;meta[audio-hypothesis=SIL L AY K DH IH S SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+l       |  300|  355|  1.00|  2.00| ok         | l  ~  L  [  300 -  355]
+aɪ      |  355|  465|  1.10|  2.00| ok         | aɪ ~  AY [  355 -  465]
+k       |  465|  535|  1.00|  2.00| ok         | k  ~  K  [  465 -  535]
+------------------------------------------------------------------------
+ð       |  535|  585|  1.00|  2.00| ok         | ð  ~  DH [  535 -  585]
+ɪ       |  585|  735|  1.10|  2.00| ok         | ɪ  ~  IH [  585 -  735]
+s       |  735|  980|  1.00|  2.00| ok         | s  ~  S  [  735 -  980]

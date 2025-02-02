@@ -1,0 +1,17 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=YENN]
+;meta[text=Geralt!]
+;meta[translation=dʒˈɛɹɒlt]
+;meta[audio-hypothesis=SIL G AH R OW L T SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+dʒ      |  260|  315|  1.00|  1.00| ok         | dʒ ~  G  [  260 -  315]
+ɛ       |  315|  435|  1.10|  0.50| ok         | ɛ  ~  AH [  315 -  435]
+ɹ       |  435|  465|  1.00|  2.00| ok         | ɹ  ~  R  [  435 -  465]
+ɒ       |  465|  615|  1.00|  0.10| ok         | ɒ  ~  OW [  465 -  615]
+l       |  615|  665|  1.00|  2.00| ok         | l  ~  L  [  615 -  665]
+t       |  665|  820|  1.00|  2.00| ok         | t  ~  T  [  665 -  820]
