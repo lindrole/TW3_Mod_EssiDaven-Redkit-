@@ -62,6 +62,7 @@
                 2116736219,
                 2116736221,
                 2116737991,
+                2116738361,
                 2116723570
             ]
         },
@@ -97,6 +98,12 @@
                 2116723915,
                 2116723917,
                 2116723918
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_lvl2.w2ent",
+            "string_ids": [
+                1079773
             ]
         },
         {
@@ -197,12 +204,6 @@
                 2116737610,
                 2116737612,
                 2116737614
-            ]
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\sted_quest_keira_metz.w2ent",
-            "string_ids": [
-                334714
             ]
         },
         {
@@ -435,26 +436,40 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\initial_mirror_devil_fighter.w2ent",
+            "string_ids": [
+                2116723003
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_bremervoord_before_fight.w2scene",
+            "string_ids": [
+                2116738253,
+                2116738255
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_06b_fake_empty_scene.w2scene",
             "string_ids": [
                 2116737939
             ]
         },
         {
-            "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_1\\actionpoints.w2l",
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\swarms.w2l",
             "string_ids": [
-                162813
+                317025
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita_choice_not_lover.w2scene",
+            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6c\\actionpoints.w2l",
             "string_ids": [
-                2116737926,
-                2116737914,
-                2116737920,
-                2116737928,
-                2116737916,
-                2116737912
+                173494
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_1\\actionpoints.w2l",
+            "string_ids": [
+                162813
             ]
         },
         {
@@ -477,6 +492,25 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita.w2scene",
+            "string_ids": [
+                2116738267,
+                2116738263,
+                2116738269,
+                2116738271,
+                2116738273,
+                2116738275,
+                2116738277,
+                2116738279,
+                2116738265,
+                2116737904,
+                2116737906,
+                2116737908,
+                2116737910,
+                2116738261
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\sted_eternal_fire_priest.w2ent",
             "string_ids": [
                 2116738055
@@ -489,12 +523,17 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita.w2scene",
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_fire_book.w2scene",
             "string_ids": [
-                2116737904,
-                2116737906,
-                2116737908,
-                2116737910
+                2116738065,
+                2116738067,
+                2116738069,
+                2116738061,
+                2116738071,
+                2116738073,
+                2116738063,
+                2116738059,
+                2116738225
             ]
         },
         {
@@ -551,23 +590,7 @@
                 2116723613,
                 2116723614,
                 2116723615,
-                2116723616,
-                2116738017,
-                2116738019,
-                2116738021
-            ]
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_fire_book.w2scene",
-            "string_ids": [
-                2116738065,
-                2116738067,
-                2116738069,
-                2116738061,
-                2116738071,
-                2116738073,
-                2116738063,
-                2116738059
+                2116723616
             ]
         },
         {
@@ -611,6 +634,13 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6b\\actionpoints.w2l",
+            "string_ids": [
+                322279,
+                162813
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\mirror_devil_fighter.w2ent",
             "string_ids": [
                 2116723002
@@ -623,6 +653,36 @@
                 2116732499,
                 2116736226,
                 2116732497
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\dettlaff_van_eretein_monster.w2ent",
+            "string_ids": [
+                1164728
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save3_sted_07b_ciri_at_grave.w2scene",
+            "string_ids": [
+                2116723903,
+                2116723904,
+                2116723905,
+                2116723906,
+                2116723907,
+                2116723908,
+                2116723909,
+                2116723910,
+                2116723911,
+                2116723912,
+                2116723900,
+                2116737477,
+                2116737479
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_mirror_fighter.w2ent",
+            "string_ids": [
+                2116723002
             ]
         },
         {
@@ -640,6 +700,14 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save2_sted_08e_sex_yen_part1.w2scene",
+            "string_ids": [
+                2116737969,
+                2116737971,
+                2116738343
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7011_flier_01_cont.w2ent",
             "string_ids": [
                 162558
@@ -652,21 +720,9 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_07b_ciri_at_grave.w2scene",
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save4_sted_griffin.w2ent",
             "string_ids": [
-                2116723903,
-                2116723904,
-                2116723905,
-                2116723906,
-                2116723907,
-                2116723908,
-                2116723909,
-                2116723910,
-                2116723911,
-                2116723912,
-                2116723900,
-                2116737477,
-                2116737479
+                1085027
             ]
         },
         {
@@ -685,6 +741,26 @@
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03g_gp_bedroom_door.w2scene",
             "string_ids": [
                 2116732516
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_06a_yen_toussaint.w2scene",
+            "string_ids": [
+                2116737641,
+                2116737645,
+                2116738046
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_mirror_devil_fighter.w2ent",
+            "string_ids": [
+                2116723002
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_fake_gp_scene.w2scene",
+            "string_ids": [
+                2116732411
             ]
         },
         {
@@ -707,15 +783,28 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_fake_gp_scene.w2scene",
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_08a_final_mirror.w2scene",
             "string_ids": [
-                2116732411
+                2116723210,
+                2116723211,
+                2116723212
             ]
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\not_used\\save_sted_margarita.w2ent",
             "string_ids": [
                 176847
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\sted_08_final_margarita_choice_not_lover.w2scene",
+            "string_ids": [
+                2116737926,
+                2116737914,
+                2116737920,
+                2116737928,
+                2116737916,
+                2116737912
             ]
         },
         {
@@ -754,6 +843,7 @@
                 2116737948,
                 2116737989,
                 2116738044,
+                2116738223,
                 2116732490
             ]
         },
@@ -789,6 +879,12 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\mainnpc_sted_keira_metz.w2ent",
+            "string_ids": [
+                2116738004
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\sted_gryphon_template.w2ent",
             "string_ids": [
                 527328
@@ -806,8 +902,22 @@
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_yen.w2scene",
             "string_ids": [
+                2116738341,
                 2116737993,
-                2116737995
+                2116738333,
+                2116738335,
+                2116738337,
+                2116738339,
+                2116737995,
+                2116738315,
+                2116738317,
+                2116738319,
+                2116738321,
+                2116738323,
+                2116738325,
+                2116738327,
+                2116738329,
+                2116738331
             ]
         },
         {
@@ -888,6 +998,8 @@
                 2116737814,
                 2116737816,
                 2116737818,
+                2116738257,
+                2116738259,
                 2116737832,
                 2116737834,
                 2116737846,
@@ -897,7 +1009,7 @@
                 2116737804,
                 2116737806,
                 2116737766,
-                2116737768,
+                2116738345,
                 2116737770,
                 2116737772
             ]
@@ -906,6 +1018,12 @@
             "path": "dlc\\dlcsted\\levels\\skellige\\phase_8\\actionpoints.w2l",
             "string_ids": [
                 180788
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_8\\actionpoints.w2l",
+            "string_ids": [
+                162813
             ]
         },
         {
@@ -921,9 +1039,33 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_at_grave.w2scene",
+            "string_ids": [
+                2116738233,
+                2116738235,
+                2116738237,
+                2116738239,
+                2116738241,
+                2116738243,
+                2116738245,
+                2116738247,
+                2116738249,
+                2116738251,
+                2116738227,
+                2116738229,
+                2116738231
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_ranged.w2ent",
             "string_ids": [
                 452710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_lvl3__volcanic.w2ent",
+            "string_ids": [
+                1055691
             ]
         },
         {
@@ -1062,12 +1204,6 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\initial_mirror_devil_fighter.w2ent",
-            "string_ids": [
-                2116723003
-            ]
-        },
-        {
             "path": "dlc\\dlcsted\\data\\entities\\items\\books\\sted_ancient_book_loot.w2ent",
             "string_ids": [
                 2116737708
@@ -1080,19 +1216,12 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\sted_griffin.w2ent",
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_08_final_margarita.w2scene",
             "string_ids": [
-                1085027
-            ]
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_before_fire.w2scene",
-            "string_ids": [
-                2116738075,
-                2116738077,
-                2116738079,
-                2116738081,
-                2116738083
+                2116737904,
+                2116737906,
+                2116737908,
+                2116737910
             ]
         },
         {
@@ -1116,6 +1245,22 @@
                 2116723537,
                 2116723538,
                 2116723539
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_griffin.w2ent",
+            "string_ids": [
+                1079773
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_before_fire.w2scene",
+            "string_ids": [
+                2116738075,
+                2116738077,
+                2116738079,
+                2116738081,
+                2116738083
             ]
         },
         {
@@ -1202,7 +1347,26 @@
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08e_sex_yen_part1.w2scene",
             "string_ids": [
                 2116737969,
-                2116737971
+                2116737971,
+                2116738343
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_parameters.w2scene",
+            "string_ids": [
+                2116738351,
+                2116738301,
+                2116738303,
+                2116738355,
+                2116738313,
+                2116738349,
+                2116738307,
+                2116738305,
+                2116738359,
+                2116738347,
+                2116738357,
+                2116738311,
+                2116738309
             ]
         },
         {
@@ -1226,12 +1390,6 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\items\\sted_shell_blue_pearl.w2ent",
-            "string_ids": [
-                2116736988
-            ]
-        },
-        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08e_sex_yen_part2.w2scene",
             "string_ids": [
                 1132081,
@@ -1244,6 +1402,18 @@
                 1132092,
                 2116737969,
                 2116737971
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\sted_shell_blue_pearl.w2ent",
+            "string_ids": [
+                2116736988
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save5_sted_griffin.w2ent",
+            "string_ids": [
+                1079773
             ]
         },
         {
@@ -1294,15 +1464,28 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_shadows.w2ent",
+            "string_ids": [
+                1137150
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_prolog.w2ent",
             "string_ids": [
                 527328
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\dettlaff_van_eretein_monster.w2ent",
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\sted_initialization.w2scene",
             "string_ids": [
-                1164728
+                2116738297,
+                2116738285,
+                2116738287,
+                2116738293,
+                2116738295,
+                2116738283,
+                2116738291,
+                2116738289
             ]
         },
         {
@@ -1427,12 +1610,6 @@
             ]
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\mainnpc_sted_keira_metz.w2ent",
-            "string_ids": [
-                2116738004
-            ]
-        },
-        {
             "path": "dlc\\dlcsted\\data\\scenes\\cutscenes\\sex_with_yen\\not_used\\sted8_sex_yen.w2scene",
             "string_ids": [
                 1132081,
@@ -1451,6 +1628,25 @@
             "path": "dlc\\dlcsted\\data\\entities\\sted_margarita.w2ent",
             "string_ids": [
                 176847
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_quest_keira_metz.w2ent",
+            "string_ids": [
+                334714
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\sted_08_final_margarita_choice_lover.w2scene",
+            "string_ids": [
+                2116737926,
+                2116737914,
+                2116737918,
+                2116737930,
+                2116737922,
+                2116737924,
+                2116737916,
+                2116737912
             ]
         },
         {
@@ -1512,20 +1708,8 @@
                 2116738001,
                 2116738029,
                 2116738048,
+                2116738363,
                 2116737714
-            ]
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita_choice_lover.w2scene",
-            "string_ids": [
-                2116737926,
-                2116737914,
-                2116737918,
-                2116737930,
-                2116737922,
-                2116737924,
-                2116737916,
-                2116737912
             ]
         },
         {
@@ -1568,6 +1752,24 @@
             ]
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save2_sted_07b_ciri_at_grave.w2scene",
+            "string_ids": [
+                2116723903,
+                2116723904,
+                2116723905,
+                2116723906,
+                2116723907,
+                2116723908,
+                2116723909,
+                2116723910,
+                2116723911,
+                2116723912,
+                2116723900,
+                2116737477,
+                2116737479
+            ]
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\items\\books\\red_loot\\cont_sq703_accountancy_book.w2ent",
             "string_ids": [
                 1129246
@@ -1590,11 +1792,11 @@
         {
             "path": "dlc\\dlcsted\\dlcsted.reddlc",
             "string_ids": [
+                2116736982,
+                2116736983,
                 2116737707,
                 2116737706,
-                2116737710,
-                2116736982,
-                2116736983
+                2116737710
             ]
         },
         {

@@ -89,28 +89,12 @@
             "diskSize": 426383
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\dettlaff_van_eretein_monster.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "D56224E4-030DB7CB-F21C27D0-C3F3D09D",
-            "diskSize": 333030
-        },
-        {
             "path": "dlc\\dlcsted\\data\\entities\\enemy_succubus_edited.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
             "seed": 1,
             "id": "EAB103F2-2A12D7C0-A4C022D9-44C2D273",
             "diskSize": 258579
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\initial_mirror_devil_fighter.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "BA036618-2C3C2CAA-5AD8CED3-258FDD8F",
-            "diskSize": 240383
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\items\\books\\ep2_loot_book_tailor__book_open_a.w2ent",
@@ -529,14 +513,6 @@
             "diskSize": 6927
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\mainnpc_sted_keira_metz.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "0E2FD896-58B47495-ECEF03D7-AF84E418",
-            "diskSize": 352598
-        },
-        {
             "path": "dlc\\dlcsted\\data\\entities\\mirror_devil_fighter.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
@@ -553,12 +529,52 @@
             "diskSize": 141596
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\dettlaff_van_eretein_monster.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "F7A338A6-0853DA6C-DFA66280-90F3EC32",
+            "diskSize": 333030
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_lvl2.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "74BB4FF7-CB022896-3A1A8E1F-E14AFAC3",
+            "diskSize": 133958
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_lvl3__volcanic.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "C681347C-1E62177D-607AE135-E3CFBAED",
+            "diskSize": 134275
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\not_used\\gryphon_prolog.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
             "seed": 1,
             "id": "4DD5B902-1D330018-C9B0D833-33117BB4",
             "diskSize": 134932
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\initial_mirror_devil_fighter.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "B6D5A904-AF769366-30E3FE7E-6C0192EA",
+            "diskSize": 240383
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\mainnpc_sted_keira_metz.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "6B94A2CA-44FABA9C-7E36BA11-75275D0B",
+            "diskSize": 352598
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\not_used\\not_used_sted_essi.w2ent",
@@ -585,6 +601,22 @@
             "diskSize": 141814
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save4_sted_griffin.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "54DD5FEF-DA3FD1B5-82E13F6A-FA2FC85E",
+            "diskSize": 141653
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\save5_sted_griffin.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "296185EC-F8FB9D6B-F2D87EFB-66B6250C",
+            "diskSize": 133958
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\not_used\\save_sted_griffin.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
@@ -601,44 +633,100 @@
             "diskSize": 294440
         },
         {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\shadow_a.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "C63C9786-2BF66BF5-EEA99BEB-19AFB0D3",
+            "diskSize": 242389
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\shadow_b.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "59880C9C-2E7C922C-C65C06B3-7412D145",
+            "diskSize": 115272
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\shadow_c.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "596592D4-898B979D-9BD0F069-46675F2B",
+            "diskSize": 145178
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\shadow_d.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "25A9073F-0133CBE7-B2284A1D-ACBACE47",
+            "diskSize": 259568
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_c_01__sq701_forest_nymph.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "7BB5114B-93F6D89D-1901A8B7-64DA917B",
+            "diskSize": 3916
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_mirror_fighter.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "E8AC794B-0E90012A-1EEE4C4B-980510A6",
+            "diskSize": 106825
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_quest_keira_metz.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "2DBF0257-8B8458D6-1CCF51DA-E3AA7CD4",
+            "diskSize": 354483
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_sorceress_fireball_black.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "57CC420F-88DE8041-860A8ABD-AD5E4ADF",
+            "diskSize": 12139
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_succubus.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "F8266069-FD04CA49-F8D0489A-5149BADC",
+            "diskSize": 297578
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\sted_triss_cast_black.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "87244A0F-A096DD2D-C8F22E2C-7AFF6D50",
+            "diskSize": 27114
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\not_used\\works_fine_enemy_succubus_edited.w2ent",
+            "level": 0,
+            "class": "CEntityTemplate",
+            "seed": 1,
+            "id": "CBF6D5A4-989B2A76-083C3F95-C9180B6C",
+            "diskSize": 258579
+        },
+        {
             "path": "dlc\\dlcsted\\data\\entities\\pearl_fx.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
             "seed": 1,
             "id": "B20644B6-17766F3D-6CEC4589-C28E3640",
             "diskSize": 5192
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\shadow_a.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "2E845DBF-DB5A429B-D32AD64E-62CB6DD5",
-            "diskSize": 135110
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\shadow_b.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "3A4211A6-68CFDB52-DE16E9EE-D43CDBE5",
-            "diskSize": 101611
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\shadow_c.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "7ABFA73C-610F6DCD-A8BC1ABA-41C5A354",
-            "diskSize": 133678
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\shadow_d.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "0DB3ABBC-18AA6BA7-0ACC68F2-EC14272B",
-            "diskSize": 145145
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\sheenaz.w2ent",
@@ -655,14 +743,6 @@
             "seed": 1,
             "id": "D657C964-8818C93B-CBCB4E7B-47EE57B7",
             "diskSize": 299512
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\sted_c_01__sq701_forest_nymph.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "1464C6AE-629BEC4B-DFCD1AEF-1C3D2166",
-            "diskSize": 3916
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\sted_dead_griffin.w2ent",
@@ -694,7 +774,7 @@
             "class": "CEntityTemplate",
             "seed": 1,
             "id": "29AB61D3-4E36CD63-6765759E-FF365B49",
-            "diskSize": 141653
+            "diskSize": 134463
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\sted_gryphon_template.w2ent",
@@ -713,28 +793,20 @@
             "diskSize": 290937
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\sted_quest_keira_metz.w2ent",
+            "path": "dlc\\dlcsted\\data\\entities\\sted_mirror_devil_fighter.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
             "seed": 1,
-            "id": "F719D97C-D92FB7AC-8F00932A-45A29B8D",
-            "diskSize": 351098
+            "id": "C4D4F15A-C6A5BB5F-8CA483FC-156132A7",
+            "diskSize": 106825
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\sted_sorceress_fireball_black.w2ent",
+            "path": "dlc\\dlcsted\\data\\entities\\sted_shadows.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
             "seed": 1,
-            "id": "25E2A3FA-F1BFD26E-2EFD3E33-51989C5B",
-            "diskSize": 12139
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\sted_succubus.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "479C17DF-12A33638-3B96714A-778DAE03",
-            "diskSize": 297578
+            "id": "830F388A-E6EAEE8D-837FF2B3-367EB3F7",
+            "diskSize": 243280
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\sted_triss.w2ent",
@@ -745,28 +817,12 @@
             "diskSize": 330111
         },
         {
-            "path": "dlc\\dlcsted\\data\\entities\\sted_triss_cast_black.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "4B5689D8-8C8D13FF-A29DC19F-7E94CB49",
-            "diskSize": 27114
-        },
-        {
             "path": "dlc\\dlcsted\\data\\entities\\sted_yennefer_sex_boat.w2ent",
             "level": 0,
             "class": "CEntityTemplate",
             "seed": 1,
             "id": "CF1A734F-E8CBB9AD-0C0BB297-52E5E340",
             "diskSize": 284154
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\entities\\works_fine_enemy_succubus_edited.w2ent",
-            "level": 0,
-            "class": "CEntityTemplate",
-            "seed": 1,
-            "id": "B9DF1B2B-4B0D0474-25667162-C2E5AA87",
-            "diskSize": 258579
         },
         {
             "path": "dlc\\dlcsted\\data\\fx\\sted_fire_anim_04.xbm",
@@ -941,6 +997,78 @@
             "diskSize": 930
         },
         {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_fluff_island_grass.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "DC9EA845-781AF97E-10614CDA-34CCCF4B",
+            "diskSize": 870
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_lake02.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "83575B47-04E1E523-8395F145-A2D2B72A",
+            "diskSize": 1175
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_lake_shore_01.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "BB99B867-1B47B817-5729834D-ABABCB01",
+            "diskSize": 1325
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_novigrad_beach_wet.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "F9A33421-B1D859D1-8F3DF5BB-5E2D0573",
+            "diskSize": 926
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_rockdebris.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "6EC05159-5F40BDF5-8ADB4998-39242A63",
+            "diskSize": 1010
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_rocks_shore.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "849791A8-3E0B11EA-1504F0F5-464ECC17",
+            "diskSize": 1028
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_rocks_small.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "5B0D91E8-C3148C7E-437EA5A5-70050EEB",
+            "diskSize": 1458
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_skellige_river_edge.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "153493E6-77A92924-F4D812D9-61A7E65B",
+            "diskSize": 1539
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\custom_brush\\sted_stones.vbrush",
+            "level": 0,
+            "class": "CVegetationBrush",
+            "seed": 1,
+            "id": "65E3ACA6-50933AB6-8D2F5371-5EE6AFA2",
+            "diskSize": 738
+        },
+        {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\actionpoints.w2l",
             "level": 0,
             "class": "CLayer",
@@ -954,7 +1082,15 @@
             "class": "CLayer",
             "seed": 1,
             "id": "65D7C287-C9575A86-E98C512E-0946BD36",
-            "diskSize": 4929
+            "diskSize": 58691
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\decorations.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "7F3A45CE-D14DBCAF-3B68C6B0-5F2D86E7",
+            "diskSize": 8795
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\fx.w2l",
@@ -970,7 +1106,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "B5B7C5DC-273A5380-DDF7DD11-A08FD736",
-            "diskSize": 227
+            "diskSize": 736
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\sea_layer.w2l",
@@ -989,12 +1125,20 @@
             "diskSize": 1258
         },
         {
-            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\music\\music.w2l",
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\swarms.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
-            "id": "EDB875E1-B6CFCB22-1A030144-6D96600E",
-            "diskSize": 3077
+            "id": "AD675901-93BE3B83-8C3D1168-AF4C14C7",
+            "diskSize": 12434
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\music\\coast_illusion_area.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "D57C6446-7B6E940E-CAB4209F-C65CC89F",
+            "diskSize": 3072
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\occlusion_tiles\\sted_bremervoord_coast.w2w_0x0.w3occlusion",
@@ -9205,12 +9349,44 @@
             "diskSize": 675
         },
         {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-128.00_64.00.flyr",
+            "level": 0,
+            "class": "CFoliageResource",
+            "seed": 1,
+            "id": "70B03941-17B2F757-4716DABC-8650379C",
+            "diskSize": 13106
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-4096.00_-4096.00.flyr",
+            "level": 0,
+            "class": "CFoliageResource",
+            "seed": 1,
+            "id": "D0A3E254-ADC0238E-9C25FC6A-0F9CE438",
+            "diskSize": 675
+        },
+        {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-64.00_-128.00.flyr",
             "level": 0,
             "class": "CFoliageResource",
             "seed": 1,
             "id": "7E4C736C-9E8B5E31-263BD970-4F0F2F51",
-            "diskSize": 675
+            "diskSize": 315719
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-64.00_-192.00.flyr",
+            "level": 0,
+            "class": "CFoliageResource",
+            "seed": 1,
+            "id": "90D197F1-23FC6FDF-96C059B6-FCFAAAE8",
+            "diskSize": 26792
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-64.00_-256.00.flyr",
+            "level": 0,
+            "class": "CFoliageResource",
+            "seed": 1,
+            "id": "E4587620-6503DE77-9660D2C6-6C666A14",
+            "diskSize": 2475
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-64.00_-64.00.flyr",
@@ -9218,7 +9394,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "37818760-03B37928-CF23280B-81A4BFC2",
-            "diskSize": 675
+            "diskSize": 352187
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-64.00_0.00.flyr",
@@ -9226,7 +9402,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "C1C6092E-B079462F-42C0370F-2EA33300",
-            "diskSize": 103027
+            "diskSize": 524815
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_-64.00_128.00.flyr",
@@ -9266,7 +9442,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "33B2B5FE-0BA968B2-5354ABEE-1EEBB3F6",
-            "diskSize": 535791
+            "diskSize": 816573
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_0.00_-128.00.flyr",
@@ -9274,7 +9450,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "875FE30E-574CC483-122CA922-53EF8B42",
-            "diskSize": 881107
+            "diskSize": 1004590
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_0.00_-192.00.flyr",
@@ -9282,7 +9458,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "B5C1F8E9-E45E75CA-F4A7D2F7-BBDAAF9E",
-            "diskSize": 838938
+            "diskSize": 847134
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_0.00_-256.00.flyr",
@@ -9290,7 +9466,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "C2222E3F-D524C2CF-BCF67E3B-A69984D1",
-            "diskSize": 662609
+            "diskSize": 668808
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_0.00_-320.00.flyr",
@@ -9314,7 +9490,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "67469338-3D0AFCCA-D7E1A4E2-03B23845",
-            "diskSize": 1025156
+            "diskSize": 1188338
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_0.00_0.00.flyr",
@@ -9322,7 +9498,7 @@
             "class": "CFoliageResource",
             "seed": 1,
             "id": "EF45067D-6E0BBE8F-E519E3C9-7C183E07",
-            "diskSize": 1076996
+            "diskSize": 1100610
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\source_foliage\\foliage_0.00_128.00.flyr",
@@ -9410,7 +9586,7 @@
             "class": "CGameWorld",
             "seed": 1,
             "id": "A150EB8B-4FFF4494-391EC7FB-9456B34E",
-            "diskSize": 4896795
+            "diskSize": 4897336
         },
         {
             "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\sted_bremervoord_coast.w3occlusiondef",
@@ -11536,7 +11712,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "7B285D20-680DC1D0-E3B25101-5D592116",
-            "diskSize": 17943
+            "diskSize": 22340
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\01_dandelion_encounter.w2phase",
@@ -11544,7 +11720,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "4676FA37-0DC79C9D-E2184262-30AAD027",
-            "diskSize": 16544
+            "diskSize": 17090
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\02a_gaunter_encounter.w2phase",
@@ -11552,7 +11728,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "FAB00EFD-70387DCE-A80AF3DC-72F732BA",
-            "diskSize": 7970
+            "diskSize": 8735
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\03_request_triss_help.w2phase",
@@ -11560,7 +11736,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "2613F517-E5E24F36-355B46ED-B21B8089",
-            "diskSize": 15066
+            "diskSize": 15086
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\04_request_yen_help.w2phase",
@@ -11568,7 +11744,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "63E6BAA3-E96DD151-90D92D6E-72852544",
-            "diskSize": 17324
+            "diskSize": 17394
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\05a_sheenaz_encounter.w2phase",
@@ -11576,7 +11752,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "3C3C1071-43E1C5C0-47D63ABC-9A2D82B0",
-            "diskSize": 10693
+            "diskSize": 10716
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\05b_search_for_pearl.w2phase",
@@ -11584,7 +11760,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "CB5F4118-F5DBBAA3-F324C56D-FDD5B5C6",
-            "diskSize": 6965
+            "diskSize": 6985
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06a_margarita_encounter.w2phase",
@@ -11592,7 +11768,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "755BE46C-94EFE025-BB1BCC97-8933AA87",
-            "diskSize": 23878
+            "diskSize": 25832
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06b_search_for_book.w2phase",
@@ -11600,7 +11776,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "AA8F057D-8C7B163C-D7BDF92C-C1A1B128",
-            "diskSize": 17497
+            "diskSize": 20499
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06c_read_book.w2phase",
@@ -11608,7 +11784,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "51E9123B-1F911F1B-9A053AE5-6B617B9D",
-            "diskSize": 9387
+            "diskSize": 14299
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\07_final_fight.w2phase",
@@ -11616,7 +11792,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "388DD4D2-867F6DE4-CB415E59-0E48BC2A",
-            "diskSize": 14057
+            "diskSize": 21518
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\08_epilogues.w2phase",
@@ -11624,7 +11800,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "D4D9D94B-261B4604-8E407032-6D7C6611",
-            "diskSize": 34760
+            "diskSize": 38245
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\09_bonus_margarita.w2phase",
@@ -11633,6 +11809,78 @@
             "seed": 1,
             "id": "D9174C34-E285C7C7-22D93DBC-D7BB9D27",
             "diskSize": 770
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\99_recovery.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "834895AD-BA816F8E-2A4FDC41-47892F48",
+            "diskSize": 2392
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_03.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "28F26FF1-6C2A1B9F-EF434EE4-B41536D7",
+            "diskSize": 3875
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_04.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "2F8B1ABA-B32F37B4-C7AAF6DE-2D111661",
+            "diskSize": 6051
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_05a.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "4BAFC103-E6DC0092-011E14B8-B247C474",
+            "diskSize": 3227
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_05b.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "EE8036C8-E6EAEDC7-D0D4C584-336587D4",
+            "diskSize": 2467
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_06a.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "49689313-97F9B8C7-22AB6171-6D456675",
+            "diskSize": 3241
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_06b.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "EFA0F58E-A1DA3E5D-A74AA247-3D3557FB",
+            "diskSize": 4773
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_06c.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "BE78D0F7-3A514890-F6930554-450529A1",
+            "diskSize": 7183
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_07_08.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "D1E68D67-5123D841-DBFE074A-4D2B03B6",
+            "diskSize": 2422
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\debug.w2phase",
@@ -11648,7 +11896,7 @@
             "class": "CQuest",
             "seed": 1,
             "id": "6682EB1D-A87CF5BB-F62169F7-53271477",
-            "diskSize": 21270
+            "diskSize": 26071
         },
         {
             "path": "dlc\\dlcsted\\data\\quest_levels.csv",
@@ -11656,6 +11904,14 @@
             "seed": 1,
             "id": "8FA56C68-B7201FD5-9472B8F0-2BD21F1A",
             "diskSize": 80
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\cutscenes\\save_sted_griffin_combat.w2cutscene",
+            "level": 0,
+            "class": "CCutsceneTemplate",
+            "seed": 1,
+            "id": "60462879-9AC6C2A6-24A303A0-715B8FEE",
+            "diskSize": 188575
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\cutscenes\\sex_with_margarita\\not_used_sex_after_02.w2cutscene",
@@ -12071,7 +12327,7 @@
             "class": "CCutsceneTemplate",
             "seed": 1,
             "id": "B937F387-00AB5B0F-0D9E3135-243B12DD",
-            "diskSize": 188575
+            "diskSize": 188667
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\not_used\\_sex_yen_boat.w2scene",
@@ -12130,12 +12386,36 @@
             "diskSize": 81591
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save2_sted_07b_ciri_at_grave.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "15D775F5-9D4F8B82-AF514F22-EBB7FA67",
+            "diskSize": 46695
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save2_sted_08d_sex_triss - copie.w2scene",
             "level": 0,
             "class": "CStoryScene",
             "seed": 1,
             "id": "9CF0AC87-BE7AE5E1-9140D4BD-B0C35B3B",
             "diskSize": 61335
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save2_sted_08e_sex_yen_part1.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "D41697A7-23D04533-F82AEDD6-06854FE2",
+            "diskSize": 42367
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save3_sted_07b_ciri_at_grave.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "220DF2DB-5AB1903B-F24A2754-5C50E744",
+            "diskSize": 46695
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_ok_sted_04a_ask_yen.w2scene",
@@ -12152,6 +12432,14 @@
             "seed": 1,
             "id": "5116A0CF-958F4206-C2A34692-569665B2",
             "diskSize": 61648
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_06a_yen_toussaint.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "F1076A23-C80A93E4-818BA07A-49FCA045",
+            "diskSize": 45109
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_06b_rita_oxenfurt.w2scene",
@@ -12186,6 +12474,22 @@
             "diskSize": 41924
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_08_final_margarita.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "BDCA5BEE-6364B37D-8D807DCE-F54A8C1C",
+            "diskSize": 17558
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_08a_final_mirror.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "BB5C70BD-BABC15E1-6003B9D3-40AD524C",
+            "diskSize": 21535
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\not_used\\save_sted_08d_sex_triss - copie.w2scene",
             "level": 0,
             "class": "CStoryScene",
@@ -12202,6 +12506,30 @@
             "diskSize": 15164
         },
         {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\sted_08_final_margarita_choice_lover.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "0BB7725B-A624A312-502A233B-00713F0D",
+            "diskSize": 19725
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\sted_08_final_margarita_choice_not_lover.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "00750C14-81699999-B1F74F05-68554AFE",
+            "diskSize": 18387
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\not_used\\sted_initialization.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "C7B87E65-3B68E181-4D000619-B7219B60",
+            "diskSize": 4294
+        },
+        {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_01a_dandelion_encounter_crossroad.w2scene",
             "level": 0,
             "class": "CStoryScene",
@@ -12215,7 +12543,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "128FC7E0-307BC42A-37C9903E-420BAD7C",
-            "diskSize": 10406
+            "diskSize": 10512
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_01c_dandelion_shows_wyzima.w2scene",
@@ -12255,7 +12583,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "21F120AF-08526AC8-5B7D8EB8-4800A222",
-            "diskSize": 52028
+            "diskSize": 52088
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03a_open_bedroom_door_from_outside.w2scene",
@@ -12311,7 +12639,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "D0D5A57D-FF7CF789-A86BD91F-BC29B572",
-            "diskSize": 79609
+            "diskSize": 75271
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_05a2_gp_oneliners_sheenaz.w2scene",
@@ -12351,7 +12679,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "F9F9B64E-076CCC58-26851D8A-448A869C",
-            "diskSize": 75384
+            "diskSize": 77538
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_06a_yen_toussaint.w2scene",
@@ -12359,7 +12687,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "2407337B-7B507E78-815A820A-AA1C1750",
-            "diskSize": 45293
+            "diskSize": 47299
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_06b_fake_empty_scene.w2scene",
@@ -12375,7 +12703,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "F3CAEF3F-642629AA-30F840C2-8693B1B9",
-            "diskSize": 97788
+            "diskSize": 100667
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_after_fire.w2scene",
@@ -12383,7 +12711,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "1E73CBF2-41964FB9-3848AC30-F0989B0F",
-            "diskSize": 35559
+            "diskSize": 39821
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_before_fire.w2scene",
@@ -12391,7 +12719,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "25905527-B833A9F7-32EB4C6B-9A852847",
-            "diskSize": 28461
+            "diskSize": 28936
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_fire_book.w2scene",
@@ -12399,7 +12727,23 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "128752B7-9995C178-0D5B93DC-9A0B9EE5",
-            "diskSize": 59999
+            "diskSize": 69573
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_bremervoord_before_fight.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "34255F09-6BDBBA89-C7149FDB-EB523F83",
+            "diskSize": 33017
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_at_grave.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "248C956C-E6436B87-712179D0-16C32496",
+            "diskSize": 62907
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_ready_now.w2scene",
@@ -12407,7 +12751,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "435249F0-552B8543-570E2BFC-D297CA0D",
-            "diskSize": 13097
+            "diskSize": 13318
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_yen.w2scene",
@@ -12415,15 +12759,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "14094190-1B6F0E13-60CA5125-E984712F",
-            "diskSize": 72400
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_07b_ciri_at_grave.w2scene",
-            "level": 0,
-            "class": "CStoryScene",
-            "seed": 1,
-            "id": "141F6F36-409BF553-86F9EBDB-E8666F93",
-            "diskSize": 47366
+            "diskSize": 72671
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_essi.w2scene",
@@ -12431,7 +12767,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "F0470E38-431C956E-84CA520D-2494795C",
-            "diskSize": 30092
+            "diskSize": 54955
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita.w2scene",
@@ -12439,23 +12775,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "6AB2AC3A-A8408120-33067AE3-FB3A5929",
-            "diskSize": 9607
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita_choice_lover.w2scene",
-            "level": 0,
-            "class": "CStoryScene",
-            "seed": 1,
-            "id": "AD315B4E-44F4A516-CA8CA6FB-403B51FB",
-            "diskSize": 11159
-        },
-        {
-            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita_choice_not_lover.w2scene",
-            "level": 0,
-            "class": "CStoryScene",
-            "seed": 1,
-            "id": "C9B56401-DD14E114-E8267281-EDAD3DA9",
-            "diskSize": 10765
+            "diskSize": 32751
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_yen.w2scene",
@@ -12463,7 +12783,15 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "F05C65CA-065916E9-BC0039CA-597C69BC",
-            "diskSize": 6995
+            "diskSize": 50737
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_short_final.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "0BA65900-3D4A19BA-3EA03EB9-E48CA459",
+            "diskSize": 17924
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08a_final_mirror.w2scene",
@@ -12471,7 +12799,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "47B789AC-98DAF834-348A2B9B-3EB1DA23",
-            "diskSize": 21719
+            "diskSize": 26712
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08b_final_ciri.w2scene",
@@ -12479,7 +12807,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "775C35D4-1A1EF464-FD3737D1-03188406",
-            "diskSize": 37698
+            "diskSize": 37882
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08c_final_triss.w2scene",
@@ -12487,7 +12815,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "E155FA97-065876B6-4A907416-5221F7A9",
-            "diskSize": 10778
+            "diskSize": 44160
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08d_sex_triss.w2scene",
@@ -12503,7 +12831,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "65831EF4-6FA197BC-45D44E99-3081155E",
-            "diskSize": 42726
+            "diskSize": 38830
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08e_sex_yen_part2.w2scene",
@@ -12535,7 +12863,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "1D919443-2471240D-10B102C1-7D9C214A",
-            "diskSize": 26538
+            "diskSize": 27344
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_margarita.w2scene",
@@ -12551,7 +12879,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "3AE00D57-C0C46A12-987FF067-55681BB1",
-            "diskSize": 4483
+            "diskSize": 5259
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_yen.w2scene",
@@ -12559,7 +12887,15 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "286888AD-C27A9E43-E614FBCF-8C682295",
-            "diskSize": 4726
+            "diskSize": 6716
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_parameters.w2scene",
+            "level": 0,
+            "class": "CStoryScene",
+            "seed": 1,
+            "id": "4F3F72E2-2A776A71-EEB0EBA4-FAD40B11",
+            "diskSize": 13469
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\not_used\\q305_temple_guards_camp.w2comm",
@@ -12576,6 +12912,14 @@
             "seed": 1,
             "id": "36E0ACE8-F63D9675-4443EA40-ED7C2753",
             "diskSize": 5487
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\spawnsets\\not_used\\save_sted_phase7_shadows.w2comm",
+            "level": 0,
+            "class": "CCommunity",
+            "seed": 1,
+            "id": "29BEF4C5-53713E68-5AC2EC71-DEFAC6B8",
+            "diskSize": 2913
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\not_used_sted_phase6b_witch_hunter.w2comm",
@@ -12703,7 +13047,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "523E5CFB-20187E33-729DC584-7BFD6164",
-            "diskSize": 2513
+            "diskSize": 6294
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase6c_margarita.w2comm",
@@ -12712,6 +13056,14 @@
             "seed": 1,
             "id": "C542C7FB-C85DB9EE-EB8931F9-4430C477",
             "diskSize": 2274
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase6c_temple_guards.w2comm",
+            "level": 0,
+            "class": "CCommunity",
+            "seed": 1,
+            "id": "AC2CA5FD-C782E6D3-389D4F97-2C6C35A1",
+            "diskSize": 5387
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase7_ciri_yen.w2comm",
@@ -12727,15 +13079,31 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "781675A3-E3D97FD4-EFC606CF-5E17170C",
-            "diskSize": 3331
+            "diskSize": 3335
         },
         {
-            "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase7_shadows.w2comm",
+            "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase7_shadow1.w2comm",
             "level": 0,
             "class": "CCommunity",
             "seed": 1,
-            "id": "4E652CC3-0EFF8CAE-58A5B354-20155946",
-            "diskSize": 2913
+            "id": "97DCB3D4-020DA92A-CDD70399-2AF5FF45",
+            "diskSize": 2559
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase7_shadow2.w2comm",
+            "level": 0,
+            "class": "CCommunity",
+            "seed": 1,
+            "id": "EE4852E5-809C7BDB-44CA1088-A51B3DAD",
+            "diskSize": 2493
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase8_triss.w2comm",
+            "level": 0,
+            "class": "CCommunity",
+            "seed": 1,
+            "id": "F2FC7BB7-E29ACE27-8A69C0F8-7104113F",
+            "diskSize": 2665
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase8_yen.w2comm",
@@ -12791,7 +13159,7 @@
             "class": "CJournalResource",
             "seed": 1,
             "id": "38E4FEE1-124D6906-10ED6BEB-D7103978",
-            "diskSize": 13830
+            "diskSize": 14471
         },
         {
             "path": "dlc\\dlcsted\\journal\\quests\\dlcsted.journal",
@@ -12922,12 +13290,28 @@
             "diskSize": 988
         },
         {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_8\\actionpoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "7F40CE8E-572C80E0-1263CD0F-9E2F65C0",
+            "diskSize": 1807
+        },
+        {
             "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_8\\scenepoints.w2l",
             "level": 0,
             "class": "CLayer",
             "seed": 1,
             "id": "4C44065B-BFDF446A-AA005BD3-C211A730",
-            "diskSize": 782
+            "diskSize": 1024
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_8\\waypoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "C442E372-9F64FE10-42B98104-52AC0A53",
+            "diskSize": 754
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\phase_5a\\actionpoints.w2l",
@@ -12991,7 +13375,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "94BDE3A1-A6AAC284-F1058605-583BE773",
-            "diskSize": 1032
+            "diskSize": 2889
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6b\\areas.w2l",
@@ -13007,7 +13391,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "9920A276-46AFDA60-A2DBA68D-7D58962C",
-            "diskSize": 7696
+            "diskSize": 8062
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6b\\mappins.w2l",
@@ -13031,7 +13415,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "B28403A4-1C4A73B2-54ACDC73-4EDAACC3",
-            "diskSize": 966
+            "diskSize": 1710
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6b\\witch_hunter_light\\light.w2l",
@@ -13047,7 +13431,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "BA94DBB6-F1EC265F-DC287EFD-A4132FA0",
-            "diskSize": 986
+            "diskSize": 2295
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6c\\areas.w2l",
@@ -13055,15 +13439,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "57A946C1-6099F407-CB580968-7BA9871E",
-            "diskSize": 2815
-        },
-        {
-            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6c\\book\\items.w2l",
-            "level": 0,
-            "class": "CLayer",
-            "seed": 1,
-            "id": "C471A865-355EF1C4-59FF7A0B-C96B5488",
-            "diskSize": 1438
+            "diskSize": 5097
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6c\\debug.w2l",
@@ -13087,7 +13463,15 @@
             "class": "CLayer",
             "seed": 1,
             "id": "793A493F-FC2332BE-1AB95C44-CF5462EE",
-            "diskSize": 723
+            "diskSize": 962
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6c\\waypoints.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "7DD5965D-3E6F54DC-92D29D08-09875CFE",
+            "diskSize": 1448
         },
         {
             "path": "dlc\\dlcsted\\levels\\prolog_village\\light\\light.w2l",
@@ -13287,7 +13671,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "99E30A42-A456DFF0-E92740C9-0B6D3150",
-            "diskSize": 1194
+            "diskSize": 1206
         },
         {
             "path": "dlc\\dlcsted\\levels\\skellige\\phase_8\\waypoints.w2l",
