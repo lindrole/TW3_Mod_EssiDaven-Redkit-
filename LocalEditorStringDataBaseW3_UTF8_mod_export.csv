@@ -273,6 +273,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116738872;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116738873;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116738874;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738875;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738876;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738877;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116732487;"CStoryScene ""dlc\dlcsted\data\scenes\sted_02b_mirror_encounter.w2scene""";Line text;MRRR_STED_2116732487;;;;;;;;;;;;;;Since years I have plans for you.;;;;
 2116732489;"CStoryScene ""dlc\dlcsted\data\scenes\sted_02b_mirror_encounter.w2scene""";Line text;MRRR_STED_2116732489;;;;;;;;;;;;;;A witcher alongside a sorceress, offers way more possibilities than a simple bard…;;;;
 2116732490;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;A Small Tribute To Little-Eye;;;;
