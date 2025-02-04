@@ -1,0 +1,1034 @@
+{
+    "files": [
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_margarita.w2scene",
+            "string_ids": [
+                2116737726,
+                2116737728,
+                2116737730,
+                2116737898,
+                2116737900,
+                2116737902,
+                2116737892,
+                2116737894,
+                2116737896
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_yen.w2scene",
+            "string_ids": [
+                2116738035,
+                2116738037,
+                2116738031,
+                2116738039,
+                2116738041,
+                2116738033,
+                2116723825,
+                2116723826,
+                2116723827,
+                2116723828,
+                2116723829,
+                2116723830,
+                2116723831,
+                2116723832,
+                2116723833,
+                2116723834,
+                2116723800,
+                2116723801,
+                2116723837,
+                2116723838,
+                2116723802,
+                2116723803,
+                2116723804,
+                2116723805,
+                2116723806,
+                2116723807,
+                2116723808,
+                2116723809,
+                2116723810,
+                2116723811,
+                2116723812,
+                2116723813,
+                2116723814,
+                2116723815,
+                2116723816,
+                2116723817,
+                2116723818,
+                2116723819,
+                2116723820,
+                2116723821,
+                2116723822,
+                2116723823,
+                2116723824
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_dead_griffin.w2ent",
+            "string_ids": [
+                170707
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7011_flier_01_cont.w2ent",
+            "string_ids": [
+                162558
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08c_final_triss.w2scene",
+            "string_ids": [
+                2116723546,
+                2116723547,
+                2116723530,
+                2116723540,
+                2116723541,
+                2116723542,
+                2116723543,
+                2116723544,
+                2116723545,
+                2116723531,
+                2116723532,
+                2116723533,
+                2116723534,
+                2116723535,
+                2116723536,
+                2116723537,
+                2116723538,
+                2116723539
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_griffin.w2ent",
+            "string_ids": [
+                1079773
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_before_fire.w2scene",
+            "string_ids": [
+                2116738075,
+                2116738077,
+                2116738079,
+                2116738081,
+                2116738083
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_01e_dandelion_call_geralt.w2scene",
+            "string_ids": [
+                2116732417
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_03g_gp_bedroom_door.w2scene",
+            "string_ids": [
+                2116739037
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_1hmace.w2ent",
+            "string_ids": [
+                452710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_mirror_devil_fighter.w2ent",
+            "string_ids": [
+                2116723002
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08b_final_ciri.w2scene",
+            "string_ids": [
+                2116737547,
+                2116737549,
+                2116737551,
+                2116737553,
+                2116737541,
+                2116737543,
+                2116737545,
+                2116723230,
+                2116723231,
+                2116723232,
+                2116723233
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08e_sex_yen_part1.w2scene",
+            "string_ids": [
+                2116737969,
+                2116737971,
+                2116738343
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_01a_dandelion_encounter_crossroad.w2scene",
+            "string_ids": [
+                2116723114,
+                2116723115,
+                2116723100,
+                2116723101,
+                2116723112,
+                2116723113,
+                2116723102,
+                2116723103,
+                2116723104,
+                2116723105,
+                2116723106,
+                2116723107,
+                2116723108,
+                2116723109,
+                2116723110,
+                2116723111
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06b_rita_oxenfurt.w2scene",
+            "string_ids": [
+                2116737752,
+                2116737764,
+                2116737754,
+                2116738052,
+                2116737756,
+                2116737758,
+                2116738054,
+                2116737762,
+                2116737750,
+                2116737738,
+                2116737740,
+                2116737742,
+                2116737744,
+                2116737746,
+                2116737748
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_gryphon_template.w2ent",
+            "string_ids": [
+                527328
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_01b_exchange_on_the_road.w2scene",
+            "string_ids": [
+                2116732385,
+                2116732387,
+                2116732389,
+                2116732391
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08e_sex_yen_part2.w2scene",
+            "string_ids": [
+                1132081,
+                1132082,
+                1132084,
+                1132086,
+                1132087,
+                1132089,
+                1132091,
+                1132092,
+                2116737969,
+                2116737971
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\sted_shell_blue_pearl.w2ent",
+            "string_ids": [
+                2116736988
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\q701_goliath_book_cont.w2ent",
+            "string_ids": [
+                355273
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_yen.w2scene",
+            "string_ids": [
+                2116738341,
+                2116737993,
+                2116738333,
+                2116738335,
+                2116738337,
+                2116738339,
+                2116737995,
+                2116738315,
+                2116738317,
+                2116738319,
+                2116738321,
+                2116738323,
+                2116738325,
+                2116738327,
+                2116738329,
+                2116738331
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_shadows.w2ent",
+            "string_ids": [
+                1137150
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7011_book_02_cont.w2ent",
+            "string_ids": [
+                162558
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_bremervoord_before_fight.w2scene",
+            "string_ids": [
+                2116738253,
+                2116738255
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\swarms.w2l",
+            "string_ids": [
+                317025
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6c\\actionpoints.w2l",
+            "string_ids": [
+                173494
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_spear.w2ent",
+            "string_ids": [
+                452710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\skellige\\phase_8\\actionpoints.w2l",
+            "string_ids": [
+                180788
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_triss.w2ent",
+            "string_ids": [
+                2116723000
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_margarita.w2ent",
+            "string_ids": [
+                176847
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita.w2scene",
+            "string_ids": [
+                2116738267,
+                2116738263,
+                2116738269,
+                2116738271,
+                2116738273,
+                2116738275,
+                2116738277,
+                2116738279,
+                2116738265,
+                2116737904,
+                2116737906,
+                2116737908,
+                2116737910,
+                2116738261
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_book_actor.w2ent",
+            "string_ids": [
+                1034137
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\q701_godfryd_book_cont.w2ent",
+            "string_ids": [
+                355273
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_05a_ask_sheenaz.w2scene",
+            "string_ids": [
+                2116723701,
+                2116723731,
+                2116723707,
+                2116723708,
+                2116723709,
+                2116723710,
+                2116723711,
+                2116723712,
+                2116723713,
+                2116723714,
+                2116723715,
+                2116723716,
+                2116723717,
+                2116723718,
+                2116723719,
+                2116723720,
+                2116723721,
+                2116723722,
+                2116723723,
+                2116723724,
+                2116723725,
+                2116723726,
+                2116723727,
+                2116723728,
+                2116723729,
+                2116723730,
+                2116723706,
+                2116723700,
+                2116723702,
+                2116723703,
+                2116723704,
+                2116723705
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7007_cont_book_01_new.w2ent",
+            "string_ids": [
+                1214964
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\agloval.w2ent",
+            "string_ids": [
+                2116723001
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_02b_mirror_encounter.w2scene",
+            "string_ids": [
+                2116723514,
+                2116723515,
+                2116723516,
+                2116723517,
+                2116723518,
+                2116723519,
+                2116723520,
+                2116723521,
+                2116723522,
+                2116723500,
+                2116723501,
+                2116723523,
+                2116723524,
+                2116732487,
+                2116732489,
+                2116723525,
+                2116723502,
+                2116723503,
+                2116723504,
+                2116723505,
+                2116723506,
+                2116723507,
+                2116723508,
+                2116723509,
+                2116723510,
+                2116723511,
+                2116723512,
+                2116723513
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\sted_ancient_book.w2ent",
+            "string_ids": [
+                2116737709
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7011_flier_02_cont.w2ent",
+            "string_ids": [
+                162558
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_01c_dandelion_shows_wyzima.w2scene",
+            "string_ids": [
+                2116723200,
+                2116723201
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_sword.w2ent",
+            "string_ids": [
+                452710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\levels\\sted_bremervoord_coast\\dlcsted\\actionpoints.w2l",
+            "string_ids": [
+                162813,
+                397652
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\dlcsted.reddlc",
+            "string_ids": [
+                2116736982,
+                2116736983,
+                2116737707,
+                2116737706,
+                2116737710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\sted_ancient_book_loot.w2ent",
+            "string_ids": [
+                2116737708
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\bob\\phase_6\\actionpoints.w2l",
+            "string_ids": [
+                180788,
+                162813
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_yen.w2scene",
+            "string_ids": [
+                2116736215,
+                2116736219,
+                2116736221,
+                2116737991,
+                2116738361,
+                2116723570
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sheenaz.w2ent",
+            "string_ids": [
+                2116723002
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_03e_ask_triss.w2scene",
+            "string_ids": [
+                2116723916,
+                2116723922,
+                2116723923,
+                2116723924,
+                2116723925,
+                2116723926,
+                2116723927,
+                2116723928,
+                2116723929,
+                2116723930,
+                2116723931,
+                2116723932,
+                2116723933,
+                2116723934,
+                2116723935,
+                2116723936,
+                2116723937,
+                2116723919,
+                2116723920,
+                2116723921,
+                2116723915,
+                2116723917,
+                2116723918
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_05a3_gp_oneliners_agloval.w2scene",
+            "string_ids": [
+                2116723760
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06a_yen_toussaint.w2scene",
+            "string_ids": [
+                2116737641,
+                2116737645,
+                2116738046
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08a_final_mirror.w2scene",
+            "string_ids": [
+                2116723210,
+                2116723211,
+                2116723212
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7007_cont_book_02_new.w2ent",
+            "string_ids": [
+                1214964
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_fake_gp_scene.w2scene",
+            "string_ids": [
+                2116739319
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\journal\\quests\\asmalltributetoessidaven.journal",
+            "string_ids": [
+                2116732491,
+                2116732492,
+                2116732495,
+                2116732511,
+                2116736222,
+                2116736234,
+                2116737046,
+                2116737048,
+                2116732493,
+                2116732494,
+                2116732510,
+                2116732513,
+                2116732512,
+                2116732514,
+                2116736233,
+                2116736971,
+                2116736977,
+                2116736993,
+                2116737047,
+                2116737619,
+                2116737636,
+                2116737637,
+                2116737711,
+                2116737712,
+                2116737871,
+                2116737873,
+                2116737931,
+                2116737933,
+                2116737934,
+                2116737935,
+                2116737948,
+                2116737989,
+                2116738044,
+                2116738223,
+                2116738901,
+                2116732490
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_triss.w2scene",
+            "string_ids": [
+                2116736163,
+                2116737868,
+                2116737870,
+                2116737563,
+                2116723555
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_parameters.w2scene",
+            "string_ids": [
+                2116738351,
+                2116738301,
+                2116738303,
+                2116738355,
+                2116738313,
+                2116738349,
+                2116738307,
+                2116738305,
+                2116738359,
+                2116738347,
+                2116738357,
+                2116738311,
+                2116738309
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\journal\\characters\\stedsheenaz.journal",
+            "string_ids": [
+                2116736224,
+                2116736225,
+                2116736223
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_ranged_turret.w2ent",
+            "string_ids": [
+                452710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06a_yen_rita.w2scene",
+            "string_ids": [
+                2116737659,
+                2116737661,
+                2116737663,
+                2116737665,
+                2116737667,
+                2116737669,
+                2116737671,
+                2116737673,
+                2116737675,
+                2116737677,
+                2116737679,
+                2116737681,
+                2116737683,
+                2116737685,
+                2116737687,
+                2116737689,
+                2116737691,
+                2116737693,
+                2116737695,
+                2116737697,
+                2116737699,
+                2116737701,
+                2116737703
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_yennefer_sex_boat.w2ent",
+            "string_ids": [
+                1104501
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06b_fake_empty_scene.w2scene",
+            "string_ids": [
+                2116737939
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06a_geralt_yen_gp.w2scene",
+            "string_ids": [
+                2116737647,
+                2116737649,
+                2116738050,
+                2116737653,
+                2116737655,
+                2116737657,
+                2116737732,
+                2116737734,
+                2116737947,
+                2116737736,
+                2116737941,
+                2116737943,
+                2116737945,
+                2116738023,
+                2116738025,
+                2116738027,
+                2116737651
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_ready_now.w2scene",
+            "string_ids": [
+                2116738043,
+                2116738039,
+                2116738041
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\prolog_village\\phase_1\\actionpoints.w2l",
+            "string_ids": [
+                162813
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_take_loot\\mq7023_fluff_book.w2ent",
+            "string_ids": [
+                1211862
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\orange_loot\\mq7011_book_01_cont.w2ent",
+            "string_ids": [
+                162558
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_fake_essi.w2ent",
+            "string_ids": [
+                1034137
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_05a2_gp_oneliners_sheenaz.w2scene",
+            "string_ids": [
+                2116723750,
+                2116723751
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_essi.w2scene",
+            "string_ids": [
+                2116737766,
+                2116738345,
+                2116737770,
+                2116737772,
+                2116737800,
+                2116737804,
+                2116737806,
+                2116737832,
+                2116737834,
+                2116737846,
+                2116737848,
+                2116737808,
+                2116737810,
+                2116737812,
+                2116737814,
+                2116737816,
+                2116737818,
+                2116738257,
+                2116738259,
+                2116737854,
+                2116737856,
+                2116737858,
+                2116737802
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\kaer_morhen\\phase_8\\actionpoints.w2l",
+            "string_ids": [
+                162813
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_mirror_keira_based.w2ent",
+            "string_ids": [
+                334714
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_07_ciri_at_grave.w2scene",
+            "string_ids": [
+                2116738233,
+                2116738235,
+                2116738237,
+                2116738239,
+                2116738241,
+                2116738243,
+                2116738245,
+                2116738247,
+                2116738249,
+                2116738251,
+                2116738227,
+                2116738229,
+                2116738231
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_leader_swordshield.w2ent",
+            "string_ids": [
+                1062519
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\sted_eternal_fire_priest.w2ent",
+            "string_ids": [
+                2116738055
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_ranged.w2ent",
+            "string_ids": [
+                452710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_after_fire.w2scene",
+            "string_ids": [
+                2116737937,
+                2116738085,
+                2116738087,
+                2116738089
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_01d_at_the_grave.w2scene",
+            "string_ids": [
+                2116723301,
+                2116723315,
+                2116723316,
+                2116723317,
+                2116723318,
+                2116723319,
+                2116723320,
+                2116723321,
+                2116723322,
+                2116723323,
+                2116723324,
+                2116723325,
+                2116723326,
+                2116723327,
+                2116723328,
+                2116723329,
+                2116723330,
+                2116723331,
+                2116723332,
+                2116723333,
+                2116723334,
+                2116723335,
+                2116723336,
+                2116723337,
+                2116723338,
+                2116723339,
+                2116723340,
+                2116723341,
+                2116723306,
+                2116723307,
+                2116723308,
+                2116723309,
+                2116723310,
+                2116723311,
+                2116723312,
+                2116723313,
+                2116723314,
+                2116723300,
+                2116723302,
+                2116723303,
+                2116723304,
+                2116723305
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_04a_ask_yen.w2scene",
+            "string_ids": [
+                2116737586,
+                2116737602,
+                2116737604,
+                2116738015,
+                2116738009,
+                2116738011,
+                2116738013,
+                2116737606,
+                2116737608,
+                2116737610,
+                2116737588,
+                2116737590,
+                2116737584,
+                2116723617,
+                2116723618,
+                2116723619,
+                2116723620,
+                2116723621,
+                2116723622,
+                2116723623,
+                2116723624,
+                2116723625,
+                2116723626,
+                2116723627,
+                2116723628,
+                2116723629,
+                2116723630,
+                2116723631,
+                2116723632,
+                2116723633,
+                2116723634,
+                2116723635,
+                2116723600,
+                2116723601,
+                2116723640,
+                2116723641,
+                2116723642,
+                2116723602,
+                2116723603,
+                2116723604,
+                2116723605,
+                2116723606,
+                2116723607,
+                2116723608,
+                2116723609,
+                2116723610,
+                2116723611,
+                2116723612,
+                2116723613,
+                2116723614,
+                2116723615,
+                2116723616
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_06c_fire_book.w2scene",
+            "string_ids": [
+                2116738065,
+                2116738067,
+                2116738069,
+                2116738061,
+                2116738071,
+                2116738073,
+                2116738063,
+                2116738059,
+                2116738225
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_geralt.w2scene",
+            "string_ids": [
+                2116732501,
+                2116732503,
+                2116732505,
+                2116732507,
+                2116732509,
+                2116736161,
+                2116736165,
+                2116736167,
+                2116736169,
+                2116736228,
+                2116736230,
+                2116736232,
+                2116736238,
+                2116736240,
+                2116736242,
+                2116736244,
+                2116736246,
+                2116736248,
+                2116736236,
+                2116736250,
+                2116736252,
+                2116736254,
+                2116736973,
+                2116736979,
+                2116737555,
+                2116737557,
+                2116737559,
+                2116737716,
+                2116737718,
+                2116737720,
+                2116737722,
+                2116737724,
+                2116737860,
+                2116737862,
+                2116737864,
+                2116737866,
+                2116737997,
+                2116737999,
+                2116738001,
+                2116738029,
+                2116738048,
+                2116738363,
+                2116737714
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\bandits\\sted_bandit_axe2h.w2ent",
+            "string_ids": [
+                452710
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6b\\actionpoints.w2l",
+            "string_ids": [
+                322279,
+                162813
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\data\\entities\\items\\books\\red_loot\\cont_sq703_accountancy_book.w2ent",
+            "string_ids": [
+                1129246
+            ]
+        },
+        {
+            "path": "dlc\\dlcsted\\journal\\characters\\stedessidaven.journal",
+            "string_ids": [
+                2116732498,
+                2116732499,
+                2116736226,
+                2116732497
+            ]
+        }
+    ]
+}
