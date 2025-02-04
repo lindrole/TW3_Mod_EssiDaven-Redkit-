@@ -331,6 +331,15 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116732513;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Ask Triss for help in Kaer Morhen.;;;;
 2116738910;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_margarita.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116732514;"CJournalResource ""gameplay\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Ask Yen for help in Skellige.;;;;
+2116738911;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738912;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738913;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116738914;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116738915;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738916;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738917;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738918;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116738919;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06c_fire_book.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116723000;;character_name;;;;;;;;;;;;;;;Sh'eenaz;;;;
 2116723001;;character_name;;;;;;;;;;;;;;;Agloval;;;;
 2116723002;;character_name;;;;;;;;;;;;;;;Gaunter O'Dimm;;;;
