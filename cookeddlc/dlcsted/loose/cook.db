@@ -11496,7 +11496,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "7B285D20-680DC1D0-E3B25101-5D592116",
-            "diskSize": 3561
+            "diskSize": 3763
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\01_dandelion_encounter.w2phase",
@@ -11504,7 +11504,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "4676FA37-0DC79C9D-E2184262-30AAD027",
-            "diskSize": 16898
+            "diskSize": 16882
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\02a_gaunter_encounter.w2phase",
@@ -11528,7 +11528,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "63E6BAA3-E96DD151-90D92D6E-72852544",
-            "diskSize": 16438
+            "diskSize": 16872
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\05a_sheenaz_encounter.w2phase",
@@ -11536,7 +11536,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "3C3C1071-43E1C5C0-47D63ABC-9A2D82B0",
-            "diskSize": 10759
+            "diskSize": 11200
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\05b_search_for_pearl.w2phase",
@@ -11552,7 +11552,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "755BE46C-94EFE025-BB1BCC97-8933AA87",
-            "diskSize": 18441
+            "diskSize": 18756
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06b_search_for_book.w2phase",
@@ -11560,7 +11560,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "AA8F057D-8C7B163C-D7BDF92C-C1A1B128",
-            "diskSize": 11835
+            "diskSize": 11859
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\06c_read_book.w2phase",
@@ -11568,7 +11568,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "51E9123B-1F911F1B-9A053AE5-6B617B9D",
-            "diskSize": 10088
+            "diskSize": 10060
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\07_final_fight.w2phase",
@@ -11576,7 +11576,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "388DD4D2-867F6DE4-CB415E59-0E48BC2A",
-            "diskSize": 17871
+            "diskSize": 18035
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\08_epilogues.w2phase",
@@ -11584,7 +11584,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "D4D9D94B-261B4604-8E407032-6D7C6611",
-            "diskSize": 16494
+            "diskSize": 19317
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\08b_romances.w2phase",
@@ -11592,7 +11592,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "222E6466-1AAD28A8-8FA0EAEE-11FCCD12",
-            "diskSize": 23471
+            "diskSize": 23921
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\09_bonus_margarita.w2phase",
@@ -11624,7 +11624,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "2F8B1ABA-B32F37B4-C7AAF6DE-2D111661",
-            "diskSize": 6443
+            "diskSize": 6433
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\_persistent_05a.w2phase",
@@ -11675,12 +11675,20 @@
             "diskSize": 2422
         },
         {
+            "path": "dlc\\dlcsted\\data\\phases\\_persistent_margarita.w2phase",
+            "level": 0,
+            "class": "CQuestPhase",
+            "seed": 1,
+            "id": "EA28F334-770AD800-7EE0C7A8-9C9E98EB",
+            "diskSize": 2153
+        },
+        {
             "path": "dlc\\dlcsted\\data\\phases\\sted.w2quest",
             "level": 0,
             "class": "CQuest",
             "seed": 1,
             "id": "6682EB1D-A87CF5BB-F62169F7-53271477",
-            "diskSize": 13061
+            "diskSize": 13112
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\stedbugged.w2quest",
@@ -12063,7 +12071,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "128752B7-9995C178-0D5B93DC-9A0B9EE5",
-            "diskSize": 69564
+            "diskSize": 69539
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_07_bremervoord_before_fight.w2scene",
@@ -12103,7 +12111,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "F0470E38-431C956E-84CA520D-2494795C",
-            "diskSize": 52978
+            "diskSize": 53167
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08_final_margarita.w2scene",
@@ -12143,7 +12151,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "775C35D4-1A1EF464-FD3737D1-03188406",
-            "diskSize": 37882
+            "diskSize": 38431
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_08c_final_triss.w2scene",
@@ -12207,7 +12215,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "37D5A098-F25DD14F-EE62E0AA-4D305D37",
-            "diskSize": 6417
+            "diskSize": 9625
         },
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_gp_oneliners_triss.w2scene",
@@ -12295,7 +12303,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "39976404-182B089E-62994C34-C15DC737",
-            "diskSize": 3426
+            "diskSize": 3672
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase6a_griffin.w2comm",
@@ -12311,7 +12319,7 @@
             "class": "CCommunity",
             "seed": 1,
             "id": "FFD22C1C-B6AEB859-9AA58798-002ACFB7",
-            "diskSize": 3406
+            "diskSize": 3554
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase6a_yen.w2comm",
@@ -12447,7 +12455,7 @@
             "class": "CJournalResource",
             "seed": 1,
             "id": "38E4FEE1-124D6906-10ED6BEB-D7103978",
-            "diskSize": 14658
+            "diskSize": 15940
         },
         {
             "path": "dlc\\dlcsted\\journal\\quests\\dlcsted.journal",
