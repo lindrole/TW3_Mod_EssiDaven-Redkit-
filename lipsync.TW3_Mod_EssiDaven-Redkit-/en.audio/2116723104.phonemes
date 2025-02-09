@@ -1,0 +1,22 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=DAND]
+;meta[text=Hello, Geralt.]
+;meta[translation=həlˈəʊ dʒˈɛɹɒlt]
+;meta[audio-hypothesis=SIL HH AH L OW G ER R AO L T]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+h       |  290|  345|  1.00|  2.00| ok         | h  ~  HH [  290 -  345]
+ə       |  345|  385|  1.00|  1.50| ok         | ə  ~  AH [  345 -  385]
+l       |  385|  435|  1.00|  2.00| ok         | l  ~  L  [  385 -  435]
+əʊ      |  435|  585|  1.10|  2.00| ok         | əʊ ~  OW [  435 -  585]
+------------------------------------------------------------------------
+dʒ      |  585|  665|  1.00|  1.00| ok         | dʒ ~  G  [  585 -  665]
+ɛ       |  665|  715|  1.10|  0.10| ok         | ɛ  ~  ER [  665 -  715]
+ɹ       |  715|  795|  1.00|  2.00| ok         | ɹ  ~  R  [  715 -  795]
+ɒ       |  795|  865|  1.00|  0.50| ok         | ɒ  ~  AO [  795 -  865]
+l       |  865|  945|  1.00|  2.00| ok         | l  ~  L  [  865 -  945]
+t       |  945| 1070|  1.00|  2.00| ok         | t  ~  T  [  945 - 1070]

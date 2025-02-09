@@ -1,0 +1,19 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=DAND]
+;meta[text=Not really…]
+;meta[translation=nˌɒt ɹˈiəlɪ]
+;meta[audio-hypothesis=SIL N AA T SIL R IH L IY]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+n       |  240|  335|  1.00|  2.00| ok         | n  ~  N  [  240 -  335]
+ɒ       |  335|  425|  1.05|  2.00| ok         | ɒ  ~  AA [  335 -  425]
+t       |  425|  450|  1.00|  2.00| ok         | t  ~  T  [  425 -  450]
+------------------------------------------------------------------------
+ɹ       |  490|  565|  1.00|  2.00| ok         | ɹ  ~  R  [  490 -  565]
+iə      |  565|  605|  1.10|  1.00| ok         | iə ~  IH [  565 -  605]
+l       |  605|  695|  1.00|  2.00| ok         | l  ~  L  [  605 -  695]
+ɪ       |  695|  870|  1.00|  1.00| ok         | ɪ  ~  IY [  695 -  870]
