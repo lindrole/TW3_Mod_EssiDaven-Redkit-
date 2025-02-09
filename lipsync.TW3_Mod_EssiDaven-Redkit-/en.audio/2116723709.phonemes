@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=STDSHE]
+;meta[text=Poor child…]
+;meta[translation=pˈʊə tʃˈaɪld]
+;meta[audio-hypothesis=P UW R CH AY L D SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+p       |    0|  285|  1.00|  2.00| ok         | p  ~  P  [    0 -  285]
+ʊə      |  285|  475|  1.10|  0.09| ok         | ʊə ~> UW [  285 -  365] + R  [  365 -  475]
+------------------------------------------------------------------------
+tʃ      |  475|  675|  1.00|  2.00| ok         | tʃ ~  CH [  475 -  675]
+aɪ      |  675|  885|  1.10|  2.00| ok         | aɪ ~  AY [  675 -  885]
+l       |  885| 1015|  1.00|  2.00| ok         | l  ~  L  [  885 - 1015]
+d       | 1015| 1160|  1.00|  2.00| ok         | d  ~  D  [ 1015 - 1160]

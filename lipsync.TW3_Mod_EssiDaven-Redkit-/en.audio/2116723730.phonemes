@@ -1,0 +1,20 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=STDSHE]
+;meta[text=See you soon.]
+;meta[translation=sˈiː juː sˈuːn]
+;meta[audio-hypothesis=SIL S IY Y UW S UW N SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+s       |  290|  425|  1.00|  2.00| ok         | s  ~  S  [  290 -  425]
+i       |  425|  575|  1.10|  2.00| ok         | i  ~  IY [  425 -  575]
+------------------------------------------------------------------------
+j       |  575|  615|  1.00|  2.00| ok         | j  ~  Y  [  575 -  615]
+u       |  615|  645|  1.00|  2.00| ok         | u  ~  UW [  615 -  645]
+------------------------------------------------------------------------
+s       |  645|  785|  1.00|  2.00| ok         | s  ~  S  [  645 -  785]
+u       |  785|  885|  1.10|  2.00| ok         | u  ~  UW [  785 -  885]
+n       |  885| 1080|  1.00|  2.00| ok         | n  ~  N  [  885 - 1080]

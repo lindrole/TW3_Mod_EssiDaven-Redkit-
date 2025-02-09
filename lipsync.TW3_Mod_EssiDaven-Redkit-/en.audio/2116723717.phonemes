@@ -1,0 +1,18 @@
+;meta[language=en]
+;meta[version=1]
+;meta[actor=STDSHE]
+;meta[text=It's awful!]
+;meta[translation=ɪts ˈɔːfəl]
+;meta[audio-hypothesis=SIL IH T S AA F AH L SIL]
+;
+;auto-matched phoneme translation (eSpeak) with timings (pocketsphinx):
+;
+;phoneme|start|  end|weight| score| status     | match + pocketsphinx timing
+------------------------------------------------------------------------
+ɪ       |   50|   95|  1.00|  2.00| ok         | ɪ  ~  IH [   50 -   95]
+t       |   95|  145|  1.00|  2.00| ok         | t  ~  T  [   95 -  145]
+s       |  145|  235|  1.00|  2.00| ok         | s  ~  S  [  145 -  235]
+------------------------------------------------------------------------
+ɔ       |  235|  465|  1.10|  0.10| ok         | ɔ  ~  AA [  235 -  465]
+f       |  465|  585|  1.00|  2.00| ok         | f  ~  F  [  465 -  585]
+əl      |  585|  810|  1.00|  0.60| ok         | əl ~> AH [  585 -  615] + L  [  615 -  810]
