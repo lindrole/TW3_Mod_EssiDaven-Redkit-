@@ -11512,7 +11512,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "FAB00EFD-70387DCE-A80AF3DC-72F732BA",
-            "diskSize": 8283
+            "diskSize": 8564
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\03_request_triss_help.w2phase",
@@ -11592,7 +11592,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "222E6466-1AAD28A8-8FA0EAEE-11FCCD12",
-            "diskSize": 25569
+            "diskSize": 26858
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\09_bonus_margarita.w2phase",
@@ -12239,7 +12239,7 @@
             "class": "CStoryScene",
             "seed": 1,
             "id": "4F3F72E2-2A776A71-EEB0EBA4-FAD40B11",
-            "diskSize": 13469
+            "diskSize": 13626
         },
         {
             "path": "dlc\\dlcsted\\data\\spawnsets\\sted_phase1.w2comm",
@@ -12455,7 +12455,7 @@
             "class": "CJournalResource",
             "seed": 1,
             "id": "38E4FEE1-124D6906-10ED6BEB-D7103978",
-            "diskSize": 16293
+            "diskSize": 16747
         },
         {
             "path": "dlc\\dlcsted\\journal\\quests\\dlcsted.journal",
@@ -12960,6 +12960,14 @@
             "seed": 1,
             "id": "BCD070E5-714B029E-1ACE8556-07ECA3F7",
             "diskSize": 5092
+        },
+        {
+            "path": "dlc\\dlcsted\\levels\\skellige\\phase_8\\mappin.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "B4B6A2D0-107FB771-0C113660-ADBC1FFC",
+            "diskSize": 724
         },
         {
             "path": "dlc\\dlcsted\\levels\\skellige\\phase_8\\scenepoints.w2l",
