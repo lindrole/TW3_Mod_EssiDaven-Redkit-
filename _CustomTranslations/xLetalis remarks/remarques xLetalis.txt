@@ -1,0 +1,195 @@
+1/
+During the initial visit of Essi’s grave with Dandelion, Geralt will at one point say “quick quickly” in a sentence. I imagine the intent was to swap the word “quick” with “quickly”, but they’re both still there.
+In fact, what Geralt says is “quite quickly”. But perhaps I should have translated it as “rather quickly” to avoid confusion. In French he says “assez rapidement”.
+
+GRLT_STED_2116723306
+before: Yes, I remember. The memory of her came back to me quite quickly after my amnesia.
+after: Yes, I remember. The memory of her came back to me rather quickly after my amnesia.
+text OK
+voice NOK
+record OK
+
+
+
+2/
+Also I noticed that even if Geralt says he doesn’t remember Essi due to his amnesia, a moment later he remembers exactly what he told her about the blue pearl.
+If Geralt says that he doesn't remember Essi, Dandelion give him a sum up of their story, and at one moment he says "She kept, worn as a lucky talisman, the sky blue pearl that you gave her."
+What says Geralt afterward is different if he remembers or not.
+
+If he remembers he says: 
+"This is very sad news that you are telling me.
+I was not able to return to her the feelings she had for me. But it is certain that she affected me.
+She did not deserve this tragic fate.
+I regret telling that her sky blue pearl would bring her luck."
+
+And if he don't remember he says  only:
+"This is very sad news that you are telling me.
+I regret telling that her sky blue pearl would bring her luck."
+
+But you're right. The fact that Geralt says "telling her" whereas he doesn't remember is weird.
+
+I will see how to rework a bit the dialog.
+
+DAND_STED_2116723319
+before: She kept, worn as a lucky talisman, the sky blue pearl that you gave her.
+after: She kept, worn as a lucky talisman, the sky blue pearl that you gave her, and tell her that it will bring her luck.
+after2: She kept, worn as a lucky talisman from you, the sky blue pearl that you told it will bring her luck.
+text OK
+voice NOK
+record OK
+
+
+
+
+
+
+
+3/
+During the first cutscene with Yen in Skellige where she mentions Sheenaz and Agloval, at one point she calls Sheenaz “her companion”, I imagine it should be “his companion” aka Agloval’s companion.
+You're right, it's a translation mistake. I will correct it. 
+
+YENN_STED_2116723633
+before: I have heard that the Duke of Bremerwood and her companion Sh'eenaz,
+after: I have heard that the Duke of Bremerwood and his companion Sh'eenaz,
+text OK
+voice NOK
+record OK
+
+
+
+
+
+
+
+
+4/
+During the dialogue with Yen when you run to Margarita’s house, at one point Geralt tells her “You’re so fit” or something like that. And she says 2 lines in response “I don’t know if I should take it well” and then “you’d be surprised”. I’m not sure if that’s a mistake, but I thought that only one of them was meant to be said, or perhaps one of them is meant in case you romanced her.
+It's not a mistake but perhaps it's a translation issue.
+I tried to make a fun little exchange.
+Geralt is surprised that Yennefer can run so fast and for so long.
+He remarks to her.
+Yennefer is a little offended.
+So she asks him if it's a compliment or not.
+And she shows a little pride by telling him, implying that she's very fit and could do a lot more.
+I find that this last allusion works equally well if Geralt is in a romance with Yen (in which case it's a sexual allusion); or if he's not in a romance with Yen (because she's offended and implies to Geralt that he doesn't know her that well).
+.
+4) Ok now I understand what the intent is, it just sounds a little weird to me the way it is currently. Consider perhaps having Geralt say something between the two lines, or maybe change the two lines to sound more like 1 sentence, something like:
+(Geralt) You're so fit
+(Yen) I don't know if that's a compliment.
+(Yen) But you'd be surprised.
+I suppose you could just merge them into one line too... just a thought.
+
+PROPOSAL
+4) What do you think of this dialogue? 
+UNCHANGED Geralt: I never knew you were so fit.
+
+YENN_STED_2116737943
+Yen: I don't know if that's a compliment...
+YENN_STED_2116737945
+Yen: ...but I might surprise you. 
+
+text NOK
+voice NOK
+record NOK
+
+
+
+5/
+At one point Margarita refers to the evil book as “he” instead of “it”.
+I can't find in which dialogue I made this mistake. If I find it, I'll correct it.
+
+MGLA_STED_2116737687
+before: The last time I saw it, he was in the hands of the Witch Hunters.
+after: The last time I saw it, it was in the hands of the Witch Hunters.
+text OK
+voice NOK
+record OK
+
+
+
+
+
+6/ CORRECTED
+One of the fake books doesn’t have a voice line by Geralt, it’s one of the 2 books on the benches. Geralt will comment on all other fake books except for this one.
+I forgot to put the right tag on one of the books. I will correct it.
+
+
+
+
+
+
+7/
+During the Yen/Geralt/Ciri dialogue, Yen says “you have to do….” And Geralt says “what do you mean by ‘you’?” And then Ciri says “I’m coming too”. This clearly doesn’t work in English since “you” is used for both singular and plural. I imagine it’s a direct translation from the original script in another language that uses different words.
+You're right. It sounds weird. The translation from French doesn't work.
+
+Currently the dialog is as follow:
+Yen: All you will have to do then is use your skills in combat.
+Geralt: What do you mean by 'you'?
+
+I propose to change it like that:
+Yen: Together, all you will have to do then is use your skills in combat.
+Geralt: What do you mean by 'together'?
+
+You agree?
+
+7) That works better, yes. It could also be something like "all you have to do then is use your combined skills in combat" Your version works too though.
+
+
+YENN_STED_2116723819
+All you will have to do then is use your skills in combat.
+All you will have to do then is use your combined skills in combat.
+
+text OK
+voice NOK
+record OK
+
+GRLT_STED_2116723820
+What do you mean by 'you'?
+What do you mean by 'combined'?
+
+text OK
+voice NOK
+record OK
+
+
+
+
+
+
+
+8/
+When Geralt and Ciri are about to fight GoD, Geralt tells Ciri “stays alert”. I imagine it should be “stay alert” if he’s supposed to tell Ciri to be ready, etc.
+Exactely. I thought it was the right translation. I will correct it. 
+
+GRLT_STED_2116738235
+before: Stays alert.
+after: Stay alert.
+text OK
+voice NOK
+record OK
+
+
+
+
+
+9/ NOT CORRECTED YET
+Oh and one more thing, during the GoD fight, I'm not sure why but sometimes Geralt will go in a "non-combat" state. Sometimes instead of rolling I would accidentally jump. May be it has to do with the enemies appearing/disappearing.
+Perhaps it's the reason. Or perhaps it's due to the fact that Geralt continually alternates between the silver and steel swords, because shadows are monsters, and GoD is considered human.
+I need to find a way to make GoD be considered a monster, and I think that will solve this problem.
+
+
+
+
+
+
+
+
+xLetalis — Aujourd’hui à 19:56
+1) oh sorry, I guess the way the AI pronounces it sounds like quick :)
+2) yeah I think some rewording will be better, especially since at the end, Geralt will say that he hopes he remembers Essi one day, or something like that, to Ciri.
+
+5) It's during the first time Geralt and Yen meet Margarita, she says "the last time I saw it, he was in the hands of the witch hunters", I think she's referring to the book here.
+
+
+
+

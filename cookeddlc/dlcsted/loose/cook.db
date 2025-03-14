@@ -510,7 +510,7 @@
             "class": "CEntityTemplate",
             "seed": 1,
             "id": "3994A763-976F898B-EDF9E838-7C6DB5FB",
-            "diskSize": 81449
+            "diskSize": 85929
         },
         {
             "path": "dlc\\dlcsted\\data\\entities\\sted_book_actor.w2ent",
@@ -11688,7 +11688,7 @@
             "class": "CQuest",
             "seed": 1,
             "id": "6682EB1D-A87CF5BB-F62169F7-53271477",
-            "diskSize": 13112
+            "diskSize": 13098
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\stedbugged.w2quest",
@@ -12687,7 +12687,7 @@
             "class": "CLayer",
             "seed": 1,
             "id": "9920A276-46AFDA60-A2DBA68D-7D58962C",
-            "diskSize": 8062
+            "diskSize": 8075
         },
         {
             "path": "dlc\\dlcsted\\levels\\novigrad\\phase_6b\\mappins.w2l",

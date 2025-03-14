@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <ExternalSourcesList SchemaVersion="1" Root="D:\Witcher__3\REDKIT\Projects\TW3_Mod_EssiDaven-Redkit-\lipsync.TW3_Mod_EssiDaven-Redkit-\en.audio"> 
-   <Source Path="2116723709[1.4562]-STDSHE-STDSHE_STED_2116723709.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723710[2.3488]-STDSHE-STDSHE_STED_2116723710.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723717[1.1793]-STDSHE-STDSHE_STED_2116723717.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723721[1.7088]-STDSHE-STDSHE_STED_2116723721.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723722[1.2593]-STDSHE-STDSHE_STED_2116723722.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723723[3.2939]-STDSHE-STDSHE_STED_2116723723.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723724[3.6466]-STDSHE-STDSHE_STED_2116723724.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723725[6.3503]-STDSHE-STDSHE_STED_2116723725.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723730[1.4775]-STDSHE-STDSHE_STED_2116723730.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723750[1.9226]-STDSHE-STDSHE_STED_2116723750.wav" Conversion="Default Conversion Settings" /> 
-   <Source Path="2116723751[2.7585]-STDSHE-STDSHE_STED_2116723751.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116723306[5.6065]-GRLT-GRLT_STED_2116723306.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116723319[6.1898]-DAND-DAND_STED_2116723319.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116723633[3.9744]-YENN-YENN_STED_2116723633.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116723819[3.9188]-YENN-YENN_STED_2116723819.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116723820[2.0141]-GRLT-GRLT_STED_2116723820.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116737687[3.9336]-MGLA-MGLA_STED_2116737687.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116737943[1.9763]-YENN-YENN_STED_2116737943.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116737945[1.5466]-YENN-YENN_STED_2116737945.wav" Conversion="Default Conversion Settings" /> 
+   <Source Path="2116738235[1.3069]-GRLT-GRLT_STED_2116738235.wav" Conversion="Default Conversion Settings" /> 
 </ExternalSourcesList> 
