@@ -123,7 +123,7 @@
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_03g_gp_bedroom_door.w2scene",
             "string_ids": [
-                2116745726
+                2116746224
             ]
         },
         {
@@ -469,11 +469,11 @@
         {
             "path": "dlc\\dlcsted\\dlcsted.reddlc",
             "string_ids": [
+                2116736982,
+                2116736983,
                 2116737707,
                 2116737706,
-                2116737710,
-                2116736982,
-                2116736983
+                2116737710
             ]
         },
         {
@@ -565,7 +565,7 @@
         {
             "path": "dlc\\dlcsted\\data\\scenes\\sted_fake_gp_scene.w2scene",
             "string_ids": [
-                2116745879
+                2116746377
             ]
         },
         {

@@ -11504,7 +11504,7 @@
             "class": "CQuestPhase",
             "seed": 1,
             "id": "4676FA37-0DC79C9D-E2184262-30AAD027",
-            "diskSize": 16907
+            "diskSize": 16915
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\02a_gaunter_encounter.w2phase",
@@ -11688,7 +11688,7 @@
             "class": "CQuest",
             "seed": 1,
             "id": "6682EB1D-A87CF5BB-F62169F7-53271477",
-            "diskSize": 13098
+            "diskSize": 13289
         },
         {
             "path": "dlc\\dlcsted\\data\\phases\\stedbugged.w2quest",
