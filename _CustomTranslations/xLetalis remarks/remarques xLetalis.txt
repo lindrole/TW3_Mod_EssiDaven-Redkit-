@@ -34,6 +34,8 @@ DAND_STED_2116723319
 before: She kept, worn as a lucky talisman, the sky blue pearl that you gave her.
 after: She kept, worn as a lucky talisman, the sky blue pearl that you gave her, and tell her that it will bring her luck.
 after2: She kept, worn as a lucky talisman from you, the sky blue pearl that you told it will bring her luck.
+after3: She kept, worn as a lucky talisman from you, the sky blue pearl that you said would bring her luck.
+
 text OK
 voice NOK
 record OK
