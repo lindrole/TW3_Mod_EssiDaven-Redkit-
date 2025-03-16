@@ -1,0 +1,644 @@
+;meta[language=pl]
+; id      |key(hex)|key(str)| text
+    334714|90bd1fbf||Gaunter O'Dimm
+   1132081|00000000||Czy to nie romantyczne?
+   1132084|00000000||Masz na myśli bycie nago na otwartym morzu?
+   1132086|00000000||Ah nie, głupcze... spójrz, jak piękny jest księżyc nad brzegiem.
+   1132089|00000000||Co robisz...
+   1132091|00000000||Jesteś przepiękna.
+   1214650|00000000||Sh'eenaz
+2116723000|00000000||Sh'eenaz
+2116723001|00000000||Agloval
+2116723002|00000000||Gaunter O'Dimm
+2116723003|00000000||Gaunter O'Dimm
+2116723004|00000000||Geraltowi wkońcu udało się pokonać Gauntera O'Dimma.<br/>Mam nadzieję że ta wieść uspokoi duszę Essi, nawet jeżeli nie przywróci jej to do życia.<br/>
+2116723005|00000000||Geralt i Essi spotkali się kiedys w Brevermodzie.<br/>Pomimo niezdarności i braku taktu Geralta, Essi zakochała się w wiedźminie, lecz niestety bez wzajemności.<br/>Ja Geralt i Essi przeszliśmy trochę drogi razem zanim się rozdzieliliśmy.<br/>Parę lat później, Pacynka zmarała na ospę.<br/><br/>Ostatnie wydarzenia sprawiły, że poczułem potrzebę odwiedzenia grobu Oczka.<br/>Skorzystam także z okazji, aby poinformować Geralta o śmierci Essi i pokazać mu miejsce jej pochówku.<br/>
+2116723006|00000000||Okazało się, że los Pacynki nie był dziełem przypadku, ale maczał przy tym palce Pan Lusterko.<br/>
+2116723007|00000000||Essi Daven
+2116723008|00000000||Po ich spotkaniu w Novigradzie Sh'eenaz powiedziała Geraltowi, gdzie może znaleźć jedną z Błękitnych Pereł, których potrzebował.<br/>
+2116723009|00000000||Kilka lat temu Geralt został wynajęty przez księcia Aglovala, by przekonał jego ukochaną syrenę Sh'eenaz do „poświęcenia” i zamiany jej syreniego ogona na ludzkie nogi.<br/>Po kilku przygodach i spotkaniu z moją drogą Essi Daven, nazywaną także „Oczko” lub bardziej osobiście „Pacynka”, Sh'eenaz w końcu zgodziła się pozostac na suchym lądzie, dla swojego ukochanego Aglovala.<br/>
+2116723010|00000000||Sh'eenaz i Agloval
+2116723011|00000000||MOD questgroup_sted Quests
+2116723012|00000000||Znajdź błękitną perłę
+2116723013|00000000||Znajdź błękitną perłę
+2116723014|00000000||Podążaj za Jaskrem
+2116723015|00000000||Wróć do Yennefer z perłą.
+2116723016|00000000||Udaj się na Skellige i poproś Triss o pomoc.
+2116723017|00000000||Udaj się na Skellige i poproś Triss o pomoc.
+2116723018|00000000||Odwiedź Skellige i poproś Yennefer o pomoc.
+2116723019|00000000||Odwiedź Skellige i poproś Yennefer o pomoc.
+2116723020|00000000||Pokonaj Gauntera O'Dimma.
+2116723021|00000000||Powróć na drogę do Wyzimy
+2116723022|00000000||Znajdź księcia Aglovala i jego przyjaciółkę Sh'eenaz w Novigradzie.
+2116723023|00000000||Geralt dowiedział się o smutnym losie Essi, a później odkrył, że to Gaunter O'Dimm sprowokował jej śmierć.<br/>Mieszanka złości i frustracjii ogarnęła Geralta, który udał się po pomoc do Yennefer.<br/>
+2116723024|00000000||W drodze powrotnej do Yennefer po odnalezieniu perły, Geralt spotkał Ciri. Bardzo się zaskoczył.<br/>Ciri powiedziała mu, że jako dziecko w Świątyni Melitele czytała zbiór wierszy Essi, które napełniły ją wzruszeniem.<br/>W międzyczasie Yennefer znalazła sposób na zaczarowanie perły, która miała im pomóc pokonać demona.<br/>
+2116723025|00000000||Choć wyraźnie zazdrosna o wzmiankę Geralta o Oczku, Yennefer zgodziła się mu pomóc.<br/>Poprosiła go o znalezienie błękitnej perły, takiej jak ta, którą Geralt podarował Pacynce.<br/>Poradziła mu, aby znalazł Aglovala, księcia Bremerwoord, i jego towarzyszkę Sh'eenaz, seledynowowłosą syrenkę, która z miłości zgodziła się zamienić jej rybi ogon w nogi.<br/>
+2116723026|00000000||Czekałem na Geralta niedaleko Białego Sadu, żeby pokazać mu pewne miejsce.<br/>
+2116723027|00000000||Perła zaklęta przez Yennefer przyniosła zamierzony efekt i pozwoliła Geraltowi i Ciri pokonać Gauntera O'Dimma, a tym samym pomścić Pacynkę.<br/>
+2116723028|00000000||Sh'eenaz wskazała Geraltowi miejsce, w którym mógł znaleźć jedną z tych pereł.<br/>
+2116723029|00000000||W hołdzie Essi Daven
+2116723030|00000000||item_name_sted_misc_sky_blue_pearl
+2116723031|00000000||item_desc_sted_misc_sky_blue_pearl
+2116723032|00000000||dlc_name_sted
+2116723033|00000000||option_dlc_name_sted
+2116723034|00000000||content_name_dlc_sted
+2116723100|00000000||Idę za tobą.
+2116723101|00000000||To napewno ty Jaskier?
+2116723102|00000000||Jaskier?
+2116723103|00000000||Co robisz tak daleko od Novigradu?
+2116723104|00000000||Cześć, Geralt.
+2116723105|00000000||Przypuszczam, że twoja obecność tutaj jest spowodowana twoim kolejnym miłosnym podbojem.
+2116723106|00000000||Nie do końca.....
+2116723107|00000000||Co prawda, przybyłem tutaj dla kobiety,
+2116723108|00000000||ale nie po to o czym myślisz.
+2116723109|00000000||Zaintrygowałeś mnie, Jaskier.
+2116723110|00000000||Chcę, żebyś poszedł ze mną do pewnego miejsca niedaleko stąd.
+2116723111|00000000||Powiem ci więcej, kiedy tam dotrzemy.
+2116723112|00000000||Dziwnie się zachowujesz, ale jeżeli prosisz mnie, żebym z tobą poszedł musisz mieć dobry powód.
+2116723113|00000000||W istocie Geralt.
+2116723114|00000000||Idę za tobą.
+2116723115|00000000||Chodźmy
+2116723156|00000000||W hołdzie Essi Daven
+2116723157|00000000||Czekałem na Geralta niedaleko Białego Sadu, żeby pokazać mu pewne miejsce.<br/>
+2116723158|00000000||Geralt dowiedział się o smutnym losie Essi, a później odkrył, że Gaunter O'Dimm sprowokował jej śmierć.<br/>Mieszanka złości i frustracjii ogarnęła Geralta, który udał się po pomoc do Yennefer.<br/>
+2116723159|00000000||Podążaj za Jaskrem
+2116723160|00000000||Wracaj skąd przyszedłeś.
+2116723161|00000000||W hołdzie Essi Daven
+2116723200|00000000||Popatrz tam w oddali, to Wyzima.
+2116723201|00000000||Jakiś czas temu szalała tam epidemia ospy.
+2116723205|00000000||Uważałem Pacynkę za moją młodszą siostrę.
+2116723209|00000000||Była w Wyzimie w czasie epidemii ospy. Niestety zachorowała i zmarła.
+2116723210|00000000||Niemożliwe.
+2116723211|00000000||Udało się.
+2116723212|00000000||Było ciężko ale daliśmy radę.
+2116723230|00000000||Mam nadzieję, że spoczywasz teraz w pokoju Essi.
+2116723231|00000000||Wciąż próbuję przypomnieć sobie więcej faktów o tobie, ale czym bardziej się staram tym mniej pamiętam.
+2116723232|00000000||Nawet jeśli nie dokońca ją pamiętasz,
+2116723233|00000000||Ona wie, co właśnie dla niej zrobiłeś.
+2116723236|00000000||Do zobaczenia wkrótce.
+2116723300|00000000||Tak pamiętam.
+2116723301|00000000||Przepraszam, ale nie pamiętam.
+2116723302|00000000||Jesteśmy. To tu.
+2116723303|00000000||Co tutaj jest?
+2116723304|00000000||Tutaj spoczywa Essi.
+2116723305|00000000||Pamiętasz Oczko?
+2116723306|00000000||Tak pamiętam. Wspomnienia o niej wróciły do mnie dość szybko po amnezji.
+2116723307|00000000||Uważałem Pacynkę za moją młodszą siostrę.
+2116723308|00000000||Ona biegła przez życie nie zważając na śmierć deptającą jej po piętach.
+2116723309|00000000||Była w Wyzimie w czasie epidemii ospy. Niestety zachorowała i zmarła.
+2116723310|00000000||Nie mógłbym znieść widoku jej ciałą palonego na stosie pogrzebowym.
+2116723311|00000000||Więc pochowałem ją w tym spokojnym miejscu, daleko od miasta.
+2116723312|00000000||To bardzo smutna wiadomość dziękuję że mnie o tym informujesz.
+2116723313|00000000||Nie byłem w stanie odwzajemnić jej uczuć, które do mnie żywiła, ale napewno na mnie wpłynęła.
+2116723314|00000000||Nie zasłużyła na tak tragiczny los.
+2116723315|00000000||Przepraszam, ale nie pamiętam. To pewnie przez moją amnezję
+2116723316|00000000||Spotkałeś się kilka lat temu z Essi, kiedy pojechaliśmy do Bremervoordu.
+2116723317|00000000||Ona naprawdę cię kochała ale niestety nie odwzajemniłeś jej uczuć.
+2116723318|00000000||W trójkę przeszliśmy trochę drogi razem i potem się rozdzieliliśmy.
+2116723319|00000000||Dałeś jej wtedy błękitną perłę. Nosiła ją jako szczęśliwy talizman.
+2116723320|00000000||Uważałem Pacynkę za moją młodszą siostrę.
+2116723321|00000000||Ona biegła przez życie nie zważając na śmierć deptającą jej po piętach.
+2116723322|00000000||Była w Wyzimie w czasie epidemii ospy. Niestety zachorowała i zmarła.
+2116723323|00000000||Nie mógłbym znieść widoku jej ciałą palonego na stosie pogrzebowym.
+2116723324|00000000||Więc pochowałem ją w tym spokojnym miejscu, daleko od miasta.
+2116723325|00000000||To bardzo smutna wiadomość dziękuję że mnie o tym informujesz.
+2116723326|00000000||Mogłem jej nie mówić że błękitna perła przynosi szczęście. Żałuję tego.
+2116723327|00000000||Nie obwiniaj się Geralt.
+2116723328|00000000||Wiedziała że twoje słowa miały tylko sprawić by poczuła się lepiej.
+2116723329|00000000||A jednak to twoja błękitna perła dodała jej odwagi, by stawić czoła największemu lękowi. Widziała w niej cząstkę ciebie.
+2116723330|00000000||Perłę i Lutnię trzymała przy sobie do końca. I pewnie nadal trzyma je w sercu.
+2116723331|00000000||Czasami Essi wraca do życia w moich snach, jakby nic nigdy się jej nie stało.
+2116723332|00000000||Dziękuję, że przyszedłeś tu ze mną Geralt.
+2116723333|00000000||Nie miałem odwagi przyjść tutaj sam, a wiedziałem, że będziesz tędy przechodzić. Dlatego na ciebie czekałem.
+2116723334|00000000||W takich chwilach razem jesteśmy silniejsi, nawet jeśli nie mniej smutni.
+2116723335|00000000||Obecność kogoś bliskiego pomaga nam stać się odważniejszymi.
+2116723336|00000000||Wracam do Novigradu.
+2116723337|00000000||Pojedziesz ze mną?
+2116723338|00000000||Odczuwanie emocji nie jest moją mocną stroną. Mimo to czuję potrzebę by zostać tu dłużej,
+2116723339|00000000||Rozumiem.
+2116723340|00000000||Jeśli Pacynka na nas patrzy na pewno jest szczęśliwa widząc cię tutaj.
+2116723341|00000000||Do zobaczenia Geralcie.
+2116723500|00000000||Zapłacisz za to.
+2116723501|00000000||Wpłynąłeś na los Essi dla swoich korzyści?
+2116723502|00000000||Ty! Tutaj!
+2116723503|00000000||A więc tak się wita starych znajomych?
+2116723504|00000000||Masz coś wspólnego z tym, co stało się z Essi?
+2116723505|00000000||Ja?
+2116723506|00000000||Czy kiedykolwiek miałem coś wspólnego z czyimś losem…
+2116723507|00000000||Nawet istota taka jak ja nie może być pewna, jak sprawy się potoczą, jeśli los zostanie pozostawiony samemu sobie.
+2116723508|00000000||Ta dziewczyna mogła zmienić ścieżkę twojego przeznaczenia. To pokrzyżowało by moje plany co do ciebie.
+2116723509|00000000||Zdenerwowało by mnie to.
+2116723510|00000000||A ja nie lubię się denerwować.
+2116723511|00000000||W tego typu sytuacji
+2116723512|00000000||zdarza się, że podaję pomocną dłoń losowi
+2116723513|00000000||aby upewnić się, że nie pokrzyżuje on moich zamiarów…
+2116723514|00000000||Zapłacisz za to.
+2116723515|00000000||To wyzwanie?
+2116723516|00000000||Lubię wyzwania.
+2116723517|00000000||Ale ja jestem inne niż potwory które do tej pory zabijałeś Geralt.
+2116723518|00000000||Jestem wszechpotężny nie możesz mnie zabić.
+2116723519|00000000||Znajdę sposób. Spotkałem wiele potworów na swoim szlaku. Każdy miał jakąś słabość, ty też ją masz. Narazie jej nie znam ale zapewniam cię znajdę ją i cię zabiję.
+2116723520|00000000||Nie przemęczaj się niepotrzebnie…  Mogę jeszcze kiedyś potrzebować twoich usług.
+2116723521|00000000||Nie martw się, spotkamy się jeszcze…
+2116723522|00000000||Ale tylko wtedy, gdy to ja będę cie szukał.
+2116723523|00000000||Wpłynąłeś na los Essi dla swoich korzyści?
+2116723524|00000000||To tylko efekt uboczny.
+2116723525|00000000||Moje działania sterują losem tego świata Geralt. Być może beze mnie nigdy nie odnalazłbyś Ciri.
+2116723530|00000000||Wydaje mi się, że czas przetestować to nowe łóżko.
+2116723531|00000000||Przykro mi, ale nie mam na to ochoty.
+2116723532|00000000||Geralt!
+2116723533|00000000||Wszystko w porządku?
+2116723534|00000000||Kilka nowych blizn. Nic poważnego.
+2116723535|00000000||Więc chyba udało ci się pomścić przyjaciółkę.
+2116723536|00000000||Tak, została pomszczona.
+2116723537|00000000||Te wydarzenia przypominają mi, jak ważne jest bycie z osobą, którą kocham.
+2116723538|00000000||Blizny… romans…
+2116723539|00000000||Przestań... bo się załamię.
+2116723540|00000000||Przykro mi,ale nie mam na to ochoty.
+2116723541|00000000||Co więcej, nadszedł czas, abym powrócił na moją ścieżkę.
+2116723542|00000000||Podążaj nią, ale wróć do mnie szybko.
+2116723543|00000000||Zrobię to.
+2116723544|00000000||Kocham cię, Triss.
+2116723545|00000000||Kocham Cię, Geralcie.
+2116723546|00000000||Wydaje mi się, że czas przetestować to nowe łóżko.
+2116723547|00000000||To jest ciekawy pomysł...
+2116723555|00000000||Idź i poproś Yennefer o pomoc i wróć do mnie.
+2116723570|00000000||Daj mi chwilę, a będę do twojej dyspozycji.
+2116723600|00000000||Spotkałem ją w Bremerwoord.
+2116723601|00000000||Jaskier i Essi byli długoletnimi przyjaciółmi.
+2116723602|00000000||Cóż za niespodzianka!
+2116723603|00000000||Jesteś w samą porę.
+2116723604|00000000||Przygotowywałam się do wyjazdu ze Skellige.
+2116723605|00000000||Zanim wyjedziesz,
+2116723606|00000000||Chciałbym cię prosić o pomoc w pewnej sprawie.
+2116723607|00000000||W jakiej sprawie?
+2116723608|00000000||Musisz mi pomóc zabić demona.
+2116723609|00000000||Demona?
+2116723610|00000000||Robisz się ambitny.
+2116723611|00000000||Podoba mi się to.
+2116723612|00000000||Ale skąd ten szalony pomysł?
+2116723613|00000000||Ten demon zabił przyjaciółkę Jaskra oraz moją,
+2116723614|00000000||Nazywała się Essi Daven.
+2116723615|00000000||Słyszałam o niej.
+2116723616|00000000||Ale nie wiedziałam, że byliście przyjaciółmi.
+2116723617|00000000||Spotkałem ją, pomagając księciu Aglovalowi z Bremerwoord.
+2116723618|00000000||Dałem Essi błękitną perłę…
+2116723619|00000000||Oszczędź mi szczegółów spotkania z nią, proszę.
+2116723620|00000000||Chociaż jestem potężną czarodziejką, pokonanie demona wykracza poza moje umiejętności.
+2116723621|00000000||Wolałabym poszerzać swoją wiedzę na inne tematy, niż dowiadywać się jak zabijać demony.
+2116723622|00000000||Jeśli wiesz co mam na myśli…
+2116723623|00000000||Nie mogę zagwarantować, że znajdę sposób na zabicie go.
+2116723624|00000000||Jednak powinnam być w stanie powiedzieć ci, jak sprawić, by przez kilka stuleci nikomu nie zaszkodził.
+2116723625|00000000||Ale potrzebuję trochę czasu, by się nad tym zastanowić.
+2116723626|00000000||Będę też musiała przestudiować stare księgi i manuskrypty.
+2116723627|00000000||Jak mogę ci pomóc?
+2116723628|00000000||Niewiele wiem o demonach,
+2116723629|00000000||ale nekromancja nie jest mi obca.
+2116723630|00000000||Chociaż nie wiem jeszcze dokładnie jak się do tego zabrać
+2116723631|00000000||Myślę, że będzie nam potrzebny przedmiot, który zwiąże ciebie i zmarłą
+2116723632|00000000||Ta perła, którą jej dałeś, może nam pomóc…
+2116723633|00000000||Słyszałam, że książę Bremerwoord i jego towarzyszka Sh'eenaz,
+2116723634|00000000||obecnie przebywają w Novigradzie na Wyspie Świątynnej.
+2116723635|00000000||Myślę, że może to być dobry punkt wyjścia, aby dowiedzieć się, jak zdobyć jedną z tych pereł.
+2116723640|00000000||Jaskier i Essi byli długoletnimi przyjaciółmi.
+2116723641|00000000||Nie wyobrażam sobie, żeby Jaskier przyjaźnił się z dziewczyną.
+2116723642|00000000||Tak, to zaskakujące, ale Jaskier darzył ją prawdziwą, serdeczną przyjaźnią
+2116723700|00000000||Podążałem swoją ścieżką.
+2116723701|00000000||To długa historia.
+2116723702|00000000||Sh'eenaz.
+2116723703|00000000||Książę.
+2116723704|00000000||Geralt!
+2116723705|00000000||Jak się trzymasz przez te wszystkie lata?
+2116723706|00000000||Powiedzmy, że podążam swoją ścieżką.
+2116723707|00000000||Czemu zawdzięczamy twoją wizytę?
+2116723708|00000000||Jestem tutaj z powodu Essi Daven.
+2116723709|00000000||Biedne dziecko…
+2116723710|00000000||Słyszałam, co się z nią stało.
+2116723711|00000000||Nie zasłużyła na to.
+2116723712|00000000||Była bardzo utalentowaną dziewczyną która zawsze wiedziała co należy powiedzieć.
+2116723713|00000000||I to zarówno w jej balladach jak i w momentach powiedzmy.... specjalnych.
+2116723714|00000000||Doświadczyłem tego.
+2116723715|00000000||To, co ją spotkało, nie było przypadkiem.
+2116723716|00000000||Starożytny i potęzny demon sprowokował jej śmierć.
+2116723717|00000000||To okropne!
+2116723718|00000000||Nie wiedziałem, jak odwzajemnić Essi uczucia, które do mnie żywiła,
+2116723719|00000000||ale przynajmniej spróbuję ją pomścić.
+2116723720|00000000||Potrzebuję do tego błękitnej perły, identycznej jak ta którą podarowałem Oczku.
+2116723721|00000000||To nie będzie łatwe.
+2116723722|00000000||Te perły są bardzo rzadkie.
+2116723723|00000000||Myślę jednak, że z wiedźmińskimi zmysłami,
+2116723724|00000000||powinno być możliwe znalezienie czegoś na wybrzeżu na północ stąd.
+2116723725|00000000||Ale myślę, że tutejsze syreny nie będą tak gościnne jak moje syrenie siostry z Bremervoordu.
+2116723726|00000000||To nie bedzię problem.
+2116723727|00000000||Dziękuję za waszą pomoc.
+2116723728|00000000||A my dziękujemy za wizytę Geralcie.
+2116723729|00000000||Jestem pewien, że ci się uda.
+2116723730|00000000||Do zobaczenia Ciri.
+2116723731|00000000||To byłaby zbyt długa historia do opowiedzenia.
+2116723750|00000000||Pomścij tę biedną dziewczynę.
+2116723751|00000000||Bylibyście taką ładną parą.
+2116723760|00000000||Jestem pewien, że ci się uda.
+2116723800|00000000||To zbyt niebezpieczne.
+2116723801|00000000||Nie wiesz, z czym chcesz się zmierzyć.
+2116723802|00000000||Ciri?
+2116723803|00000000||Yennefer powiedziała mi, o co ją prosiłeś.
+2116723804|00000000||Wtedy przypomniałam sobie o małym i pięknie oprawionym tomiku Essi Daven zatytuowanym „Błękitna perła”.
+2116723805|00000000||Czytałam go jako dziecko, kiedy trenowałam z Yennefer w Świątyni Melitele.
+2116723806|00000000||Ta książka napełniła mnie emocjami,
+2116723807|00000000||i teraz rozumiem dlaczego.
+2116723808|00000000||Nie chciałbym wam przeszkadzać,
+2116723809|00000000||ale zakończyłam moje badania. Z sukcesem.
+2116723810|00000000||Moje podejrzenia były słuszne.
+2116723811|00000000||Przedmiot łączący cię ze zmarłym rzeczywiście okaże się przydatny.
+2116723812|00000000||Jak się obawiałam,
+2116723813|00000000||Nie pozwoli to na zniszczenie tej istoty,
+2116723814|00000000||ale pomoże ci odesłać go tam skąd przybył,
+2116723815|00000000||i to na dosyć długo.
+2116723816|00000000||Czy możesz mi dać jedną z tych pereł?
+2116723817|00000000||Będziesz musiał ją położyć na grobie twojej przyjaciółki.
+2116723818|00000000||To przywoła i osłabi demona.
+2116723819|00000000||Wszystko, co musicie wtedy zrobić, to wykorzystać wasze umiejętności w walce.
+2116723820|00000000||Co masz na myśli, mówiąc „musimy”?
+2116723821|00000000||Idę z tobą.
+2116723822|00000000||Nie znałam Essi,
+2116723823|00000000||ale teraz wiem co kryło się za tym subtelnym tekstem z ballad.
+2116723824|00000000||Od razu chciałam ci pomóc w zniszczeniu tego demona.
+2116723825|00000000||To zbyt niebezpieczne.
+2116723826|00000000||Idę tam sam.
+2116723827|00000000||Idę z tobą.Koniec dyskusji.
+2116723828|00000000||Nawet osłabiony będzie śmiertelnie niebezpieczny,
+2116723829|00000000||we dwójkę macie o wiele większe szanse na pokonananie go.
+2116723830|00000000||Nie podoba mi się to, ale chyba nie mam wyboru.
+2116723831|00000000||Dokładnie
+2116723832|00000000||Dobrze…
+2116723833|00000000||Jesteś gotowa?
+2116723834|00000000||Jestem gotowa od chwili, gdy tu przyszedłam.
+2116723837|00000000||Nie wiesz, z czym chcesz się zmierzyć.
+2116723838|00000000||Pokonałam już bardzo wiele potężnychi stworzeń.
+2116723915|00000000||Liczy się teraźniejszość i przyszłość.
+2116723916|00000000||Tak, to był niezwykły czas.
+2116723917|00000000||Nie sądziłem, że do mnie dołączysz.
+2116723918|00000000||Czy tęsknisz za latami spędzonymi w Kaer Morhen?
+2116723919|00000000||Nie, nie jestem typem nostalgicznej osoby.
+2116723920|00000000||Żyję chwilą.
+2116723921|00000000||A moja teraźniejszość, podobnie jak moja przyszłość, jest przy tobie.
+2116723922|00000000||To był niezwykły czas.
+2116723923|00000000||Tak, moja przyszłość również będzie u twojego boku.
+2116723924|00000000||Widzę, że jest nowe łóżko.
+2116723925|00000000||Tak. Eskel był na tyle miły, że go dla mnie zmontował.
+2116723926|00000000||Podoba ci się to ?
+2116723927|00000000||Podoba mi się to i podsuwa mi pomysły, ale to nie jedyny powód, który mnie tu sprowadza.
+2116723928|00000000||Jakiś demon spowodował śmierć drogiego przyjaciółki Jaskira i mojej.
+2116723929|00000000||Chciałbym znaleźć sposób, aby zapobiec ponownemu wyrządzaniu krzywdy przez tą złą istotę.
+2116723930|00000000||Niestety nie będę w stanie Ci pomóc.
+2116723931|00000000||Demony są dla mnie istotami zbyt potężnymi.
+2116723932|00000000||Muszę przyznać, że osobą, która najlepiej Ci pomoże, jest z pewnością Yennefer.
+2116723933|00000000||Jej wiedza na temat nekromancji prawdopodobnie się przyda.
+2116723934|00000000||Dzięki Triss, odwiedzę Yen.
+2116723935|00000000||Myślę, że nadal jest na Skellige.
+2116723936|00000000||I nie martw się, mimo że jadę odwiedzić Yennefer, moje serce zostaje z tobą.
+2116723937|00000000||A moje serce z tobą.
+2116725153|00000000||Zapłacisz za to.
+2116725155|00000000||Wpłynąłeś na los Essi dla swoich korzyści?
+2116725193|00000000||Tak pamiętam.
+2116725195|00000000||Przepraszam, ale nie pamiętam.
+2116732385|00000000||Skąd tyle tajemnic?
+2116732387|00000000||Wkrótce się dowiesz.
+2116732389|00000000||Jak długo będziemy iść?
+2116732391|00000000||Jesteśmy bardzo blisko.
+2116732417|00000000||Podejdź bliżej. Chcę ci coś pokazać.
+2116732487|00000000||Od lat miałem wobec ciebie plany.
+2116732489|00000000||Wiedźmin u boku czarodziejki oferuje o wiele więcej możliwości niż zwykły bard...
+2116732490|00000000||W hołdzie Essi Daven.
+2116732491|00000000||Czekałem na Geralta niedaleko Białego sadi żeby pokazać mu wyjątkowe miejsce.<br/>
+2116732492|00000000||Geralt dowiedział się o smutnym losie Essi, a później odkrył, że Gaunter O'Dimm sprowokował jej śmierć.<br/>Mieszanka złości i frustracjii ogarnęła Geralta, który udał się po pomoc do Yennefer.<br/>
+2116732493|00000000||Podążaj za Jaskrem
+2116732494|00000000||Wracaj skąd przyszedłeś.
+2116732495|00000000||Geralt dowiedział się o smutnym losie Essi i od razu odkrył, że sprowokował go ten diabeł Gaunter o DIm.<br/>Mieszanka złości i niesprawiedliwości ogarnęła Geralta, który poszedł szukać pomocy u Triss.<br/>
+2116732496|00000000||Agloval
+2116732497|00000000||Essi Daven
+2116732498|00000000||Essi Daven była znana wszystkim jako „Małe Oczko”, ale dla mnie zawsze pozostanie "Pacynką".<br/>Geralt i Essi poznali się w Bremervoordzie.<br/>Pomimo niezdarności i braku taktu Geralta, Essi zakochała się w wiedźminie, lecz niestety bez wzajemności.<br/>Ja Geralt i Essi przeszliśmy trochę drogi razem zanim się rozdzieliliśmy.<br/>Parę lat później, Pacynka zmarała na ospę.<br/><br/>Ostatnie wydarzenia sprawiły, że poczułem potrzebę odwiedzenia grobu Oczka.<br/>Skorzystam także z okazji, aby poinformować Geralta o śmierci Essi i pokazać mu miejsce jej pochówku.<br/>
+2116732499|00000000||Okazało się, że los Pacynki nie był dziełem przypadku, ale maczał przy tym palce Pan Lusterko.<br/>
+2116732501|00000000||Powinienem poprosić Triss o radę, jak uwolnić świat od tej złej istoty.
+2116732503|00000000||Powiedziała mi, że musi jechać do Kaer Morhen.
+2116732505|00000000||Powiniem ją odwiedzić.
+2116732507|00000000||Powinienem poprosić Yen o radę, jak uwolnić świat od tego diabła.
+2116732509|00000000||Musi nadal przebywać w swoich apartamentach na Skellige.
+2116732510|00000000||Udaj się do Kaer Morhen i poproś Triss o pomoc.
+2116732511|00000000||Geralt udał się do swojej ukochanej Triss, lecz ona nie mogła mu pomóc. <br/>Z bólem serca poradziła Geraltowi, aby poprosił Yen o pomoc.<br/>
+2116732512|00000000||Udaj się do Skellige i poproś Yen o pomoc.
+2116732513|00000000||Udaj się do Kaer Morhen i poproś Triss o pomoc.
+2116732514|00000000||Udaj się do Skellige i poproś Yen o pomoc.
+2116736161|00000000||Wrócę do Triss, kiedy skończę z tym demonem.
+2116736163|00000000||Nie zatrzymuj się po drodze.
+2116736165|00000000||Nie budził bym jej.
+2116736167|00000000||Inaczej będzie w złym humorze.
+2116736169|00000000||Muszę poczekać do rana.
+2116736215|00000000||Idź i znajdź tę perłę.
+2116736219|00000000||Na co czekasz?
+2116736221|00000000||Chcesz pomścić tą trubadurkę czyż nie?
+2116736222|00000000||Choć wyraźnie zazdrosna o wzmiankę Geralta o Oczku, Yennefer zgodziła się mu pomóc.<br/>Poprosiła go o znalezienie błękitnej perły, takiej jak ta, którą Geralt podarował Pacynce.<br/>Poradziła mu, aby znalazł Aglovala, księcia Bremerwoord, i jego towarzyszkę Sh'eenaz, seledynowowłosą syrenkę, która z miłości zgodziła się zamienić jej rybi ogon w nogi.<br/>Yennefer z kolei udała się do Toussaint by prosić o radę Margaritę.
+2116736223|00000000||Sh'eenaz i Agloval
+2116736224|00000000||Kilka lat temu Geralt został wynajęty przez księcia Aglovala, by przekonał jego ukochaną syrenę Sh'eenaz do „poświęcenia” i zamiany jej syreniego ogona na ludzkie nogi.<br/>Po kilku przygodach i spotkaniu z moją drogą Essi Daven, nazywaną także „Oczko” lub bardziej osobiście „Pacynka”, Sh'eenaz w końcu zgodziła się pozostac na suchym lądzie, dla swojego ukochanego Aglovala.<br/>
+2116736225|00000000||Po ich spotkaniu w Novigradzie Sh'eenaz powiedziała Geraltowi, gdzie może znaleźć jedną z Błękitnych Pereł, których potrzebował.<br/>
+2116736226|00000000||Geraltowi wkońcu udało się pokonać Gauntera O'Dimma.<br/>Mam nadzieję że ta wieść uspokoi duszę Essi, nawet jeżeli nie przywróci jej to do życia.<br/>
+2116736228|00000000||Yen już tutaj nie ma.
+2116736230|00000000||Musiała wyjechać by szukać informacji, które mogłyby mi pomóc.
+2116736232|00000000||Powinienem poszukać perły, o której znalezieniem mnie prosiła.
+2116736233|00000000||Znajdź księcia Aglovala i jego przyjaciółkę Sh'eenaz w Novigradzie.
+2116736234|00000000||Sh'eenaz wskazała Geraltowi miejsce, w którym mógł znaleźć jedną z tych pereł.<br/>
+2116736236|00000000||W nocy nie mam szans na znalezienie Aglovala i Sh'eenaz.
+2116736238|00000000||Jest już późno.
+2116736240|00000000||Powinienem zaczekać do świtu, żeby poszukać Sh'eenaz i Aglovala.
+2116736242|00000000||Agloval i Sh'eenaz musieli wrócić do swojego mieszkania.
+2116736244|00000000||Powinienem zaczekać do świtu
+2116736246|00000000||Sh'eenaz nie jest nocnym markiem.
+2116736248|00000000||Powinienem zaczekać z szukaniem ich do jutra.
+2116736250|00000000||O ile dobrze pamiętam.
+2116736252|00000000||Sh'eenaz miała seledynowe włosy.
+2116736254|00000000||To powinno mi pomóc ją rozpoznać.
+2116736971|00000000||Znajdź Jaskra na drodze do Wyzimy, niedaleko Białego Sadu.
+2116736973|00000000||Nie jestem tu, z odwiedzinami. Muszę porozmawiać z Triss.
+2116736977|00000000||Znajdź błękitną perłę
+2116736979|00000000||Skończyłem tutaj. Powinienem teraz dołączyć do Yen.
+2116736982|fa36e556||Błękitna Perła
+2116736983|58de2a5c||Perła błękitna jak lazurowe niebo. Taka sama jak ta którą dałeś Essi. Przedmiot potrzebny do zadania W hołdzie Essi Daven.
+2116736993|00000000||Wróć do Yennefer.
+2116737046|00000000||Wracając do Yennefer po znalezieniu perły, Geralt był zaskoczony widokiem Ciri.<br/>Ciri powiedziała mu, że jako dziecko w Świątyni Melitele czytała zbiór wierszy Essi i że napełnił ją wzruszeniem.<br/>W międzyczasie, postępując zgodnie z instrukcjami zawartymi w starożytnej księdze, Yennefer znalazła sposób na zaczarowanie perły, aby pomóc im pokonać tę złą istotę.<br/>
+2116737047|00000000||Pokonaj Gauntera O'Dimma.
+2116737048|00000000||Perła zaklęta przez Yennefer odniosła zamierzony efekt i pozwoliła Geraltowi i Ciri pokonać Gauntera o Dma i w ten sposób pomścić Pacynkę.<br/>Wzruszony Geralt znalazł czas, aby złożyć hołd przy grobie Essi.<br/>
+2116737533|00000000||Mam nadzieję, że spoczywasz teraz w pokoju Essi.
+2116737535|00000000||Wciąż próbuję przypomnieć sobie więcej faktów o tobie, ale czym bardziej się staram tym mniej pamiętam.
+2116737541|00000000||Wracam na swoją drogę.
+2116737543|00000000||Do zobaczenia Ciri.
+2116737545|00000000||Do zobaczenia wkrótce.
+2116737547|00000000||Teraz Pacynko,
+2116737549|00000000||Mam nadzieję, że spoczywasz w pokoju.
+2116737551|00000000||To więcej niż pewne Geralt.
+2116737553|00000000||Teraz wie, że ona również była dla ciebie ważna.
+2116737555|00000000||Powinienem także wrócić do Kaer Morhen, aby uspokoić Triss.
+2116737557|00000000||Mam zlecenia do wypełnienia.
+2116737559|00000000||Wrócę do ciebie później Triss.
+2116737563|00000000||Bycie z tobą w Kaer Morhen jest zawsze takie miłe.
+2116737584|00000000||Będę Ci towarzyszyć w poszukiwaniu tej książki.
+2116737586|00000000||Mam zamiar znaleźć Sh'eenaz i księcia.
+2116737588|00000000||Będę Ci towarzyszyć w poszukiwaniu tej książki.
+2116737590|00000000||Miałam nadzieję, że to powiesz.
+2116737600|00000000||Pozwolę ci pójść samej.
+2116737602|00000000||W porządku, znajdę Sh'eenaz i księcia.
+2116737604|00000000||Z kolei ja,
+2116737606|00000000||Mam zamiar odwiedzić Margaritę.
+2116737608|00000000||Jako była rektorka Aretuzy może nam pomóc w znalezieniu odpowiedniej książki.
+2116737610|00000000||W następstwie ostatnich wydarzeń wycofała się do Toussaint.
+2116737619|00000000||Dołącz do Yennefer w Toussaint.
+2116737636|00000000||Pokonaj Gryfa.
+2116737637|00000000||Podążaj za Yennefer.
+2116737641|00000000||Tak, to prawda.
+2116737645|00000000||Całkowicie się zgadzam.
+2116737647|00000000||Co ten gryf tu robił?
+2116737649|00000000||Pewnie też chciał nacieszyć się tym widokiem.
+2116737651|00000000||Rita ma kłopoty!
+2116737653|00000000||Nie stójmy tak. Pomóżmy Margaricie.
+2116737655|00000000||Dlaczego wszyscy chcecie, żebym ciągle gdzieś chodził?
+2116737657|00000000||Co masz na myśli?
+2116737659|00000000||Rita!
+2116737661|00000000||Yenna!
+2116737663|00000000||Geralt!
+2116737665|00000000||Czy wszystko w porządku?
+2116737667|00000000||Przyjechałem tu szukając spokoju po tym co się stało.
+2116737669|00000000||A teraz bandyci mnie atakują.
+2116737671|00000000||Czy to nigdy się nie skończy?
+2116737673|00000000||Ale powiedz mi, co was tu sprowadza?
+2116737675|00000000||Geralt poprosił mnie o pomoc w walce z potężną, złą istotą.
+2116737677|00000000||Skąd ten pomysł?
+2116737679|00000000||Istota ta jest odpowiedzialna za śmierć bliskiej osoby.
+2116737681|00000000||Pomyślałem, że możesz polecić jakąś książkę, która może nam w tym pomóc.
+2116737683|00000000||Rzeczywiście, spotkałam się kiedyś z pewną książka która może wam pomóc.
+2116737685|00000000||Ale obawiam się, że została zniszczona.
+2116737687|00000000||Ostatnim razem, gdy ją widziałam, była w rękach łowców czarownic.
+2116737689|00000000||Wciąż istnieje niewielka szansa, że ​​znajduje się ona wśród pozostałości Akademii Oxenfurckiej
+2116737691|00000000||Bardzo dobrze, zaraz tam pojadę.
+2116737693|00000000||Mogę podać krótki opis, ale to nie wystarczy, aby ją zidentyfikować.
+2116737695|00000000||To ostatnie miejsce, do którego chcę wrócić... ale dla ciebie, Geralt, zrobię to.
+2116737697|00000000||Teleportuję się i ukryję za posągiem przed Akademią, poza zasięgiem wzroku łowców.
+2116737699|00000000||Gdy uznasz, że znalazłeś książkę, dołącz do mnie, abym mógła to potwierdzić.
+2116737701|00000000||Podróż do Oxenfurtu jest wystarczająco niebezpieczna dla jednej czarownicy... tym bardziej dla dwóch...
+2116737703|00000000||Będę tu czekać na twój powrót.
+2116737705|00000000||Jedź do Oxenfurtu. Rita tam do ciebie dołączy.
+2116737706|b48fc3ad||Przedmiot potrzebny do zadania W hołdzie Essi Daven.
+2116737707|f0eef527||Stara książka
+2116737710|cf202945||[Tekst nieczytelny, jakby zamaskowany magiczną aurą.]
+2116737711|00000000||Poszukaj starożytnej księgi w Akademii w Oxenfurcie.
+2116737712|00000000||Pokaż książkę Margaricie.
+2116737714|00000000||To nie jest ta, której szukam.
+2116737716|00000000||Ta wygląda obiecująco.
+2116737718|00000000||Powinienem pokazać to Margaricie.
+2116737720|00000000||Sądząc po tytule, zdecydowanie nie jest to właściwa książka.
+2116737722|00000000||Ładna okładka, ale to nie ta.
+2116737724|00000000||Ta książka jest stara, ale to nie ta, której szukam.
+2116737726|00000000||Proszę, pospiesz się i znajdź tę książkę.
+2116737728|00000000||Jedź do Oxenfurtu. Dołączę do ciebie.
+2116737730|00000000||Pssst. Jestem tu ukryta.
+2116737732|00000000||Jaskier również prosił mnie, abym poszedł za nim.
+2116737734|00000000||Mam nadzieję, że chodzenie obok mnie będzie dla Ciebie przyjemniejsze.
+2116737736|00000000||Mam sprawy do omówienia z Margaritą.
+2116737738|00000000||Znalazłem to.
+2116737740|00000000||Pozwól mi na to spojrzeć.
+2116737742|00000000||Dokładnie, to ta właściwa.
+2116737744|00000000||Ale czy to normalne, że jego treść jest nieczytelna?
+2116737746|00000000||Jak można się spodziewać, jest to książka wyjątkowa.
+2116737748|00000000||Jej zawartość zostanie ujawniona dopiero po zetknięciu się ze świętym i wiecznie złym płomieniem.
+2116737750|00000000||A gdzie go znajdziemy?
+2116737752|00000000||WIem, gdzie go znaleźć, ale nie podoba mi się to.
+2116737754|00000000||Płomień Świątyni Wiecznego Ognia.
+2116737756|00000000||To chędożona czarownica! Łapać ją!
+2116737758|00000000||Ratuj siebie! Zatrzymam ich.
+2116737762|00000000||A gdzie go znajdziemy?
+2116737764|00000000||Wiem, gdzie go znaleźć, ale nie podoba mi się to.
+2116737766|00000000||Essi ? Czy to ty?
+2116737768|00000000||Tak, Geralcie.
+2116737770|00000000||Dzięki magii, którą uwolniłeś, mogę z tobą rozmawiać.
+2116737772|00000000||Ale mam wrażenie, że to już zanika.
+2116737776|00000000||Nie mów tak. Nie możesz siebie obwiniać.
+2116737780|00000000||Nie możesz kontrolować swoich uczuć.
+2116737786|00000000||Życie jest za krótkie, żeby się zamartwiać.
+2116737788|00000000||Zachowaj mnie w swoim sercu i ciesz się życiem.
+2116737790|00000000||Tam gdzie jestem, pielęgnuję wspomnienia chwil spędzonych u Twojego boku.
+2116737792|00000000||Wiem do kogo należy teraz Twoje serce.
+2116737794|00000000||Ciesz się życiem i bądź szczęśliwy z ukochaną osobą.
+2116737796|00000000||Żegnam Geralt i dziękuję za wszystko.
+2116737800|00000000||To, co ci się przydarzyło, to moja wina.
+2116737802|00000000||Przepraszam, że nie podzielałem tych samych uczuć co Ty.
+2116737804|00000000||To, co ci się przydarzyło, to moja wina.
+2116737806|00000000||Nie mów tak. Nie możesz siebie obwiniać.
+2116737808|00000000||Przepraszam, że nie podzielałem tych samych uczuć co Ty.
+2116737810|00000000||Nie możesz kontrolować swoich uczuć.
+2116737812|00000000||Ale dzisiaj myślę, że Gaunter prawdopodobnie miał rację.
+2116737814|00000000||Nie jest wykluczone, że skończylibyśmy razem
+2116737816|00000000||Życie jest za krótkie, żeby się zamartwiać.
+2116737818|00000000||Zachowaj mnie w swoim sercu.
+2116737822|00000000||Tak, Geralcie.
+2116737824|00000000||Dzięki magii, którą uwolniłeś, mogę z tobą rozmawiać
+2116737826|00000000||Ale mam wrażenie, że to już zanika.
+2116737830|00000000||Nie mów tak. Nie możesz siebie obwiniać.
+2116737832|00000000||Przepraszam, że nie podzielałem tych samych uczuć co Ty.
+2116737834|00000000||Nie możesz kontrolować swoich uczuć.
+2116737840|00000000||Życie jest za krótkie, żeby się zamartwiać.
+2116737842|00000000||Zachowaj mnie w swoim sercu i ciesz się życiem.
+2116737844|00000000||Tam gdzie jestem, pielęgnuję wspomnienia chwil spędzonych u Twojego boku.
+2116737846|00000000||Wiem do kogo należy teraz Twoje serce.
+2116737848|00000000||Ciesz się życiem i bądź szczęśliwy z ukochaną osobą.
+2116737850|00000000||Żegnam Geralta i dziękuję za wszystko.
+2116737854|00000000||Tam gdzie jestem, pielęgnuję wspomnienia chwil spędzonych u Twojego boku.
+2116737856|00000000||Żegnam Geralta i dziękuję za wszystko.
+2116737858|00000000||Żegnaj Essi.
+2116737860|00000000||Powinienem zaczekać z opowiedzeniem tej historii Jaskrowi.
+2116737862|00000000||To, co przydarzyło się Priscilli, już wystarczająco go dotknęło.
+2116737864|00000000||Powinienem wrócić do Toussaint i podziękować Margaricie za pomoc.
+2116737866|00000000||Powinienem także wrócić na Skellige, aby uspokoić Yen.
+2116737868|00000000||Nadal nie przetestowaliśmy tego nowego łóżka.
+2116737870|00000000||To daje mi dobry powód, aby wrócić.
+2116737871|00000000||Udaj się do Kaer Morhen, aby uspokoić Triss.
+2116737872|00000000||Udaj się do Kaer Morhen, aby uspokoić Triss.
+2116737873|00000000||Idź do Toussaint, aby podziękować Margaricie.
+2116737892|00000000||Jasnowidzenie Filipy nie jest już takie dokładne, jak dawniej.
+2116737894|00000000||Hm?
+2116737896|00000000||Nieważne.
+2116737898|00000000||Philippa mi to przepowiedziała.
+2116737900|00000000||Co to ma znaczyć?
+2116737902|00000000||Żeby nadeszła moja kolej.
+2116737904|00000000||Czemu zawdzięczam tę nową wizytę?
+2116737906|00000000||Przyszedłem podziękować za pomoc.
+2116737908|00000000||To ja powinienem ci podziękować.
+2116737910|00000000||Zawsze będę ci wdzięczna za uratowanie mnie przed tymi szalonymi łowcami czarownic.
+2116737931|00000000||Pokonaj łowców czarownic.
+2116737933|00000000||Dołącz do Margarity w Świątyni Wiecznego Ognia.
+2116737934|00000000||Odsłoń zawartość księgi.
+2116737935|00000000||Wróć do Margarity.
+2116737937|00000000||Choćmy.
+2116737941|00000000||Nie wiedziałem, że jesteś taka wysportowana.
+2116737943|00000000||Nie wiem, czy powinnam to uznać za komplement.
+2116737945|00000000||Byłbyś zaskoczony.
+2116737947|00000000||Jeśli chcesz, możemy biec szybciej.
+2116737948|00000000||Pomóż Margaricie.
+2116737969|00000000||Co powiesz na wyprawę morską?
+2116737971|00000000||Tam teraz?
+2116737989|00000000||Udaj się na Skellige, aby uspokoić Yennefer.
+2116744902|00000000||Udaj się na Skellige, aby uspokoić Yennefer.
+2116737991|00000000||Ja muszę poczynić pewne przygotowania przed wyprawą.
+2116737993|00000000||Tak, wiem i też bardzo cię pragnę.
+2116737995|00000000||Tak, wiem, ale przykro mi, nie mam na to ochoty.
+2116737997|00000000||Yen już tutaj nie ma.
+2116737999|00000000||Musiała się dowiedzieć, że nam się udało,
+2116738001|00000000||i opuściła Skellige tak jak planowała.
+2116738009|00000000||Chyba jesteś gotowy.
+2116738011|00000000||Pozwolę ci pojść samemu.
+2116738013|00000000||Nie sugeruję, żebyś się tam teleportował, wiem, że tego nie lubisz.
+2116738015|00000000||Spotkajmy się tam, kiedy skończysz z tą perłą.
+2116738023|00000000||Czy udało Ci się znaleźć jedną z tych perełek?
+2116738025|00000000||Oczywiście, inaczej by mnie tu nie było.
+2116738027|00000000||Doskonały.
+2116738029|00000000||Powinienem już zacząć szukać tej perełki.
+2116738031|00000000|| Muszę się przygotować.
+2116738033|00000000||Więc chodźmy.
+2116738035|00000000||Cóż, ja nie.
+2116738037|00000000||Muszę się przygotować.
+2116738039|00000000||Więc chodźmy.
+2116738041|00000000||Wróćcie do mnie bez szwanku.
+2116738043|00000000||Jestem teraz gotowy.
+2116738044|00000000||Idź do Ciri, kiedy będziesz gotowy.
+2116738046|00000000||Widok jest wspaniały, nie sądzisz?
+2116738048|00000000||Yen nie będzie tu na mnie czekać w nocy.
+2116738050|00000000||Brakowało mi Twojego poczucia humoru.
+2116738052|00000000||Kiedy podejdziesz do księgi, odkryjesz jej zawartość.
+2116738054|00000000||Zrób, co ci mówiłam, a potem spotkajmy się za świątynią.
+2116738057|00000000||Co robisz ?
+2116738059|00000000||Co robisz ?
+2116738061|00000000||Podziwiam te piękne płomienie.
+2116738063|00000000||Nic specjalnego. Odejdź.
+2116738065|00000000||Podziwiam te piękne płomienie.
+2116738067|00000000||Nie kpimy bezkarnie z Płomienia Wiecznego Ognia.
+2116738069|00000000||Gwardia!
+2116738071|00000000||Nic specjalnego. Odejdź.
+2116738073|00000000||Zatem bardzo dobrze.
+2116738075|00000000||Czy udało Ci się ujawnić treść książki?
+2116738077|00000000||Jeszcze nie.
+2116738079|00000000||Zacznij od tego, a potem wróć do mnie.
+2116738081|00000000||Wiesz że nie mogę tam pójść.
+2116738083|00000000||Pozostanę tu w ukryciu, czekając na ciebie.
+2116738085|00000000||Yennefer i ja przestudiujemy to.
+2116738087|00000000||Spotkaj się z nią bezpośrednio na Skellige, kiedy będziesz gotowy.
+2116738089|00000000||Do tego czasu z pewnością zdążymy przeanalizować jej zawartość.
+2116738223|00000000||Pokonaj strażników w Świątyni Wiecznego Ognia.
+2116738225|00000000||Ach!
+2116738227|00000000||Tutaj spoczywa Essi.
+2116738229|00000000||Położę perłę na jej grobie.
+2116738231|00000000||Miejmy to już za sobą.
+2116738233|00000000||To działa!
+2116738235|00000000||Zachowaj czujność.
+2116738237|00000000||CO SIĘ DZIEJE…
+2116738239|00000000||Coż wygląda na to, że to ja zadecydowałem o naszym spotkaniu.
+2116738241|00000000||To będzie to ostatnie.
+2116738243|00000000||Widzę, że nie przyszedłeś sam.
+2116738245|00000000||Szkoda...
+2116738247|00000000||Co do niej także miałem plany.
+2116738249|00000000||Ale nie mam innego wyboru niż zabić was oboje.
+2116738251|00000000||Zobaczymy…
+2116738253|00000000||To tylko iluzja.
+2116738255|00000000||Nie poznajesz plaży Bremervoord?
+2116738257|00000000||Jak zachowałam twoją błekitną perłę.
+2116738259|00000000||I ciesz się życiem.
+2116738261|00000000||Ale może moglibyśmy sobie nawzajem podziękować...
+2116738263|00000000||Dobra propozycja.
+2116738265|00000000||Nie mam na to ochoty.
+2116738267|00000000||Propozycja tak pięknej kobiety może być tylko przyjęta.
+2116738269|00000000||Już tego żałuję, ale nie mam ochoty.
+2116738271|00000000||Wolałbym inną odpowiedź, ale rozumiem.
+2116738273|00000000||Był czas, że zgodziłabym się z nieukrywaną przyjemnością.
+2116738275|00000000||Ale wiesz, do kogo należy teraz moje serce.
+2116738277|00000000||Wolałbym inną odpowiedź, ale to twoja sprawa.
+2116738279|00000000||To szczęśliwa dziewczyna.
+2116738299|00000000||Ustawienia zadania
+2116738301|00000000||Chcę grać w tę grę jako kontynuacja mojej gry. [UWAGA: w zależności od decyzji podjętych w przeszłości misja może być bardzo krótka]
+2116738303|00000000||Chcę móc teraz przystąpić do zadania i zdefiniować jego kryteria. [NIE MARTW SIĘ: nie będzie to miało wpływu na Twój zapis]
+2116738305|00000000||Miałem złe zakończenie.
+2116738307|00000000||Miałem dobre zakończenie. [UWAGA: misja będzie bardzo krótka]
+2116738309|00000000||Kocham Yen.
+2116738311|00000000||Kocham Triss.
+2116738313|00000000||Jestem samotnym wilkiem.
+2116738315|00000000||Geralt!
+2116738317|00000000||Przyszła Ciri i poinformowała mnie, że udało Ci się pokonać tego demona i pomścić przyjaciółkę.
+2116738319|00000000||Nie było to łatwe, ale udało się... dzięki Wam.
+2116738321|00000000||Te wydarzenia przypomniały mi, jak ważne jest bycie z osobą, którą kocham.
+2116738323|00000000||Jest nas więc dwóch.
+2116738325|00000000||Naprawdę bałem się, że cię stracę.
+2116738327|00000000||Gdy ponownie zobaczyłem Ciri, przytuliłem ją najmocniej jak mogłem.
+2116738329|00000000||Przypomniało mi to, że życie mamy tylko jedno i musimy je wykorzystać jak najlepiej.
+2116738331|00000000||A czy wiesz, co to znaczy „wykorzystać to jak najlepiej”, kiedy jestem z tobą?
+2116738333|00000000||Tak, wiem, ale przykro mi, nie mam na to ochoty.
+2116738335|00000000||Szkoda... Ale rozumiem.
+2116738337|00000000||Kocham Cię Geralcie.
+2116738339|00000000||Kocham cię Yen.
+2116738341|00000000||Tak, wiem i też bardzo cię pragnę.
+2116738343|00000000||Tak?
+2116738345|00000000||Tak, Geralcie.
+2116738347|00000000||Miałem jedno z dobrych zakończeń.
+2116738349|00000000||Miałem złe zakończenie. [UWAGA: misja będzie bardzo krótka]
+2116738351|00000000||Dziękujemy za zainstalowanie zadania „W hołdzie Essi Daven”. Jak chcesz w to zagrać?
+2116738353|00000000||Jak chcesz rozegrać to zadanie?
+2116738355|00000000||Jaki był twój romans?
+2116738357|00000000||Jak zakończyło się główne zadanie gry?
+2116738359|00000000||Jak zakończyło się DLC Serca z Kamienia?
+2116738361|00000000||Przepraszam, Geralcie. Naprawdę muszę już pakować walizki.
+2116738363|00000000||To boli! Powinienem pozostać w centrum iluzji.
+2116738694|00000000||Podążaj za Jaskrem
+2116738695|00000000||W hołdzie Essi Daven
+2116738901|00000000||Idź do gaju.
+2116739399|00000000||Jeśli szukasz Yen, ona jest już w drodze na Skellige.
+2116739400|00000000||Choć Yennefer była wyraźnie zazdrosna, gdy Geralt wspomniał o Pacynce, Yennefer zgodziła się mu pomóc.<br/>W tym celu powiedziała mu, że potrzebuje błekitnej perły i starożytnej księgi.<br/>
+2116739401|00000000||Dzięki Margarcie, Geraltowi udało się odnaleźć i rozszyfrować starożytną księgę.<br/>
+2116739402|00000000||Uwolniona magia pozwoliła Essi ukazać się Geraltowi w eterycznej formie.<br/>
+2116739403|00000000||Uwolniona magia pozwoliła Essi ukazać się Geraltowi w eterycznej formie.<br/>Geralt zdał sobie wtedy sprawę, że Gaunter prawdopodobnie miał rację i że jego uczucia do Essi były silniejsze, niż myślał.<br/>
+2116739404|00000000||Geralt poszedł podziękować Margaricie za pomoc, a kiedy zaczęła się do niego zbliżać, nie mógł się jej oprzeć.<br/>
+2116739405|00000000||To wszystko uświadomiło Geraltowi, jak ważne jest bycie z ukochaną osobą.<br/>
+2116739406|00000000||Opowiedziałem Geraltowi o losie Essi.<br/>Poruszony Geralt znalazł czas, aby opłakiwać jej grób.<br/>

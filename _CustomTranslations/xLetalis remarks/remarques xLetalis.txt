@@ -1,3 +1,10 @@
+O/
+GRLT_STED_2116732389
+before: Will this ride last much longer?
+after: Will this walk last much longer?
+
+
+
 1/
 During the initial visit of Essi’s grave with Dandelion, Geralt will at one point say “quick quickly” in a sentence. I imagine the intent was to swap the word “quick” with “quickly”, but they’re both still there.
 In fact, what Geralt says is “quite quickly”. But perhaps I should have translated it as “rather quickly” to avoid confusion. In French he says “assez rapidement”.
