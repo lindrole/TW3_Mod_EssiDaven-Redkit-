@@ -1,3 +1,9 @@
+00/
+MGLA_STED_2116738079
+before: As if by doing this...
+after: Start by doing this, then come back to me.
+
+
 O/
 GRLT_STED_2116732389
 before: Will this ride last much longer?
