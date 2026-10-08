@@ -1656,6 +1656,9 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116747267;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
 2116747268;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Go near the sawmill in White Orchard.;;;;
 2116747269;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Wait until your story has progressed.;;;;
+2116747270;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747271;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747272;"CStoryScene ""dlc\dlcsted\data\scenes\sted_06a_yen_toussaint.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116723000;;character_name;;;Sh'eenaz;Sh'eenaz;Шъееназ;شيناز;Sh'eenaz;希恩娜兹;Sh'eenaz;Sh'eenaz;Sh'eenaz;Sh'eenaz;希纳兹;Sh'eenaz;Sh'eenaz;시나즈;Sh'eenaz;シーナズ;Sh'eenaz
 2116723001;;character_name;;;Agloval;Agloval;Агловаль;أغلوفال;Agloval;艾格罗瓦尔;Agloval;Agloval;Agloval;Agloval;阿格洛瓦尔;Agloval;Agloval;아글로발;Agloval;アグロヴァル;Agloval
 2116723002;;character_name;;;Gaunter O'Dimm;Gaunter O'Dimm;Гюнтер о'Дим;Gaunter O'Dimm;Gaunter O'Dimm;刚特·欧迪姆;Gaunter O'Dimm;Gaunter O'Dimm;Gaunter de Meuré;Gaunter O'Dimm;冈特·德·莫雷;Gaunter O'Dimm;Gaunter O'Dimm;군터 드 뫼레;Gaunter O'Dimm;ゴウンター・オーディム;Gaunter O'Dimm
