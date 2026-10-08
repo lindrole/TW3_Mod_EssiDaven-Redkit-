@@ -741,7 +741,7 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116738299;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Line text;GRLT_STED_2116738299;;configurações de missão;nastavení questu;настройки квеста;إعدادات المهمة;görev ayarları;任务设置;ustawienia zadań;impostazioni della missione;paramètres de la quête;Quest-Einstellungen;任务设置;configuración de misión;parameters for the quest;퀘스트 설정;configuración de misión;クエスト設定;küldetés beállításai
 2116746392;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116746393;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
-2116738301;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Choice line;;;Quero jogá-lo como uma extensão do meu jogo. [AVISO: dependendo de suas decisões no passado, a missão pode ser muito curta];Chci to hrát jako rozšíření mé hry. [VAROVÁNÍ: v závislosti na vašich rozhodnutích v minulosti může být quest velmi krátký];Я хочу играть в нее как в продолжение моей игры. [ВНИМАНИЕ: в зависимости от ваших прошлых решений, квест может быть очень коротким];أريد أن ألعبها كامتداد للعبتي. [تحذير: اعتمادًا على قراراتك في الماضي، قد تكون المهمة قصيرة جدًا];Bunu oyunumun bir uzantısı olarak oynamak istiyorum. [UYARI: geçmişteki kararlarınıza bağlı olarak görev çok kısa olabilir];我想把它作为我游戏的延伸。 [警告：根据你过去的决定，任务可能会很短];Chcę grać w tę grę jako rozszerzenie mojej gry. [UWAGA: w zależności od decyzji podjętych w przeszłości misja może być bardzo krótka];Voglio giocarci come un'estensione del mio gioco. [ATTENZIONE: a seconda delle tue decisioni passate, la missione potrebbe essere molto breve];Je veux y jouer dans le prolongement de ma partie. [ATTENTION : suivant vos décisions dans passées, la quête pourrait être très courte];Ich möchte es als Erweiterung meines Spiels spielen. [ACHTUNG: Abhängig von Ihren Entscheidungen in der Vergangenheit könnte die Quest sehr kurz sein];我想把它作为我游戏的延伸。 [警告：根据你过去的决定，任务可能会很短];Quiero jugarlo como una extensión de mi juego. [ADVERTENCIA: dependiendo de tus decisiones en el pasado, la misión podría ser muy corta];I want to play it as a continuation of my game. [decisions made during your playthrough will influence the quest] [WARNING: the quest may be very short];내 게임의 확장으로 플레이하고 싶습니다. [주의: 과거의 결정에 따라 퀘스트가 매우 짧아질 수 있습니다.];Quiero jugarlo como una extensión de mi juego. [ADVERTENCIA: dependiendo de tus decisiones en el pasado, la misión podría ser muy corta];ゲームの延長としてプレイしたいです。 [警告: 過去の決定によっては、クエストが非常に短くなる可能性があります];A játékom kiterjesztéseként szeretnék vele játszani. [FIGYELEM: a múltban hozott döntéseitől függően a küldetés nagyon rövid lehet]
+2116738301;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Choice line;;;Quero jogá-lo como uma extensão do meu jogo. [AVISO: dependendo de suas decisões no passado, a missão pode ser muito curta];Chci to hrát jako rozšíření mé hry. [VAROVÁNÍ: v závislosti na vašich rozhodnutích v minulosti může být quest velmi krátký];Я хочу играть в нее как в продолжение моей игры. [ВНИМАНИЕ: в зависимости от ваших прошлых решений, квест может быть очень коротким];أريد أن ألعبها كامتداد للعبتي. [تحذير: اعتمادًا على قراراتك في الماضي، قد تكون المهمة قصيرة جدًا];Bunu oyunumun bir uzantısı olarak oynamak istiyorum. [UYARI: geçmişteki kararlarınıza bağlı olarak görev çok kısa olabilir];我想把它作为我游戏的延伸。 [警告：根据你过去的决定，任务可能会很短];Chcę grać w tę grę jako rozszerzenie mojej gry. [UWAGA: w zależności od decyzji podjętych w przeszłości misja może być bardzo krótka];Voglio giocarci come un'estensione del mio gioco. [ATTENZIONE: a seconda delle tue decisioni passate, la missione potrebbe essere molto breve];Je veux y jouer dans le prolongement de ma partie. [ATTENTION : suivant vos décisions dans passées, la quête pourrait être très courte];Ich möchte es als Erweiterung meines Spiels spielen. [ACHTUNG: Abhängig von Ihren Entscheidungen in der Vergangenheit könnte die Quest sehr kurz sein];我想把它作为我游戏的延伸。 [警告：根据你过去的决定，任务可能会很短];Quiero jugarlo como una extensión de mi juego. [ADVERTENCIA: dependiendo de tus decisiones en el pasado, la misión podría ser muy corta];I want to play it as a continuation of my game. [WARNING: the quest may be very short] [decisions made during your playthrough will influence the quest, and quest will probably only trigger at a certain point of the story];내 게임의 확장으로 플레이하고 싶습니다. [주의: 과거의 결정에 따라 퀘스트가 매우 짧아질 수 있습니다.];Quiero jugarlo como una extensión de mi juego. [ADVERTENCIA: dependiendo de tus decisiones en el pasado, la misión podría ser muy corta];ゲームの延長としてプレイしたいです。 [警告: 過去の決定によっては、クエストが非常に短くなる可能性があります];A játékom kiterjesztéseként szeretnék vele játszani. [FIGYELEM: a múltban hozott döntéseitől függően a küldetés nagyon rövid lehet]
 2116746394;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116746395;"CStoryScene ""dlc\dlcsted\data\scenes\sted_gp_oneliners_geralt.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116738303;"CStoryScene ""dlc\dlcsted\data\scenes\sted_parameters.w2scene""";Choice line;;;Quero poder jogar a missão agora e definir seus critérios. [NÃO SE PREOCUPE: isso não terá impacto no seu jogo];Chci mít možnost hrát quest hned a definovat jeho kritéria. [NEBOJTE SE: Na vaši hru to nebude mít žádný vliv];Я хочу иметь возможность пройти квест прямо сейчас и определить его критерии. [НЕ БОЙТЕСЬ: это не повлияет на вашу игру];أريد أن أكون قادرًا على لعب المهمة الآن وتحديد معاييرها. [لا تقلق: لن يكون لهذا أي تأثير على لعبتك];Şimdi görevi oynayabilmek ve kriterlerini tanımlayabilmek istiyorum. [ENDİŞELENMEYİN: Bunun oyununuz üzerinde hiçbir etkisi olmayacak];我希望现在就能够玩这个任务，并定义它的标准。 [不用担心：这不会对您的游戏产生影响];Chcę móc teraz przystąpić do zadania i zdefiniować jego kryteria. [NIE MARTW SIĘ: nie będzie to miało wpływu na Twoją grę];Voglio poter affrontare la missione adesso e definirne i criteri. [NON PREOCCUPARTI: questo non avrà alcun impatto sul tuo gioco];Je veux pouvoir jouer la quête dès maintenant, et en définir ses critères. [NE VOUS INQUIÉTEZ PAS : cela n'aura aucun impact sur votre partie];Ich möchte die Quest jetzt spielen und ihre Kriterien definieren können. [KEINE SORGE: Dies wird keine Auswirkungen auf Ihr Spiel haben];我希望现在就能够玩这个任务，并定义它的标准。 [不用担心：这不会对您的游戏产生影响];Quiero poder jugar la misión ahora y definir sus criterios. [NO TE PREOCUPES: Esto no tendrá ningún impacto en tu juego];I want to be able to play the quest now, and set its trigger criteria. [DON'T WORRY: this will have no impact on your playthrough];지금 퀘스트를 플레이하고 기준을 정의할 수 있기를 원합니다. [걱정하지 마세요: 게임에 아무런 영향을 미치지 않습니다.];Quiero poder jugar la misión ahora y definir sus criterios. [NO TE PREOCUPES: Esto no tendrá ningún impacto en tu juego];今すぐクエストをプレイして、その基準を定義できるようにしたいと考えています。 [心配しないでください: これはゲームには影響しません];Szeretnék most játszani a küldetéssel, és meghatározni a kritériumait. [NE Aggódjon: ez nem lesz hatással a játékodra]
@@ -1590,6 +1590,72 @@ ID;RESOURCE;PROPERTY;VOICEOVER;KEY;BR;CZ;RU;AR;TR;CN;PL;IT;FR;DE;ZH;ESMX;EN;KR;E
 2116747201;"CStoryScene ""dlc\dlcsted\data\scenes\sted_03e_ask_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
 2116747202;"CStoryScene ""dlc\dlcsted\data\scenes\sted_03e_ask_triss.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
 2116747203;"CStoryScene ""dlc\dlcsted\data\scenes\sted_03e_ask_triss.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116747204;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747205;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747206;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08a_final_mirror.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747207;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747208;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747209;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747210;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747211;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747212;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747213;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747214;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747215;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747216;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747217;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08b_final_ciri.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747218;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747219;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747220;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747221;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747222;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747223;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747224;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747225;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747226;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747227;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747228;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747229;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747230;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747231;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747232;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747233;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747234;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747235;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747236;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747237;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747238;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747239;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747240;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747241;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747242;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747243;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747244;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747245;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747246;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747247;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747248;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116747249;"CStoryScene ""dlc\dlcsted\data\scenes\sted_05a_ask_sheenaz.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116747250;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747251;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747252;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747253;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747254;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747255;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747256;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747257;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747258;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747259;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747260;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747261;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747262;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747263;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747264;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747265;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Line comment;;;;;;;;;;;;;;;;;;;
+2116747266;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116747267;"CStoryScene ""dlc\dlcsted\data\scenes\sted_08c_final_triss.w2scene""";Choice line comment;;;;;;;;;;;;;;;;;;;
+2116747268;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Go near the sawmill in White Orchard.;;;;
+2116747269;"CJournalResource ""dlc\dlcsted\journal\quests\asmalltributetoessidaven.journal""";Journal;;;;;;;;;;;;;;;Wait until your story has progressed.;;;;
 2116723000;;character_name;;;Sh'eenaz;Sh'eenaz;Шъееназ;شيناز;Sh'eenaz;希恩娜兹;Sh'eenaz;Sh'eenaz;Sh'eenaz;Sh'eenaz;希纳兹;Sh'eenaz;Sh'eenaz;시나즈;Sh'eenaz;シーナズ;Sh'eenaz
 2116723001;;character_name;;;Agloval;Agloval;Агловаль;أغلوفال;Agloval;艾格罗瓦尔;Agloval;Agloval;Agloval;Agloval;阿格洛瓦尔;Agloval;Agloval;아글로발;Agloval;アグロヴァル;Agloval
 2116723002;;character_name;;;Gaunter O'Dimm;Gaunter O'Dimm;Гюнтер о'Дим;Gaunter O'Dimm;Gaunter O'Dimm;刚特·欧迪姆;Gaunter O'Dimm;Gaunter O'Dimm;Gaunter de Meuré;Gaunter O'Dimm;冈特·德·莫雷;Gaunter O'Dimm;Gaunter O'Dimm;군터 드 뫼레;Gaunter O'Dimm;ゴウンター・オーディム;Gaunter O'Dimm
